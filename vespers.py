@@ -3,6 +3,8 @@
 #      Glory to God in the Highest        #
 ###########################################
 from fpdf import FPDF
+from datetime import date
+
 # Page design elements
 class PDF(FPDF):
     def header(self):
@@ -31,6 +33,25 @@ class PDF(FPDF):
         self.set_text_color(128,0,0)
         self.cell(0,7,label,0,1,'C')
         self.ln(4)
+
+# Get the tone of the week
+def getWeeklyTone() :
+    ### Get date of last Pascha
+    current = date(2022,int(menea.split('.')[0]),int(menea.split('.')[1]))
+    pascha = current
+    with open('Books/paschalia.txt','rb') as file :
+        while True :
+            line = file.readline().decode('utf8')
+            if not line :
+                break
+            readnumbers = line.rstrip('\n').split('.')
+            readdate = date(int(readnumbers[0]),int(readnumbers[1]),int(readnumbers[2]))
+            diff = (current-readdate).days
+            if diff >= 0 : pascha = diff
+    weeks = (pascha//7)-1
+    todaystone = (weeks%8)+1
+    if weeks < 1 : todaystone = 1
+    return todaystone
 
 # Read a text section from a file
 def readSection(fname,sname):
@@ -71,7 +92,7 @@ def printSection(sttl,section,tn=0) :
 
 # Compile 'Lord I call'
 def printLordICall() :
-    tone = 1
+    tone = getWeeklyTone()
     verses = ['','','','','','','','','','','','']
     pre = ['10. Vezesd ki a tömlöcből az én lelkemet, hogy magasztaljam a Te nevedet.',
     '9. Körülvesznek engem az igazak, amikor majd jót teszel velem.',
@@ -84,7 +105,7 @@ def printLordICall() :
     '2. Dicsérjétek az Urat minden nemzetek, magasztaljátok Őt minden népek.',
     '1. Mert nagy volt az Ő irgalma mirajtunk, és az Ő igazsága mindörökké megmarad.',
     'Dicsőség az Atyának és Fiúnak és Szent Léleknek.',
-    'Most és mindenkor és mindörökön örökké. Ámin.']
+    'Most és mindenkor és mindörökkön örökké. Ámin.']
     ### Print intro
     printSection('Uram Tehozzád kiáltottam','Lord I Call',tone)
     ### Read verses from Octoechos
@@ -119,7 +140,7 @@ def printLordICall() :
                 if '[M]' in line : verses[11] = line[3:]
                 if '[D]' not in line and '[M]' not in line :
                     mvers.append(line)
-            if '['+date+']' in line : okay = True
+            if '['+menea+']' in line : okay = True
     m = 10-len(mvers)
     n = 0
     while m < 10 :
@@ -154,7 +175,8 @@ def printLordICall() :
 ### MAIN LOOP ###
 pdf = PDF(orientation='P', unit='mm', format='A5')
 stitle = 'Vecsernye'
-date = '02.03'
+menea = '02.03'
+print(getWeeklyTone())
 pdf.add_font('Gothic','','Fonts/PfefferSimpelgotisch-SemiBold.ttf',True)
 pdf.add_font('IMFell','','Fonts/IMFeENrm29P.ttf',True)
 #pdf.set_title(title)
@@ -167,4 +189,4 @@ printSection('Békességes ekténia','Litany of Peace')
 printSection('Boldog az a férfiú','Blessed Is the Man')
 printLordICall()
 printSection('Derűs világossága','Joyful Light')
-pdf.output('Builds/vespers_'+date.replace('.','')+'.pdf')
+pdf.output('Builds/vespers_'+menea.replace('.','')+'.pdf')
