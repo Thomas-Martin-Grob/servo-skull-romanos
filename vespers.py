@@ -10,15 +10,15 @@ class PDF(FPDF):
     def header(self):
         self.set_font('IMFell','',10)
         w = self.get_string_width(stitle) + 6
-        self.set_x((150 - w) / 2)
+        #self.set_x((150 - w) / 2)
         # Colors of frame, background and text
-        self.set_draw_color(0, 80, 180)
-        self.set_fill_color(230, 230, 0)
-        self.set_text_color(220, 50, 50)
+        #self.set_draw_color(0, 80, 180)
+        #self.set_fill_color(230, 230, 0)
+        self.set_text_color(0,0,0)
         # Thickness of frame (1 mm)
-        self.set_line_width(1)
+        #self.set_line_width(1)
         # Title
-        self.cell(w,9,stitle,1,1,'C',1)
+        self.cell(w,9,stitle,0,0,'C')
         # Line break
         self.ln(10)
 
@@ -172,11 +172,163 @@ def printLordICall() :
         n += 1
     return
 
+# Compile Aposticha
+def printAposticha() :
+    pdf.chapter_title('Aposzticha')
+    pdf.set_font('IMFell','',12)
+    pdf.set_text_color(0,0,0)
+    tone = getWeeklyTone()
+    verses = ['','','','','','','']
+    post = ['','','','','Dicsőség az Atyának és Fiúnak és Szent Léleknek.','Most és mindenkor és mindörökkön örökké. Ámin.','']
+    ### Read verses from Octoechos
+    okay = False
+    n = 0
+    with open('Books/apo_octoechos.txt','rb') as file :
+        while True :
+            line = file.readline().decode('utf8')
+            if not line :
+                break
+            if okay == True and '[/]' in line :
+                break
+            if okay == True :
+                if '[D]' in line : verses[5] = line[3:]
+                if '[M]' in line : verses[6] = line[3:]
+                if '[E]' in line :
+                    post[n] = line[4:]
+                if '[D]' not in line and '[M]' not in line and not '[E]' in line :
+                    verses[n] = line
+                if '[D]' not in line and '[M]' not in line : n += 1
+            if '[Tone '+str(tone)+']' in line : okay = True
+    ### Read verses from Menaion
+    okay = False
+    n = 0
+    with open('Books/apo_menea.txt','rb') as file :
+        while True :
+            line = file.readline().decode('utf8')
+            if not line :
+                break
+            if okay == True and '[/]' in line :
+                break
+            if okay == True :
+                if '[D]' in line : verses[5] = line[3:]
+                if '[M]' in line : verses[6] = line[3:]
+                # Forget Octoechos verses if there are verses in Menaion
+                #if '[T' in line :
+                #    verses = ['','','','','','','']
+                #    post = ['','','','','Dicsőség az Atyának és Fiúnak és Szent Léleknek.','Most és mindenkor és mindörökkön örökké. Ámin.','']
+                if '[E]' in line :
+                    post[n] = line[4:]
+                if '[D]' not in line and '[M]' not in line and not '[E]' in line :
+                    verses[n] = line
+                if '[D]' not in line and '[M]' not in line : n += 1
+            if '['+menea+']' in line : okay = True
+    n = 0
+    oldtone = tone
+    while n < len(verses) :
+        print('Verse: '+verses[n])
+        print('Post: '+post[n])
+        if '[T' in verses[n] :
+            oldtone = tone
+            tone = int(verses[n][2])
+            verses[n] = verses[n][4:]
+        if oldtone == tone :
+            txt = verses[n]
+            if len(post[n]) > 3 : txt += '\n\n'+post[n]
+            if len(txt) > 3 :
+                pdf.multi_cell(0,6,txt)
+                pdf.ln()
+        if oldtone != tone :
+            pdf.set_text_color(128,0,0)
+            pdf.multi_cell(0,6,'('+str(tone)+'. hang)')
+            pdf.set_text_color(0,0,0)
+            txt = verses[n]
+            if len(post[n]) > 3 : txt += '\n\n'+post[n]
+            if len(txt) > 3 :
+                pdf.multi_cell(0,6,txt)
+                pdf.ln()
+            oldtone = tone
+        n += 1
+    return
+
+# Compil troparia and theotokion
+def printTroparion() :
+    pdf.chapter_title('Tropárionok')
+    pdf.set_font('IMFell','',12)
+    pdf.set_text_color(0,0,0)
+    tone = getWeeklyTone()
+    ### Read troparion from Octoechos
+    okay = False
+    with open('Books/trp_octoechos.txt','rb') as file :
+        while True :
+            line = file.readline().decode('utf8')
+            if not line :
+                break
+            if okay == True and '[/]' in line :
+                break
+            if okay == True :
+                tone = line[2]
+                txt = line[4:]
+                pdf.set_text_color(128,0,0)
+                pdf.multi_cell(0,6,'('+str(tone)+'. hang)')
+                pdf.set_text_color(0,0,0)
+                pdf.multi_cell(0,6,txt)
+                pdf.ln()
+            if '[Tone '+str(tone)+']' in line : okay = True
+    ### Read troparion from Menaion
+    okay = False
+    with open('Books/trp_menea.txt','rb') as file :
+        while True :
+            line = file.readline().decode('utf8')
+            if not line :
+                break
+            if okay == True and '[/]' in line :
+                break
+            if okay == True :
+                tone = line[2]
+                txt = line[4:]
+                pdf.set_text_color(128,0,0)
+                pdf.multi_cell(0,6,'('+str(tone)+'. hang)')
+                pdf.set_text_color(0,0,0)
+                pdf.multi_cell(0,6,txt)
+                pdf.ln()
+            if '['+menea+']' in line : okay = True
+    ### Read troparion of the church
+    okay = False
+    with open('Books/trp_church.txt','rb') as file :
+        line = file.readline().decode('utf8')
+        tone = line[2]
+        txt = line[4:]
+        pdf.set_text_color(0,0,0)
+        pdf.multi_cell(0,6,'Dicsőség az Atyának és Fiúnak és Szent Léleknek.')
+        pdf.set_text_color(128,0,0)
+        pdf.multi_cell(0,6,'('+str(tone)+'. hang)')
+        pdf.set_text_color(0,0,0)
+        pdf.multi_cell(0,6,txt+'\n\nMost és mindenkor és mindörökkön örökké. Ámin.')
+        pdf.ln()
+    ### Read theotokion from Octoechos
+    okay = False
+    with open('Books/tht_octoechos.txt','rb') as file :
+        while True :
+            line = file.readline().decode('utf8')
+            if not line :
+                break
+            if okay == True and '[/]' in line :
+                break
+            if okay == True :
+                tone = line[2]
+                txt = line[4:]
+                pdf.set_text_color(128,0,0)
+                pdf.multi_cell(0,6,'('+str(tone)+'. hang)')
+                pdf.set_text_color(0,0,0)
+                pdf.multi_cell(0,6,txt)
+                pdf.ln()
+            if '[Tone '+str(tone)+']' in line : okay = True
+    return
+
 ### MAIN LOOP ###
 pdf = PDF(orientation='P', unit='mm', format='A5')
 stitle = 'Vecsernye'
-menea = '02.03'
-print(getWeeklyTone())
+menea = '02.06'
 pdf.add_font('Gothic','','Fonts/PfefferSimpelgotisch-SemiBold.ttf',True)
 pdf.add_font('IMFell','','Fonts/IMFeENrm29P.ttf',True)
 #pdf.set_title(title)
@@ -187,6 +339,16 @@ printSection('Bevezetés','Intro')
 printSection('103. zsoltár','Psalm 103')
 printSection('Békességes ekténia','Litany of Peace')
 printSection('Boldog az a férfiú','Blessed Is the Man')
+printSection('Kis ekténia','Little Litany')
 printLordICall()
 printSection('Derűs világossága','Joyful Light')
+printSection('Prokimen','Prokeimenon')
+printSection('Háromszoros ekténia','Triple Litany')
+printSection('Add Urunk','Vouchsafe O Lord')
+printSection('Kérő ekténia','Litany of Supplication')
+printAposticha()
+printSection('Most bocsásd el','Now Lettest')
+printSection('Triszágion','Trisagion')
+printTroparion()
+printSection('Elbocsátás','Dismissal')
 pdf.output('Builds/vespers_'+menea.replace('.','')+'.pdf')
