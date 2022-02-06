@@ -8,23 +8,18 @@ from datetime import date
 # Page design elements
 class PDF(FPDF):
     def header(self):
-        self.set_font('IMFell','',10)
-        w = self.get_string_width(stitle) + 6
-        #self.set_x((150 - w) / 2)
-        # Colors of frame, background and text
-        #self.set_draw_color(0, 80, 180)
-        #self.set_fill_color(230, 230, 0)
+        self.image('frame.jpg',0,0,148)
+        self.set_margins(20,30,20)
+        self.set_y(1.5)
+        self.set_font('IMFell','',9)
         self.set_text_color(0,0,0)
-        # Thickness of frame (1 mm)
-        #self.set_line_width(1)
-        # Title
-        self.cell(w,9,stitle,0,0,'C')
-        # Line break
-        self.ln(10)
+        self.cell(0,10,stitle,0,0,'C')
+        self.set_y(20)
+        #self.ln()
 
     def footer(self):
-        self.set_y(-15)
-        self.set_font('IMFell','',10)
+        self.set_y(-12)
+        self.set_font('IMFell','',9)
         self.set_text_color(0,0,0)
         self.cell(0,10,str(self.page_no()),0,0,'C')
 
