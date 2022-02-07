@@ -221,10 +221,6 @@ def printAposticha() :
             if okay == True :
                 if '[D]' in line : verses[5] = line[3:]
                 if '[M]' in line : verses[6] = line[3:]
-                # Forget Octoechos verses if there are verses in Menaion
-                #if '[T' in line :
-                #    verses = ['','','','','','','']
-                #    post = ['','','','','Dicsőség az Atyának és Fiúnak és Szent Léleknek.','Most és mindenkor és mindörökkön örökké. Ámin.','']
                 if '[E]' in line :
                     post[n] = line[3:]
                     n += 1
@@ -234,8 +230,8 @@ def printAposticha() :
     n = 0
     oldtone = tone
     while n < len(verses) :
-        print('Verse: '+verses[n])
-        print('Post: '+post[n])
+        #print('Verse: '+verses[n])
+        #print('Post: '+post[n])
         if '[T' in verses[n] :
             oldtone = tone
             tone = int(verses[n][2])
@@ -346,18 +342,18 @@ pdf.set_author('Servo Skull Romanos')
 pdf.add_page()
 printSection('Bevezetés','Intro')
 printSection('103. zsoltár','Psalm 103')
-printSection('Békességes ekténia','Litany of Peace')
+printSection('Békességes könyörgés','Litany of Peace')
 printSection('Boldog az a férfiú','Blessed Is the Man')
-printSection('Kis ekténia','Little Litany')
+printSection('Kis könyörgés','Little Litany')
 printLordICall()
 printSection('Derűs világossága','Joyful Light')
 printSection('Prokimen','Prokeimenon')
-printSection('Háromszoros ekténia','Triple Litany')
+printSection('Állhatatos könyörgés','Triple Litany')
 printSection('Add Urunk','Vouchsafe O Lord')
-printSection('Kérő ekténia','Litany of Supplication')
+printSection('Kérő könyörgés','Litany of Supplication')
 printAposticha()
 printSection('Most bocsásd el','Now Lettest')
-printSection('Triszágion','Trisagion')
+printSection('Háromszorszent','Trisagion')
 printTroparion()
 printSection('Elbocsátás','Dismissal')
 pdf.output('Builds/vespers_'+menea.replace('.','')+'.pdf')
