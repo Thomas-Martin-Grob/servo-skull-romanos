@@ -189,11 +189,25 @@ def printAposticha() :
                 if '[D]' in line : verses[5] = line[3:]
                 if '[M]' in line : verses[6] = line[3:]
                 if '[E]' in line :
-                    post[n] = line[4:]
+                    post[n] = line[3:]
+                    n += 1
                 if '[D]' not in line and '[M]' not in line and not '[E]' in line :
                     verses[n] = line
-                if '[D]' not in line and '[M]' not in line : n += 1
             if '[Tone '+str(tone)+']' in line : okay = True
+    ### Reset verses if there is a full aposticha in Menaion
+    okay = False
+    with open('Books/apo_menea.txt','rb') as file :
+        while True :
+            line = file.readline().decode('utf8')
+            if not line :
+                break
+            if okay == True and '[/]' in line :
+                break
+            if okay == True and '[T' in line[0:2] :
+                verses = ['','','','','','','']
+                post = ['','','','','Dicsőség az Atyának és Fiúnak és Szent Léleknek.','Most és mindenkor és mindörökkön örökké. Ámin.','']
+                break
+            if '['+menea+']' in line : okay = True
     ### Read verses from Menaion
     okay = False
     n = 0
@@ -212,10 +226,10 @@ def printAposticha() :
                 #    verses = ['','','','','','','']
                 #    post = ['','','','','Dicsőség az Atyának és Fiúnak és Szent Léleknek.','Most és mindenkor és mindörökkön örökké. Ámin.','']
                 if '[E]' in line :
-                    post[n] = line[4:]
+                    post[n] = line[3:]
+                    n += 1
                 if '[D]' not in line and '[M]' not in line and not '[E]' in line :
                     verses[n] = line
-                if '[D]' not in line and '[M]' not in line : n += 1
             if '['+menea+']' in line : okay = True
     n = 0
     oldtone = tone
@@ -228,7 +242,7 @@ def printAposticha() :
             verses[n] = verses[n][4:]
         if oldtone == tone :
             txt = verses[n]
-            if len(post[n]) > 3 : txt += '\n\n'+post[n]
+            if len(post[n]) > 3 : txt += '\n'+post[n]
             if len(txt) > 3 :
                 pdf.multi_cell(0,6,txt)
                 pdf.ln()
