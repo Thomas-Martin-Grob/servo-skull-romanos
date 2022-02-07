@@ -311,6 +311,7 @@ def printTroparion() :
         pdf.multi_cell(0,6,txt+'\n\nMost és mindenkor és mindörökkön örökké. Ámin.')
         pdf.ln()
     ### Read theotokion from Octoechos
+    tone = getWeeklyTone()
     okay = False
     with open('Books/tht_octoechos.txt','rb') as file :
         while True :
