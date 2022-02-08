@@ -43,10 +43,46 @@ def getWeeklyTone() :
             readdate = date(int(readnumbers[0]),int(readnumbers[1]),int(readnumbers[2]))
             diff = (current-readdate).days
             if diff >= 0 : pascha = diff
+    ### Calculate tone
     weeks = (pascha//7)-1
     todaystone = (weeks%8)+1
     if weeks < 1 : todaystone = 1
     return todaystone
+
+# Get the name of a nominal day, if there is any
+def getNominal() :
+    ### Dictionary of nominal days
+    sunday = {-70:'Publican and Pharisee',
+              -63:'Prodigal Son',
+              -56:'Meatfare',
+              -49:'Cheesefare',
+              -42:'Orthodoxy',
+              -35:'Saint Gregory Palamas',
+              -28:'Holy Cross',
+              -21:'Saint John Climacus',
+              -14:'Saint Mary of Egypt',
+              -7:'Palm Sunday',
+              0:'Pascha',
+              7:'Thomas'
+              }
+    ### Get dates of previous and next Pascha
+    current = date(2022,int(menea.split('.')[0]),int(menea.split('.')[1]))
+    lastp = -10
+    nextp = -356
+    with open('Books/paschalia.txt','rb') as file :
+        while True :
+            line = file.readline().decode('utf8')
+            if not line :
+                break
+            readnumbers = line.rstrip('\n').split('.')
+            readdate = date(int(readnumbers[0]),int(readnumbers[1]),int(readnumbers[2]))
+            diff = (current-readdate).days
+            if diff >= 0 : lastp = diff
+            if diff < 0 and diff > nextp : nextp = diff
+    nom = ''
+    if lastp in sunday : nom = sunday[lastp]
+    if nextp in sunday : nom = sunday[nextp]
+    return nom
 
 # Read a text section from a file
 def readSection(fname,sname):
@@ -87,7 +123,7 @@ def printSection(sttl,section,tn=0) :
 
 # Compile 'Lord I call'
 def printLordICall() :
-    tone = getWeeklyTone()
+    tone = weekly
     verses = ['','','','','','','','','','','','']
     pre = ['10. Vezesd ki a tömlöcből az én lelkemet, hogy magasztaljam a Te nevedet.',
     '9. Körülvesznek engem az igazak, amikor majd jót teszel velem.',
@@ -136,6 +172,27 @@ def printLordICall() :
                 if '[D]' not in line and '[M]' not in line :
                     mvers.append(line)
             if '['+menea+']' in line : okay = True
+    ### Read verses from Triodion
+    okay = False
+    tvers = []
+    with open('Books/lic_triodion.txt','rb') as file :
+        while True :
+            line = file.readline().decode('utf8')
+            if not line :
+                break
+            if okay == True and '[/]' in line :
+                break
+            if okay == True :
+                if '[D]' in line : verses[10] = line[3:]
+                if '[M]' in line : verses[11] = line[3:]
+                if '[D]' not in line and '[M]' not in line :
+                    tvers.append(line)
+            if '['+nomen+']' in line : okay = True
+    ### Combine verses
+    m = len(mvers)
+    t = len(tvers)
+    if m+t > 10 : mvers = mvers[0:(10-t)]
+    mvers += tvers
     m = 10-len(mvers)
     n = 0
     while m < 10 :
@@ -144,6 +201,7 @@ def printLordICall() :
         m += 1
     ### Print the compiled verses
     n = 0
+    tone = weekly
     oldtone = tone
     while n < len(verses) :
         if '[T' in verses[n] :
@@ -172,7 +230,7 @@ def printAposticha() :
     pdf.chapter_title('Aposzticha')
     pdf.set_font('IMFell','',12)
     pdf.set_text_color(0,0,0)
-    tone = getWeeklyTone()
+    tone = weekly
     verses = ['','','','','','','']
     post = ['','','','','Dicsőség az Atyának és Fiúnak és Szent Léleknek.','Most és mindenkor és mindörökkön örökké. Ámin.','']
     ### Read verses from Octoechos
@@ -227,8 +285,43 @@ def printAposticha() :
                 if '[D]' not in line and '[M]' not in line and not '[E]' in line :
                     verses[n] = line
             if '['+menea+']' in line : okay = True
+    ### Reset verses if there is a full aposticha in Triodion
+    okay = False
+    with open('Books/apo_triodion.txt','rb') as file :
+        while True :
+            line = file.readline().decode('utf8')
+            if not line :
+                break
+            if okay == True and '[/]' in line :
+                break
+            if okay == True and '[T' in line[0:2] :
+                verses = ['','','','','','','']
+                post = ['','','','','Dicsőség az Atyának és Fiúnak és Szent Léleknek.','Most és mindenkor és mindörökkön örökké. Ámin.','']
+                break
+            if '['+nomen+']' in line : okay = True
+    ### Read verses from Triodion
+    okay = False
     n = 0
-    oldtone = tone
+    with open('Books/apo_triodion.txt','rb') as file :
+        while True :
+            line = file.readline().decode('utf8')
+            if not line :
+                break
+            if okay == True and '[/]' in line :
+                break
+            if okay == True :
+                if '[D]' in line : verses[5] = line[3:]
+                if '[M]' in line : verses[6] = line[3:]
+                if '[E]' in line :
+                    post[n] = line[3:]
+                    n += 1
+                if '[D]' not in line and '[M]' not in line and not '[E]' in line :
+                    verses[n] = line
+            if '['+nomen+']' in line : okay = True
+    ### Compile verses
+    n = 0
+    oldtone = 0
+    tone = 0
     while n < len(verses) :
         #print('Verse: '+verses[n])
         #print('Post: '+post[n])
@@ -255,12 +348,12 @@ def printAposticha() :
         n += 1
     return
 
-# Compil troparia and theotokion
+# Compile troparia and theotokion
 def printTroparion() :
     pdf.chapter_title('Tropárionok')
     pdf.set_font('IMFell','',12)
     pdf.set_text_color(0,0,0)
-    tone = getWeeklyTone()
+    tone = weekly
     ### Read troparion from Octoechos
     okay = False
     with open('Books/trp_octoechos.txt','rb') as file :
@@ -311,7 +404,7 @@ def printTroparion() :
         pdf.multi_cell(0,6,txt+'\n\nMost és mindenkor és mindörökkön örökké. Ámin.')
         pdf.ln()
     ### Read theotokion from Octoechos
-    tone = getWeeklyTone()
+    tone = weekly
     okay = False
     with open('Books/tht_octoechos.txt','rb') as file :
         while True :
@@ -333,8 +426,11 @@ def printTroparion() :
 
 ### MAIN LOOP ###
 pdf = PDF(orientation='P', unit='mm', format='A5')
-stitle = 'Vecsernye'
-menea = '02.06'
+menea = '02.13'
+weekly = getWeeklyTone()
+nomen = getNominal()
+if nomen != '' : stitle = 'Vecsernye - '+nomen
+if nomen == '' : stitle = 'Vecsernye - '+menea
 pdf.add_font('Gothic','','Fonts/PfefferSimpelgotisch-SemiBold.ttf',True)
 pdf.add_font('IMFell','','Fonts/IMFeENrm29P.ttf',True)
 #pdf.set_title(title)
