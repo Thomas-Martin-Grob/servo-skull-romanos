@@ -1,0 +1,20 @@
+[Publican and Pharisee]Vámos és farizeus vasárnapja
+[Prodigal Son]Tékozló fiú vasárnapja
+[Meatfare]Húshagyó vasárnap
+[Cheesefare]Sajthagyó vasárnap
+[Orthodoxy]Orthodoxia vasárnapja
+[Saint Gregory Palamas]Palamasz Szt. Gergely vasárnapja
+[Holy Cross]Kereszthódolás vasárnapja
+[Saint John Climacus]Létrás Szt. János vasárnapja
+[Saint Mary of Egypt]Egyiptomi Szt. Mária vasárnapja
+[Palm Sunday]Virágvasárnap
+[Thomas]Tamás vasárnapja
+[01.01]Nagy Szt. Vazul, az Úr körülmetélése
+[01.06]Vízkereszt
+[02.02]Az Úr bevitele a templomba
+[03.25]Örömhírvétel
+[08.06]Az Úr megdicsőülése
+[09.14]A Szent Kereszt felmagasztalása
+[12.06]Szt. Miklós
+[12.24]Karácsony előünnepe
+[12.25]Karácsony

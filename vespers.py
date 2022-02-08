@@ -84,6 +84,22 @@ def getNominal() :
     if nextp in sunday : nom = sunday[nextp]
     return nom
 
+def getDayName() :
+    okay = False
+    dname = ''
+    with open('Books/calendar.txt','rb') as file :
+        while True :
+            line = file.readline().decode('utf8')
+            if not line :
+                break
+            if '['+nomen+']' in line :
+                dname = line.lstrip('['+nomen+']').rstrip('\n')
+                break
+            if '['+menea+']' in line :
+                dname = line.lstrip('['+menea+']').rstrip('\n')
+                break
+    return dname
+
 # Read a text section from a file
 def readSection(fname,sname):
     txt = ''
@@ -429,8 +445,9 @@ pdf = PDF(orientation='P', unit='mm', format='A5')
 menea = '02.13'
 weekly = getWeeklyTone()
 nomen = getNominal()
-if nomen != '' : stitle = 'Vecsernye - '+nomen
-if nomen == '' : stitle = 'Vecsernye - '+menea
+dayname = getDayName()
+if dayname != '' : stitle = 'Vecsernye - '+dayname
+if dayname == '' : stitle = 'Vecsernye - '+menea
 pdf.add_font('Gothic','','Fonts/PfefferSimpelgotisch-SemiBold.ttf',True)
 pdf.add_font('IMFell','','Fonts/IMFeENrm29P.ttf',True)
 #pdf.set_title(title)
