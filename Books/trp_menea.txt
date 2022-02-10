@@ -24,3 +24,36 @@
 [T4]Az igazi hadi tudomány birtokában, ó hős, * a mennyei Királynak lettél kitűnő hadvezére, * mert te, Tivadar, a hit fegyvereivel bölcsen harcoltál, * és a démonok seregein diadalmaskodván, * győzelmes bajnokként tűntél fel. * Azért híven állandóan boldognak hirdetünk téged.
 [T2]Prófétádnak emlékét ünnepelvén, Urunk, * őáltala esedezünk hozzád, * üdvözítsd a mi lelkünket.
 [/]
+[02.09]
+[T4]A te szent vértanúd, Urunk, * az ő szenvedéseiért hervadhatatlan koszorút nyert tőled, Krisztus Istenünk, * mert a te erődet bírván * kínzóit megszégyenítette, * és az ördögök tehetetlen vakm erőségét megtörte. * Az ő imádságai által * üdvözítsd, jóságos a mi lelkünket!
+[/]
+[02.10]
+[T4]A te szent vértanúd, Urunk, * az ő szenvedéseiért hervadhatatlan koszorút nyert tőled, Krisztus Istenünk, * mert a te erődet bírván * kínzóit megszégyenítette, * és az ördögök tehetetlen vakm erőségét megtörte. * Az ő imádságai által * üdvözítsd, jóságos a mi lelkünket!
+[/]
+[02.11]
+[T4]Erényekben társa, * a püspöki trónon helyettese lévén az apostoloknak, * isteni ihletésű, jótettekkel a szemlélődéshez jutottál el, * ennek folytán az igazság igéit hirdetvén, * utolsó csepp véredig küzdöttél a hitért, * Szent Balázs fölszentelt vértanú, * imádd Krisztus Istent, * hogy üdvözítse a mi lelkünket!
+[/]
+[02.12]
+[T4]A hit szabályának és a szelídség mintaképének, * a mértékletesség tanítójának * mutatott fel téged a te nyájad előtt a dolgok igazsága. * Azért alázatodban elérted a magasságot, * szegénységedben a gazdagságot. * Meletiosz főpap atyánk esedezz Krisztus Istenhez, * hogy üdvözítse a mi lelkünket.
+[/]
+[02.13]
+[T8]A kísértések lángját könnyeid hullatásával kioltottad, * és a tenger háborgását és szörnyetegeit lecsillapítván, ó boldog, * így kiáltottál föl: * Dicsőített vagy, Nagyhatalmú, aki engem a tűzből * és a viharból kimentettél!
+[/]
+[02.14]
+[T1]Pusztaságban élő remete * és testben angyal voltál és csodákat műveltél, Auxentiosz atyánk! * Böjttel, virrasztással és imádsággal mennyei ajándékokat érdemeltél magadnak, * a hittel hozzád folyamodók testi és lelki betegségének sikeres orvoslója voltál. * Azért dicsőség legyen Istennek, * ki neked kegyelmet adott, * dicsőség, hogy téged megkoronázott, * dicsőség, hogy általad betegeket gyógyított!
+[/]
+[02.15]
+[T4]Szent Onezimosz apostol, imádd a kegyelmes Istent, * hogy ajándékozzon bűnbocsánatot a mi lelkünknek!
+[/]
+[02.16]
+[T4]A te szent vértanúd, Urunk, * az ő szenvedéseiért hervadhatatlan koszorút nyert tőled, Krisztus Istenünk, * mert a te erődet bírván * kínzóit megszégyenítette, * és az ördögök tehetetlen vakm erőségét megtörte. * Az ő imádságai által * üdvözítsd, jóságos a mi lelkünket!
+[/]
+[02.17]
+[T2]Mily nagy példaképe a hitnek! * A lángtengerben mint hűsítő vízben pihent * és örült Szent Tivadar vértanú, * ki mint édes kenyér, égő áldozatul mutatja be magát a Szentháromságnak. * Az ő könyörgéseiért, Krisztus Istenünk, üdvözítsd a mi lelkünket!
+[/]
+[02.18]
+[T8]Az igaz hitnek oktatója, * a vallásosság és a tisztaság tanítómestere, * a mindenség világítója, az igazhitűek isteni ihletésű dicsérete, * ki tanításoddal, mint a Szentlélek hárfája, mindenkit megvilágosítottál, * bölcs Leó, kérjed Krisztus Istent, hogy üdvözítse a mi lelkünket!
+[/]
+[02.19]
+[T4]Szent Archipposz apostol, imádd a kegyelmes Istent, * hogy ajándékozzon bűnbocsánatot a mi lelkünknek!
+[/]
