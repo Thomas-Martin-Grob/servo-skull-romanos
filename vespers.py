@@ -24,6 +24,12 @@ class PDF(FPDF):
         self.cell(0,10,str(self.page_no()),0,0,'C')
 
     def chapter_title(self,label):
+        h = 4
+        # Break page if chapter title would be at the bottom
+        ypos = self.get_y()
+        if ypos > 150 :
+            h = 185-ypos
+            self.ln(h)
         self.set_font('Gothic','',16)
         self.set_text_color(128,0,0)
         self.cell(0,7,label,0,1,'C')
@@ -85,7 +91,6 @@ def getNominal() :
     return nom
 
 def getDayName() :
-    okay = False
     dname = ''
     with open('Books/calendar.txt','rb') as file :
         while True :
@@ -406,6 +411,24 @@ def printTroparion() :
                 pdf.multi_cell(0,6,txt)
                 pdf.ln()
             if '['+menea+']' in line : okay = True
+    ### Read troparion from Triodion
+    okay = False
+    with open('Books/trp_triodion.txt','rb') as file :
+        while True :
+            line = file.readline().decode('utf8')
+            if not line :
+                break
+            if okay == True and '[/]' in line :
+                break
+            if okay == True :
+                tone = line[2]
+                txt = line[4:]
+                pdf.set_text_color(128,0,0)
+                pdf.multi_cell(0,6,'('+str(tone)+'. hang)')
+                pdf.set_text_color(0,0,0)
+                pdf.multi_cell(0,6,txt)
+                pdf.ln()
+            if '['+nomen+']' in line : okay = True
     ### Read troparion of the church
     okay = False
     with open('Books/trp_church.txt','rb') as file :
