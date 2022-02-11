@@ -123,7 +123,7 @@ def readSection(fname,sname):
 # Print a standard text section from horologion
 def printSection(sttl,section,tn=0) :
     pdf.chapter_title(sttl)
-    txt = readSection('Books/vcs_horologion.txt',section).split('[')
+    txt = readSection('Books/vsp_horologion.txt',section).split('[')
     for line in txt :
         pdf.set_font('IMFell','',12)
         pdf.set_text_color(0,0,0)
@@ -161,54 +161,57 @@ def printLordICall() :
     ### Print intro
     printSection('Uram Tehozzád kiáltottam','Lord I Call',tone)
     ### Read verses from Octoechos
-    okay = False
+    okay = 0
     n = 0
-    with open('Books/lic_octoechos.txt','rb') as file :
+    with open('Books/vsp_octoechos.txt','rb') as file :
         while True :
             line = file.readline().decode('utf8')
             if not line :
                 break
-            if okay == True and '[/]' in line :
+            if (okay == 2 and '[/]' in line) or (okay > 0 and '[//]' in line) :
                 break
-            if okay == True :
+            if okay == 2 :
                 if '[D]' in line : verses[10] = line[3:]
                 if '[M]' in line : verses[11] = line[3:]
                 if '[D]' not in line and '[M]' not in line :
                     verses[n] = line
                     n += 1
-            if '[Tone '+str(tone)+']' in line : okay = True
+            if '[Tone '+str(tone)+']' in line : okay = 1
+            if '[LIC]' in line and okay == 1 : okay = 2
     ### Read verses from Menaion
-    okay = False
+    okay = 0
     mvers = []
-    with open('Books/lic_menea.txt','rb') as file :
+    with open('Books/vsp_menea.txt','rb') as file :
         while True :
             line = file.readline().decode('utf8')
             if not line :
                 break
-            if okay == True and '[/]' in line :
+            if (okay == 2 and '[/]' in line) or (okay > 0 and '[//]' in line) :
                 break
-            if okay == True :
+            if okay == 2 :
                 if '[D]' in line : verses[10] = line[3:]
                 if '[M]' in line : verses[11] = line[3:]
                 if '[D]' not in line and '[M]' not in line :
                     mvers.append(line)
-            if '['+menea+']' in line : okay = True
+            if '['+menea+']' in line : okay = 1
+            if '[LIC]' in line and okay == 1 : okay = 2
     ### Read verses from Triodion
-    okay = False
+    okay = 0
     tvers = []
-    with open('Books/lic_triodion.txt','rb') as file :
+    with open('Books/vsp_triodion.txt','rb') as file :
         while True :
             line = file.readline().decode('utf8')
             if not line :
                 break
-            if okay == True and '[/]' in line :
+            if (okay == 2 and '[/]' in line) or (okay > 0 and '[//]' in line) :
                 break
-            if okay == True :
+            if okay == 2 :
                 if '[D]' in line : verses[10] = line[3:]
                 if '[M]' in line : verses[11] = line[3:]
                 if '[D]' not in line and '[M]' not in line :
                     tvers.append(line)
-            if '['+nomen+']' in line : okay = True
+            if '['+nomen+']' in line : okay = 1
+            if '[LIC]' in line and okay == 1 : okay = 2
     ### Combine verses
     m = len(mvers)
     t = len(tvers)
@@ -255,16 +258,16 @@ def printAposticha() :
     verses = ['','','','','','','']
     post = ['','','','','Dicsőség az Atyának és Fiúnak és Szent Léleknek.','Most és mindenkor és mindörökkön örökké. Ámin.','']
     ### Read verses from Octoechos
-    okay = False
+    okay = 0
     n = 0
-    with open('Books/apo_octoechos.txt','rb') as file :
+    with open('Books/vsp_octoechos.txt','rb') as file :
         while True :
             line = file.readline().decode('utf8')
             if not line :
                 break
-            if okay == True and '[/]' in line :
+            if (okay == 2 and '[/]' in line) or (okay > 0 and '[//]' in line) :
                 break
-            if okay == True :
+            if okay == 2 :
                 if '[D]' in line : verses[5] = line[3:]
                 if '[M]' in line : verses[6] = line[3:]
                 if '[E]' in line :
@@ -272,32 +275,34 @@ def printAposticha() :
                     n += 1
                 if '[D]' not in line and '[M]' not in line and not '[E]' in line :
                     verses[n] = line
-            if '[Tone '+str(tone)+']' in line : okay = True
+            if '[Tone '+str(tone)+']' in line : okay = 1
+            if '[APO]' in line and okay == 1 : okay = 2
     ### Reset verses if there is a full aposticha in Menaion
-    okay = False
-    with open('Books/apo_menea.txt','rb') as file :
+    okay = 0
+    with open('Books/vsp_menea.txt','rb') as file :
         while True :
             line = file.readline().decode('utf8')
             if not line :
                 break
-            if okay == True and '[/]' in line :
+            if (okay == 2 and '[/]' in line) or (okay > 0 and '[//]' in line) :
                 break
-            if okay == True and '[T' in line[0:2] :
+            if okay == 2 and '[T' in line[0:2] :
                 verses = ['','','','','','','']
                 post = ['','','','','Dicsőség az Atyának és Fiúnak és Szent Léleknek.','Most és mindenkor és mindörökkön örökké. Ámin.','']
                 break
-            if '['+menea+']' in line : okay = True
+            if '['+menea+']' in line : okay = 1
+            if '[APO]' in line and okay == 1 : okay = 2
     ### Read verses from Menaion
-    okay = False
+    okay = 0
     n = 0
-    with open('Books/apo_menea.txt','rb') as file :
+    with open('Books/vsp_menea.txt','rb') as file :
         while True :
             line = file.readline().decode('utf8')
             if not line :
                 break
-            if okay == True and '[/]' in line :
+            if (okay == 2 and '[/]' in line) or (okay > 0 and '[//]' in line) :
                 break
-            if okay == True :
+            if okay == 2 :
                 if '[D]' in line : verses[5] = line[3:]
                 if '[M]' in line : verses[6] = line[3:]
                 if '[E]' in line :
@@ -305,32 +310,34 @@ def printAposticha() :
                     n += 1
                 if '[D]' not in line and '[M]' not in line and not '[E]' in line :
                     verses[n] = line
-            if '['+menea+']' in line : okay = True
+            if '['+menea+']' in line : okay = 1
+            if '[APO]' in line and okay == 1 : okay = 2
     ### Reset verses if there is a full aposticha in Triodion
-    okay = False
-    with open('Books/apo_triodion.txt','rb') as file :
+    okay = 0
+    with open('Books/vsp_triodion.txt','rb') as file :
         while True :
             line = file.readline().decode('utf8')
             if not line :
                 break
-            if okay == True and '[/]' in line :
+            if (okay == 2 and '[/]' in line) or (okay > 0 and '[//]' in line) :
                 break
-            if okay == True and '[T' in line[0:2] :
+            if okay == 2 and '[T' in line[0:2] :
                 verses = ['','','','','','','']
                 post = ['','','','','Dicsőség az Atyának és Fiúnak és Szent Léleknek.','Most és mindenkor és mindörökkön örökké. Ámin.','']
                 break
-            if '['+nomen+']' in line : okay = True
+            if '['+nomen+']' in line : okay = 1
+            if '[APO]' in line and okay == 1 : okay = 2
     ### Read verses from Triodion
-    okay = False
+    okay = 0
     n = 0
-    with open('Books/apo_triodion.txt','rb') as file :
+    with open('Books/vsp_triodion.txt','rb') as file :
         while True :
             line = file.readline().decode('utf8')
             if not line :
                 break
-            if okay == True and '[/]' in line :
+            if (okay == 2 and '[/]' in line) or (okay > 0 and '[//]' in line) :
                 break
-            if okay == True :
+            if okay == 2 :
                 if '[D]' in line : verses[5] = line[3:]
                 if '[M]' in line : verses[6] = line[3:]
                 if '[E]' in line :
@@ -338,7 +345,8 @@ def printAposticha() :
                     n += 1
                 if '[D]' not in line and '[M]' not in line and not '[E]' in line :
                     verses[n] = line
-            if '['+nomen+']' in line : okay = True
+            if '['+nomen+']' in line : okay = 1
+            if '[APO]' in line and okay == 1 : okay = 2
     ### Compile verses
     n = 0
     oldtone = 0
@@ -376,15 +384,15 @@ def printTroparion() :
     pdf.set_text_color(0,0,0)
     tone = weekly
     ### Read troparion from Octoechos
-    okay = False
-    with open('Books/trp_octoechos.txt','rb') as file :
+    okay = 0
+    with open('Books/vsp_octoechos.txt','rb') as file :
         while True :
             line = file.readline().decode('utf8')
             if not line :
                 break
-            if okay == True and '[/]' in line :
+            if (okay == 2 and '[/]' in line) or (okay > 0 and '[//]' in line) :
                 break
-            if okay == True :
+            if okay == 2 :
                 tone = line[2]
                 txt = line[4:]
                 pdf.set_text_color(128,0,0)
@@ -392,17 +400,18 @@ def printTroparion() :
                 pdf.set_text_color(0,0,0)
                 pdf.multi_cell(0,6,txt)
                 pdf.ln()
-            if '[Tone '+str(tone)+']' in line : okay = True
+            if '[Tone '+str(tone)+']' in line : okay = 1
+            if '[TRP]' in line and okay == 1 : okay = 2
     ### Read troparion from Menaion
-    okay = False
-    with open('Books/trp_menea.txt','rb') as file :
+    okay = 0
+    with open('Books/vsp_menea.txt','rb') as file :
         while True :
             line = file.readline().decode('utf8')
             if not line :
                 break
-            if okay == True and '[/]' in line :
+            if (okay == 2 and '[/]' in line) or (okay > 0 and '[//]' in line) :
                 break
-            if okay == True :
+            if okay == 2 :
                 tone = line[2]
                 txt = line[4:]
                 pdf.set_text_color(128,0,0)
@@ -410,17 +419,18 @@ def printTroparion() :
                 pdf.set_text_color(0,0,0)
                 pdf.multi_cell(0,6,txt)
                 pdf.ln()
-            if '['+menea+']' in line : okay = True
+            if '['+menea+']' in line : okay = 1
+            if '[TRP]' in line and okay == 1 : okay = 2
     ### Read troparion from Triodion
-    okay = False
-    with open('Books/trp_triodion.txt','rb') as file :
+    okay = 0
+    with open('Books/vsp_triodion.txt','rb') as file :
         while True :
             line = file.readline().decode('utf8')
             if not line :
                 break
-            if okay == True and '[/]' in line :
+            if (okay == 2 and '[/]' in line) or (okay > 0 and '[//]' in line) :
                 break
-            if okay == True :
+            if okay == 2 :
                 tone = line[2]
                 txt = line[4:]
                 pdf.set_text_color(128,0,0)
@@ -428,7 +438,8 @@ def printTroparion() :
                 pdf.set_text_color(0,0,0)
                 pdf.multi_cell(0,6,txt)
                 pdf.ln()
-            if '['+nomen+']' in line : okay = True
+            if '['+nomen+']' in line : okay = 1
+            if '[TRP]' in line and okay == 1 : okay = 2
     ### Read troparion of the church
     okay = False
     with open('Books/trp_church.txt','rb') as file :
@@ -437,6 +448,7 @@ def printTroparion() :
         txt = line[4:]
         pdf.set_text_color(0,0,0)
         pdf.multi_cell(0,6,'Dicsőség az Atyának és Fiúnak és Szent Léleknek.')
+        pdf.ln()
         pdf.set_text_color(128,0,0)
         pdf.multi_cell(0,6,'('+str(tone)+'. hang)')
         pdf.set_text_color(0,0,0)
@@ -444,15 +456,15 @@ def printTroparion() :
         pdf.ln()
     ### Read theotokion from Octoechos
     tone = weekly
-    okay = False
-    with open('Books/tht_octoechos.txt','rb') as file :
+    okay = 0
+    with open('Books/vsp_octoechos.txt','rb') as file :
         while True :
             line = file.readline().decode('utf8')
             if not line :
                 break
-            if okay == True and '[/]' in line :
+            if (okay == 2 and '[/]' in line) or (okay > 0 and '[//]' in line) :
                 break
-            if okay == True :
+            if okay == 2 :
                 tone = line[2]
                 txt = line[4:]
                 pdf.set_text_color(128,0,0)
@@ -460,7 +472,8 @@ def printTroparion() :
                 pdf.set_text_color(0,0,0)
                 pdf.multi_cell(0,6,txt)
                 pdf.ln()
-            if '[Tone '+str(tone)+']' in line : okay = True
+            if '[Tone '+str(tone)+']' in line : okay = 1
+            if '[THT]' in line and okay == 1 : okay = 2
     return
 
 ### MAIN LOOP ###

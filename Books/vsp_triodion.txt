@@ -1,65 +1,125 @@
 [Publican and Pharisee]
+[LIC]
 [T1]Ne úgy imádkozzunk, testvérek, mint a farizeus, * mert aki magát felmagasztalja, megaláztatik, * alázzuk meg mi is magunkat Isten előtt, * és böjtölés közben kiáltsuk, mint a vámszedő: * irgalmazz nekünk, bűnösöknek, ó Istenünk!
 Eléd járult egy hivalkodó farizeus, * és egy bűnbánatra hajló vámos, egyetlen Uralkodó. * Amaz kérkedése miatt minden jótól megfoszttatott, * ez pedig – mit sem szólva – ajándékaidra méltóvá lett. * Ehhez hasonló fohászokkal erősíts meg engem is, * emberszerető Krisztus Istenünk!
 Ne úgy imádkozzunk, testvérek, mint a farizeus, * mert aki magát felmagasztalja, megaláztatik, * alázzuk meg mi is magunkat Isten előtt, * és böjtölés közben kiáltsuk, mint a vámszedő: * irgalmazz nekünk, bűnösöknek, ó Istenünk!
 [D][T8]Mindenható Uram! * Tudom, mennyire hatásosak a könnyek: * Ezékiást a halál torkából hozták vissza, * a bűnös asszonyt sok év vétkeitől oldozták fel, * a vámost pedig a farizeussal szemben megigazulásra vezették: * kérlek, számíts engem is ezekhez * és könyörülj rajtam!
 [/]
+[APO]
+[D][T5]Bűneim miatt elvakult szememmel * nem vagyok képes föltekinteni * hogy lássam az ég magasságát; * de te, Üdvözítőm, fogadj el engem, * mint a bűnbánó vámszedőt, * és könyörülj rajtam!
+[M][T5]A király temploma és ajtaja, * palotája és trónja vagy, legtisztább Szűz, * ki által az én Megváltóm, az Úr Krisztus * a sötétben alvóknak, mint az igazság napja, megjelent, * mert meg akarta világítani azokat, * akiket saját képére alkotott a maga kezével. * Azért Legáldottabb, ki anyai bizalommal fordulhatsz hozzá, * szüntelenül kérjed Őt * a mi lelkünk üdvösségéért!
+[//]
 [Prodigal Son]
+[LIC]
 [T1]Bűntelen és termékeny vidék volt rám bízva, * ám bűnt vetettem oda: * sarlóval arattam a restség kalászait, * és kezemmel kötöttem kévébe saját tetteimet, * melyeket szétszórtam a töredelmetlenség szérűjére. * De kérlek téged, öröktől munkálkodó Istenünk; * a te jóságos irgalmad szelével * tisztítsd meg az én tetteim polyváját * és lelkemnek a bűnbocsánat tiszta búzáját add, * s a te mennyei magtáradba helyezz el, * és üdvözíts engem!
 Bűntelen és termékeny vidék volt rám bízva, * ám bűnt vetettem oda: * sarlóval arattam a restség kalászait, * és kezemmel kötöttem kévébe saját tetteimet, * melyeket szétszórtam a töredelmetlenség szérűjére. * De kérlek téged, öröktől munkálkodó Istenünk; * a te jóságos irgalmad szelével * tisztítsd meg az én tetteim polyváját * és lelkemnek a bűnbocsánat tiszta búzáját add, * s a te mennyei magtáradba helyezz el, * és üdvözíts engem!
 Ismerjük meg a titok jelentését testvéreim, * mert a bűnből az atyai házhoz siető fiút * a jóságos atya csókkal elébe sietve fogadja * és újból saját dicsőségének jelelt adja meg neki, * és a föntieknek titokzatos örömünnepet készít, * megöletvén a hizlalt borjút, * hogy a mi életünk méltó legyen a feláldozó emberszerető Atyához * és a dicsőséges áldozathoz, * a mi lelkünk Üdvözítőjéhez.
 [D][T2]Ó, én szerencsetlen, * mekkora javaktól fosztottam meg magam, * s milyen királyságtól estem el, én nyomorult! * Átvett vagyonomat elprédáltam, * s megszegtem a parancsolatot. * Jaj neked, szerencsétlen lelkem, * most már örök tűzre leszel ítélve. * Azért még véged előtt kiálts fel Krisztus Istenhez: * Mint a tékozló fiút, fogadj be engem, * és könyörülj rajtam, Istenem!
 [/]
+[APO]
+[D][T6]Atyám örökségül szánt vagyonát eltékozoltam, * az oktalan állatokkal nyomorultan táplálkoztam * és azok moslékja után sóvárogván * az éhségtől gyötrődtem; * de visszatérve a jóságos Atyához * könnyek között kiáltok fel: * Fogadj be béreseid közé, * ki leborulok emberszereteted előtt, * és üdvözíts engem.
+[M][T6]Az én alkotóm és szabadítóm, Krisztus Urunk, * tetőled születvén, ó Tisztaságos, * emberi testembe öltözött * és Ádámot első átkától megszabadította. * Azért néked, ó Szeplőtelen, * mint Isten Anyjának és valóban Szűznek szüntelenül énekeljük: * Üdvözlégy az angyal köszöntése szerint; * üdvözlégy Királynőnk, * pártfogónk és oltalmunk * és lelkünk üdvössége!
+[//]
 [Meatfare]
+[LIC]
 [T6]Midőn majd eljössz * igaz ítéletet tartani, * dicsőséged trónján ülve, * legigazságosabb Bíró, * s majd a borzasztó tűzfolyó * mindenkit ítélőszéked elé fog sodorni * mennyei erőid jelenlétében, * az emberek pedig félve ítéletre járulnak, * ki-ki saját tettei szerint; * akkor majd Krisztus, kegyelmezz nekünk, * és az üdvözülők sorsára méltass minket, kérünk, * mint egyedül irgalmas!
 Könyvek nyittatnak majd fel, * és az elviselhetetlen ítélőszék előtt * föltárulnak az emberek tettei, * s visszhangzik majd az egész völgy * a siránkozók rettentő jajszavától, * mert nyilvánvalóvá válik, * hogy minden bűnös örök kínokra kerül * a te igazságos ítéleted által; * s akkor már hiába siránkoznak. * Azért kérünk téged, Jóságos, * szánj meg minket, kik téged dicsérünk, * egyetlen nagyirgalmú!
 Megszólalnak a harsonák, * a sírok kiürülnek, * s föltámad az egész remegő emberi természet, * Akik jót cselekedtek, * azok ujjongva örvendeznek * jutalmuk elnyerésére várva; * a bűnösök viszont jaj veszékelve reszketnek, * mert a kárhozatra adatnak, * a kiválasztottaktól elkülönítve. * Akkor dicsőség Ura, könyörülj rajtunk, * és a téged szeretők sorsára * méltass minket, mint jóságos!
 Siránkozom és zokogok, * hogyha eszembe jut az őrök tűz, * a külső sötétség, * a gonosz féreg és az alvilág, * a fogcsikorgatás és a nagy bűnösök szüntelen gyötrelme, * kik téged, ó Jóságos, * rossz szándékukkal megharagítottak, * akik között az első nyomorult én vagyok; * de te kegyes Bírám, * üdvözíts engem, * mint gazdag kegyelmű!
 [D][T8]Midőn elkészülnek a trónok, * és felnyílnak a könyvek, * Isten pedig leül ítélkezni, * az angyalok félelemmel állnak majd melléje * és a tüzes folyó sodrása megindul, * mekkora rettegés lesz akkor! * Mit fogunk tenni mi, sok bűnnel terhelt emberek? * S mi lesz, mikor meghalljuk, hogy hívja * Atyjának áldottait országába, * a bűnösöket pedig elküldi az örök kínokra? * Ki fogja kibírni e rettenetes ítéletet? * Ám te egyetlen emberszerető Üdvözítőnk * és örök Királyunk, * még mielőtt ez a vég bekövetkezne, * téríts meg engem bűnbánatra, * és könyörülj rajtam!
 [/]
+[APO]
+[D][T8]Jaj neked, elsötétült lelkem! * Meddig nem szakítasz még gonoszságaiddal? * Meddig élsz még tétlenségben? * Miért nem gondolsz a halál rettentő órájára? * Miért nem remegsz Megváltód félelmetes ítélőszékétől? * Vajon mit tudsz mentségedül felhozni, * s hogyan fogsz válaszolni, * amikor majd saját cselekedeteid lesznek vádlóid, * és a magad tettei fognak vádként terhelni? * Azért, ó én lelkem, * itt az alkalmas idő, menj tehát és kiálts fel: * Vétkeztem, Uram, ellened vétkeztem! * De kegyesnek ismerlek téged, emberszerető jó pásztor, * kérlek azért, ne válassz el engem azoktól, * akik jobb kezed felől fognak állani, * a te nagy irgalmasságod szerint!
+[M][T8]Szeplőtelen Szűz, * ki kimondhatatlan módon testileg fogantad az Urat, * és a magasságbeli Istennek anyja lettél, * a te szolgáid könyörgéseit fogadd el, ó Tisztaságos, * ki mindenkinek tisztulást szerzel a bűnöktől, * fogadd el a mi imánkat is, * s imádkozzál lelkünk üdvéért!
+[//]
 [Cheesefare]
+[LIC]
 [T6]Az én alkotó Uram * a föld porából vett engem * és éltető leheletével életre keltett, * és a földön minden látható dolgok urává tett, * és az angyalok társává. * A gonosz sátán pedig kígyó alakba öltözve * egy étek által rászedett, * és az Isten dicsőségétől elválasztott * és mélységes halálba, a földbe taszított. * De te, irgalmas Uralkodó, * újra hívj vissza magadhoz engem!
 Isten által szőtt * első ruhámat levetettem, * én megátalkodott, * a te isteni parancsodat megszegve, Uram, * az ellenség tanácsára. * És most fügefalevéllel * és állatbőr öltözettel födöztem be testemet, * és verítékkel keresett kenyérre ítéltettem, * mert a megátkozott föld tövist és gazt termett. * De az utóbbi időben a Szűztől Megtestesült megújított * és újra a Paradicsomba vezetett engem.
 Drága paradicsomkert, * te leggyönyörűbb szépség, * Istentől alkotott hajlék, * véget nem érő vígság és öröm, * az igazak dicsősége, * próféták gyönyörűsége és a szentek lakhelye, * lombjaid suhogásával imádd a mindenség Alkotóját, * hogy nyissa ki előttem ajtódat, * melyet engedetlenségemmel bezártam; * és tegyen arra méltóvá, * hogy az élet fájának gyümölcsét megízleljem * és azt az örömet, * amelyet egykor benned élveztem.
 Ádám engedetlenség folytán * a Paradicsomból száműzött lett * és a boldogságot elvesztette, * mert asszonyi szó becsapta. * Ó, most ruhátlanul ül a pusztában, * a Paradicsommal szemben, bánkódva. * Azért fogadjuk készséggel a böjtöt, * teljesítve, amit az Evangélium ránk hagyott, * hogy így kedvében járjunk Krisztusnak, * és paradicsomkerti helyünket * újra visszakaphassuk!
 [D][T6]Az édenkerttel szemben ült Ádám * és meztelenségét siratva felkiáltott: * Ó, jaj nekem, alattomos csábítással rászedtek. * A dicsőségből kivetettek! * O, jaj nekem, együgyűségem miatt meztelen lettem * és nyomorúságba jutottam! * Ó, drága Edénkért! * Gyönyörűségedet többé nem élvezem, * Uramat, Istenemet és Teremtőmet többé meg nem látom, * mert a földbe térek vissza, amelyből keletkeztem. * Irgalmas és könyörületes, * hozzád kiáltok: * Könyörülj rajtam, elesetten!
 [/]
+[APO]
+[D][T6]Kiűzték az evés miatt a Paradicsomból Ádámot * s ő azzal szemben leült, * bánatos hangon kesergett * és siránkozva ezt mondta: * Jaj nekem, szerencsétlennek, mi történt velem! * Az Úr egyetlen parancsát szegtem meg, * és ő megfosztott engem mindenféle jótól. * Ó legszentebb Paradicsom! * Érettem lettél ültetve és Éva miatt bezárultál. * Kérjed Alkotódat, az én Teremtőmet, * hogy virágaidat élvezhessem! * S így szólt hozzá az Üdvözítő: * Nem akarom, hogy teremtményem elvesszen, * hanem hogy üdvözüljön * és az igazság ismeretére jusson, * mert aki hozzám jön, azt nem vetem ki.
+[M][T6]Az én alkotóm és szabadítóm, Krisztus Urunk, * tetőled születvén, ó Tisztaságos, * emberi testembe öltözött * és Ádámot első átkától megszabadította. * Azért néked, ó Szeplőtelen, * mint Isten Anyjának és valóban Szűznek szüntelenül énekeljük: * Üdvözlégy, az angyal köszöntése szerint; * Üdvözlégy, Királynőnk, * pártfogónk és közbenjárónk * és lelkünk üdvössége!
+[//]
 [Orthodoxy]
+[LIC]
 [T6]Téged, a Felfoghatatlant, * ki a hajnalcsillag előtt, * kezdet nélkül felragyogtál, * Szülőatyád anyagtalan és testetlen Lényéből, * a Te Lelked által megihletett próféták úgy hirdettek előre Urunk, *  hogy Gyermekké leszel, * megtestesülve a Férjezetlen Szűztől, * emberekkel érintkezel, * és a földiek számára láthatóvá leszel. * Ezért mint Kegyelmes, * méltasd megvilágosításodra mindazokat, * akik magasztalják a Te kifejezhetetlen, tisztaságos feltámadásodat.
 Igéikkel hirdettek és tetteikkel tiszteltek Téged, * az istenes szózatú próféták, * és elnyerték az örök életet; * mert nem tűrve a teremtmények imádását, * a Te imádásod mellett ó Alkotó Uralkodó, * az egész világot az Evangélium felé fordították, * és szenvedésedhez hasonultak, * melyet előre hirdettek. * Azok esedezései által méltass minket arra, * hogy a megtartóztatás küzdőterén feddhetetlenül átjussunk, * ó egyedülvaló Nagyirgalmú!
 Ki isteni természeted szerint leírhatatlan vagy, * ó Uralkodó, * napjainkban testet öltvén leírható lettél; * mert a test felvételével elvállaltad annak minden tulajdonságát. * Ezért arcodnak képmását ábrázolva, * Tereád vonatkoztatva csókoljuk azt, * a Te szeretetedhez fölemelkedve, * és a gyógyulás kegyeimét merítjük belőle, * követve az apostolok istenes hagyományait.
 Visszanyerte Krisztusnak Egyháza a legdrágább ékességét, * a Megváltó Krisztus és az Istenanyja, * és a szentek tisztaságos és szent képeinek örvendetes visszaállítását. * Ujjong ezért és tündököl kegyelemben, * s az eretnek sokaságot elűzve kiveti, * és örvendve dicsőíti az emberszerető Istent, * ki érette eltűrte az önként vállalt szenvedéseket.
 [D][T2]Feltündöklött az igazság kegyelme, * amik egykor árnyékszerűen kirajzolódtak, * most világosan beteljesedtek, * mert íme az Egyház felolti Krisztus testi képmását, * mint világfeletti ékességet, * a jelenés sátorának előképét ábrázolva, * és az orthodox hitet megtartva: * hogy akit tisztelünk, * annak képmását őrizve el ne tévelyedjünk. * Öltözzenek szégyenbe, * akik nem így hisznek, * nekünk pedig dicsőségünk a Megtestesült képmása, * melyet istenfélően tisztelünk, * de nem istenítünk. * Csókkal illetve azt, * így kiáltsunk hívők: * Isten, üdvözítsd a Te népedet, * és áldd meg a Te örökségedet.
 [/]
+[APO]
+[D][T2]Akik a hitetlenségből az istenfélelemre jutottunk, * és a tudás fényével megvilágosodtunk, * zsoltárosan tapsoljunk a kezeinkkel, * háládatos dicsérőéneket zengve az Istennek. * Tisztelettel hódoljunk a Krisztus és a Tisztaságos és a szentek, * falakra és táblákra és szent edényekre vésett képei előtt, * elvetve a tévhitűeknek gonosz vallását; * mert a szentkép tisztelete, * amiként Szent Vazul mondja, * annak eredetijéhez száll tovább. * Kérünk Téged Krisztus Istenünk, * a Te tisztaságos Anyádnak és minden szenteknek közbenjárásaira, * ajándékozd nekünk a nagy irgalmat!
+[M][T2]Minő újszerű csodája minden hajdani csodáknak! * Mert kicsoda ismert anyát, * aki férfiú nélkül szült volna, * és ölében hordozta azt, * ki az egész teremtést átfogja? * Aki megszületett, * Istennek akaratából való. * Kit csecsemőként karjaidban tartottál, ó Tisztaságos, * és kihez anyai bizodalmat nyertél, * ne szűnjél meg esedezni Hozzá tisztelőidért, * hogy szánja meg és üdvözítse a mi lelkünket.
+[/]
+[TRP]
+[T2]Legtisztább képed előtt hódolunk, Jóságos, * vétkeink bocsánatát kérve, Krisztus Isten; * mert önként jónak láttad testileg felmenni a keresztre, * hogy megszabadítsd az ellenség rabságából azokat, akiket alkottál. * Ezért hálával kiáltjuk Hozzád: * Örömmel töltöttél el mindeneket Üdvözítőnk, * aki eljöttél, * hogy üdvözítsd a világot.
+[//]
 [Saint Gregory Palamas]
+[LIC]
 [T2]A dicséreteknek mely énekeivel magasztaljuk a főpapot? * Az isteni tudományok harsonáját, * lángot lehellő száját a kegyelemnek, * a Léleknek tisztaságos edényét, * az Egyház rendíthetetlen oszlopát, * a földkerekség nagy örömét, a bölcsesség folyóját, * a világosság szövétnekét, * a tündöklő csillagot, amely beragyogja a teremtést.
 A dicséreteknek mely énekeivel magasztaljuk a főpapot? * Az isteni tudományok harsonáját, * lángot lehellő száját a kegyelemnek, * a Léleknek tisztaságos edényét, * az Egyház rendíthetetlen oszlopát, * a földkerekség nagy örömét, a bölcsesség folyóját, * a világosság szövétnekét, * a tündöklő csillagot, amely beragyogja a teremtést.
 A magasztalásnak mely virágaival koszorúzzuk meg a főpapot? * A jámborság harcosát, a gonoszság ellenfelét, * a hit forró védőjét, * a nagy vezetőt és tanítót, * a Léleknek harmonikus líráját, * az aranyat sugározó nyelvet, * a forrást, mely a gyógyulás vizét fakasztja a hívőknek, * a nagy és csodálatra méltó Szent Gergelyt.
 Mely ajkakkal dicsérjük, ó földnek szülöttei, a főpapot? * Az Egyháznak tanítóját, * az isteni világosság hirdetőjét, * a Háromság mennyei beavatottját, * a szerzetesek nagy ékességét, * a cselekedetben és elméletben kiválót, * Thesszalonikának hírességét, * kinek a mennyekben lakótársa az illatot árasztó, * istenes és csodálatos Demeter.
 [D][T6]Szentéletű, háromszor is boldog, szentséges atyánk, * jó pásztorunk, és a Főpásztor Krisztusnak tanítványa, * aki életedet adtad a juhokért, * isteni ihletettségű Gergely atyánk, * temagad kérd Őt most is közbenjárásaiddal, * hogy ajándékozza nekünk a nagy irgalmat.
 [/]
+[APO]
+[D][T8]Tanításban serény szavad a szívek fülében zengve, * fölserkenti a tétlenek lelkét, * és istenes beszédeddel lépcsőt emelsz, * mely a földről felvezet Istenhez. * Ezért tehát, ó Szent Gergely, Thesszáliának csodája, * ne szűnjél meg közbenjárni a Krisztusnál, * hogy világosítson meg isteni világosságával minket, kik tisztelünk Téged.
+[M][T8]Érintetlen Hajadon, aki testben kimondhatatlan módon fogantad Istent, * ó Magasságos Istennek Anyja, * fogadd a Te szolgáidnak kéréseit, ó Feddhetetlen. * Aki mindeneknek megadod a bűnöktől való megtisztulást, * elfogadván most a mi könyörgésünket, * esedezz, hogy üdvözüljünk mindnyájan.
+[/]
+[TRP]
+[T8]Igaz hitnek fényforrása, Egyházunknak támasza és tanítója, * szerzetesek ékessége, hittudósok győzhetetlen védelmezője, * csodatevő Szent Gergely, * Thesszalonikának büszkesége, * kegyelemnek hirdetője, * esedezz mindenkor a mi lelkünk üdvözüléséért.
+[//]
 [Holy Cross]
+[LIC]
 [T5]Ragyogtasd be, ó Úrnak Keresztje, * kegyelmednek tündöklő villámaival tisztelőid szívét, * kik Istentől kapott szeretettel veszünk körül Téged, * a világnak kívánságát, * amely által eltűnt tőlünk a könnyek keserűsége, * és megmenekültünk a halálnak csapdájából, * és átmentünk a végtelen örömbe. * Mutasd meg szépséged ékességét, * megadva a megtartóztatás jutalmát szolgáidnak, * kik hűséggel kérjük a Te gazdag oltalmadat és a nagy irgalmat.
 Örvendezz életethordozó Kereszt, * az Egyháznak szépséges Paradicsoma, * enyészhetetlenség fája, * amely nekünk az örök dicsőség élvezetét fakasztotta; * amely által elűzetnek a démonok seregei, * s örvendeznek az angyalok rendjei, * és a hivők gyülekezetei ünnepelnek. * Ó legyőzhetetlen fegyver, * ó leronthatatlan bástya, * királyoknak győzedelme, papok büszkesége; * add nekünk is mostan, * hogy megérjük Krisztus szenvedését és feltámadását.
 Örvendezz életethordozó Kereszt, * istenfélelemnek győzhetetlen diadaljelvénye, * Paradicsom kapuja, * a hivőknek támasza, * az Egyháznak védőfala, * amely által eltűnt az enyészet, * és megszűnt és elnyeletett a halál hatalma, * és a földről az egekbe emelkedtünk. * Győzhetetlen fegyverünk, démonoknak ellenfele, * vértanúknak dicsősége, szentek igaz ékessége, * és az üdvösség révpartja, * mely ajándékozod a világnak a nagy irgalmat.
 Jöjj elsőnek teremtett emberpár, * mely kiestél az égiek soraiból, * az embergyilkosnak irigysége miatt, * megízlelvén egykor a gyümölcsfa keserű gyönyörét; * ímhol jő a valóban legbecsesebb fa; * fussatok és öleljétek át, * és hittel így kiáltsatok hozzá: * Te vagy a mi oltalmunk, legdrágább Keresztfa, * melynek gyümölcséből részesülve * elértük az enyészetlenséget, * és elnyertük a hajdani biztonságos Édent, * és a nagy irgalmat.
 [D][T3]Krisztus Istenünk, ki az önként való keresztrefeszítést, * az emberi nemzetségnek általános feltámadásáért elvállaltad, * és a kereszt írónádjával piros színnel bevérezve ujjaidat, * emberszerető Királyként, * kegyeskedtél aláírni bűneink elengedését, * ne vess el bennünket, * kiket újra fenyeget a Tőled való elpártolás veszedelme; * de könyörülj, ó egyetlen Hosszantűrő, * a nyomorúságokban lévő népeden, * és kelj fel és harcolj az ellenünk harcolókkal, * mint Mindentehető.
 [/]
+[APO]
+[M][T4]Urunk, ki a legszelídebb Dáviddal szövetkeztél, * a támadó idegen legyőzésére, * harcolj együtt az igazhitű keresztényekkel, * és a kereszt fegyverével terítsd le az ellenségeinket. * Mutasd meg nekünk, ó Könyörületes, * a Te ősi irgalmadat, hadd tudják meg igazában, * hogy Te vagy az Isten, * és Tebenned bizakodva győzünk, * míg közbenjár amint szokott, a Te tisztaságos Anyád, * hogy adassék meg nekünk a nagy irgalom.
+[/]
+[TRP]
+[T1]Üdvözítsd Uram a Te népedet, * és áldd meg a Te örökségedet, * győzelmet ajándékozván * a keresztényeknek az ellenségek fölött * és kereszted által védelmezd a Te népedet.
+[//]
 [Saint John Climacus]
+[LIC]
 [T8]Szentéletű János atyánk, * Te valóban szüntelenül Isten magasztalását hordoztad ajkaidon, * gyakorlatban tanulva az Istentől ihletett igéket ó legbölcsebb, * és a belőlük fakadó kegyelmet kamatoztattad, * és boldoggá lettél, * lerontva a gonoszoknak minden ármánykodását.
 Szentéletű János atyánk, * Te valóban szüntelenül Isten magasztalását hordoztad ajkaidon, * gyakorlatban tanulva az Istentől ihletett igéket ó legbölcsebb, * és a belőlük fakadó kegyelmet kamatoztattad, * és boldoggá lettél, * lerontva a gonoszoknak minden ármánykodását.
 Dicsőséges János atyánk, * könnyeidnek forrásával megtisztítva lelkedet, * s átvirrasztott éjszakákkal engesztelve Istent, * az Ő szeretetéhez és szépségéhez szárnyaltál fel ó boldog, * melyet is most méltó módon, * szüntelenül örvendezőn élvezel, * küzdőtársaiddal együtt, ó istenes boldogságú Szentünk.
 Szentéletű János atyánk, * elmédet a hited által Isten felé emelted, * s megutáltad a világi zűrzavarok állhatatlanságát; * és felvéve keresztedet, * a mindenség Kormányzóját követted. * Zabolátlan testedet megtartóztatással nevelted, * s az Isteni Lélek erejével az értelem szolgájává tetted.
 [D][T5]Szentéletű atyánk, * az Úr Evangéliumának szavára hallgatva, * a világot elhagytad, * a vagyont s a dicsőséget semmire sem becsülted. * Azért ezt kiáltod mindeneknek: * Szeressétek az Istent, és megtaláljátok az örök kegyelmet; * semmit ne tartsatok többre az Ő szereteténél, * hogy amikor eljő az Ő dicsőségében, * nyugodalmat találjatok minden szentjeivel együtt. * Azok esedezései által, Krisztus, * őrizd meg és üdvözítsd a mi lelkünket.
 [/]
+[APO]
+[D][T2]Aki angyal volt a földön, * és a mennyekben Isten embere, * a világnak ékességét, a jóknak örvendezését, * s az aszkéták erényének büszkeségét, * Szent Jánost tiszteljük; * mert Isten házában plántáltatván, méltóképpen kivirágzott, * és mint cédrus a pusztában, * gyarapította Krisztus lelki bárányainak nyáját, * szentségben és igazságban.
+[M][T2]Minő újszerű csodája minden hajdani csodáknak! * Mert kicsoda ismert anyát, aki férfiú nélkül szült volna, * és ölében hordozta Azt, ki az egész teremtést átfogja? * Aki megszületett, Istennek akaratából való. * Kit csecsemőként karjaidban tartottál, ó Tisztaságos, * és kihez anyai bizodalmat nyertél, * ne szűnjél meg esedezni Hozzá tisztelőidért, * hogy szánja meg és üdvözítse a mi lelkünket.
+[/]
+[TRP]
+[T1]A pusztaság lakója, * testben élő angyal és csodatevő voltál, ó istenthordozó János atyánk; * böjttel, virrasztással, imádsággal * mennyei ajándékot nyervén, * meggyógyítod a betegeket s azoknak lelkét, * akik hittel Hozzád folyamodnak. * Dicsőség Annak, ki erőt adott Néked; * dicsőség Annak, ki megkoszorúzott Téged; * dicsőség Annak, * ki Általad gyógyulást ad mindeneknek.
+[//]
 [Saint Mary of Egypt]
+[LIC]
 [T6]Gátolt Téged a szent dolgok látásában, * régi vétkek nyomasztó fertője; * mégis a Te jóérzésed, ó istenes bölcsességű, * és cselekedeteid tudata, * előkészítette a jóhoz való megtérésedet. * Föltekintve tehát az áldott Isteni Leány képmására, * s elítélve minden régi vétkeidet, * bátorsággal hódoltál a keresztfának.
 Gátolt Téged a szent dolgok látásában, * régi vétkek nyomasztó fertője; * mégis a Te jóérzésed, ó istenes bölcsességű, * és cselekedeteid tudata, * előkészítette a jóhoz való megtérésedet. * Föltekintve tehát az áldott Isteni Leány képmására, * s elítélve minden régi vétkeidet, * bátorsággal hódoltál a keresztfának.
 A Szentföldre örömmel zarándokolva, * megszerezted onnan az erények üdvösséges útravalóját, * és határozottan futottad be a jó utat. * Átkeltél a Jordán árján, * készségesen lakoztál a Keresztelő hajlékában, * és legyőzted szenvedélyeid vadságát az új életeddel, ó örökemlékű anyánk, * megtisztítva bátorsággal testi indulataidat.
 A pusztaságban lakoztál, * s kitörölted lélkedből a szenvedélyeidnek képét, * megrajzolva lelkedben az erényeknek istenes képmását; * s annyira átszellemültél, * hogy könnyedén átkeltél a vizek színén, ó boldogságos, * s fölemelkedtél a földről Istennel való találkozásaidban. * Esedezzél most is bizalommal, * Krisztus színe előtt állva, * ó dicsőséges Mária, a mi lelkünkért.
 [D][T4]Csodát művel kereszted ereje, Krisztus; * mert az egykor bűnös asszony megharcolta a megtartóztatás harcát, * és elvetve ezáltal a gyöngeségét, * hősiesen ellenállt az ördögnek. * Ezért elnyerte a győzelem jutalmát, * és közbenjár a mi lelkünkért.
 [/]
+[APO]
+[D][T2]A lélek kísértéseit és a test szenvedélyeit * lemetszetted az önmegtartóztatás kardjával; * a gondolat bűneit is elfojtottad az aszkézis csöndjével, * és könnyeidnek árjával öntözted az egész pusztaságot, * s a bűnbánat gyümölcseit sarjasztottad nékünk. * Ezért szent életű anyánk, ünnepeljük emlékedet.
+[M][T2]Minő újszerű csodája minden hajdani csodáknak! * Mert kicsoda ismert anyát, * aki férfiú nélkül szült volna, * és ölében hordozta Azt, * ki az egész teremtést átfogja? * Aki megszületett, Istennek akaratából való. * Kit csecsemőként karjaidban tartottál, ó Tisztaságos, * és kihez anyai bizodalmat nyertél, * ne szűnjél meg esedezni Hozzá tisztelőidért, * hogy szánja meg és üdvözítse a mi lelkünket.
+[/]
+[TRP]
+[T8]Tebenned ó anyánk, sértetlenül maradt meg a Példakép; * mert felvéve a keresztet, követted Krisztust, * és cselekedettel tanítottál minket, * hogy megvessük a múlandó testet, * és gondozzuk halhatatlan lelkünket. * Ezért szentéletű Mária, * angyalokkal együtt örvendezik a Te lelked.
+[//]
 [Palm Sunday]
+[LIC]
 [T6]Ma a Szent Lélek kegyelme egybegyűjtött minket, * és felvéve mindnyájan a keresztedet, mondjuk: * Áldott, aki az Úr nevében jő! * Hozsanna a magasságban!
 Ma a Szent Lélek kegyelme egybegyűjtött minket, * és felvéve mindnyájan a keresztedet, mondjuk: * Áldott, aki az Úr nevében jő! * Hozsanna a magasságban!
 Kinek az ég a trónusa, * és a föld a lábzsámolya, * az Atya Isten Igéje és a Vele együtt időtelen Fia, * ma az oktalan állat vemhére ülni alázkodott, * s azon jött Bethániába. * Azért a héberek gyermekei, * gallyakat tartva kezükben, * hangosan így ünnepelték: * Hozsanna a magasságban! *  Áldott, aki jő, Izráel Királya!
@@ -73,5 +133,21 @@ Hat nappal a Húsvét előtt jött Jézus Bethániába, * és járultak Eléje a
 [D][T6]Ma a Szent Lélek kegyelme egybegyűjtött minket, * és felvéve mindnyájan a keresztedet, mondjuk: * Áldott, aki az Úr nevében jő! * Hozsanna a magasságban!
 [M][T6]Ma a Szent Lélek kegyelme egybegyűjtött minket, * és felvéve mindnyájan a keresztedet, mondjuk: * Áldott, aki az Úr nevében jő! * Hozsanna a magasságban!
 [/]
-[Thomas]
+[APO]
+[T8]Örvendj és vigadozz Sionnak városa, * gyönyörködj és ujjongj Istennek Egyháza; * mert íme a te Királyod eljött igazsággal, * szamár vemhén ülve, * és gyermekek által magasztalva: * Hozsanna a magasságban! * Áldott vagy Te, akié a könyörület sokasága; * irgalmazz nekünk.
+[E]Kisdedek és csecsemők szájából szerzettél dicséretet.
+Eljött ma az Üdvözítő Jeruzsálem városába, * hogy betöltse az írást; * és mindnyájan gallyakat vettek kezükbe, * köntösüket meg Eléje terítették, * mert tudták, hogy Ő a mi Istenünk, * kihez a Kerubok szüntelenül ezt kiáltják: * Hozsanna a magasságban! * Áldott vagy Te, akié a könyörület sokasága; * irgalmazz nekünk.
+[E]Urunk, mi Urunk, mily csodálatos a Te neved az egész földön.
+Kit a Kerubok hordoznak s a Szeráfok magasztalnak, * Dávidként a szamár vemhére ültél fel, ó Jóságos. * A gyermekek Istenhez méltó módon dicsértek Téged, * a zsidók meg törvényszegőn káromoltak; * a szamár vemhén való ülésed a nemzetek zabolátlanságát jelentette, * mely a hitetlenségből hitté változott. * Dicsőség Néked, ó Krisztus, * egyedülvaló Irgalmas és Emberszerető.
+[M][T6]Ma a Szent Lélek kegyelme egybegyűjtött minket, * és felvéve mindnyájan a keresztedet, mondjuk: * Áldott, aki az Úr nevében jő! * Hozsanna a magasságban!
 [/]
+[TRP]
+[T1]Az általános feltámadást szenvedéseid előtt igazolván, * a halottakból fölkeltetted Lázárt, Krisztus Isten; * ezért mi is mint ama gyermekek, * kik a győzelem jelképét hozták Néked, * a halál Legyőzőjének, * így kiáltunk Hozzád: * Hozsanna a magasságban! * Áldott, ki az Úr nevében jő!
+[//]
+[Thomas]
+[LIC]
+[/]
+[APO]
+[/]
+[TRP]
+[//]

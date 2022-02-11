@@ -1,4 +1,5 @@
 [Tone 1]
+[LIC]
 [T1]A mi esti imáinkat fogadd el Szent Urunk, * és add meg nekünk bűneink bocsánatát; * mert egyedül Te mutattad meg * a világnak a feltámadást.
 Gyűljetek népek a Sion köré, * és vegyétek azt körül, * és zengjetek azon dicsőséget * a halottakból Feltámadottnak; * mert Ő a mi Istenünk, * aki megváltott bennünket törvénytelenségeinktől.
 Jertek népek, énekeljünk és hódoljunk Krisztusnak, * dicsőítve a halottakból való feltámadását; * mert Ő a mi Istenünk, * aki a világot megváltotta az ellenség álnokságától.
@@ -8,7 +9,23 @@ Aki testben önként keresztre feszíttetett érettünk, * szenvedett és elteme
 Az Atyával együtt időtelen és örökkévaló Igét, * ki a szűzi méhből kifejezhetetlenül született, * s a keresztet és a halált miérettünk önként elfogadta, * és dicsőséggel feltámadt, * magasztaljuk mondván: * Életetadó Urunk, * dicsőség Néked, * a mi lelkünk Üdvözítőjének.
 [M][T1]Az egész világnak Dicsőségét, * aki emberekből sarjadt, * és az Uralkodót szülte, * a mennyeknek kapuját, * dicsőítsük Máriát a Szüzet, * a Testnélküliek dicséretét és a hivők ékességét; * mert Ő az Istenség egének és templomának bizonyult. * Ő ledöntvén a viszály válaszfalát, * elhozta a békességet, * s az Országot megnyitotta. * Lévén nekünk Ő a hitünk horgonya, * az Úr a mi védelmezőnk, * ki Tőle született. * Bízzék tehát, bízzék Istennek népe, * mert Ő legyőzi az ellenséget, mint Mindenható.
 [/]
+[APO]
+[T1]Szenvedésed által Krisztus, * megszabadultunk a szenvedésekből, * és feltámadásod által megváltattunk az enyészettől; * Urunk, dicsőség Néked.
+[E]Az Úr uralkodik, ékességbe öltözött.
+Örvendezzék a Teremtés * az egek vigadjanak, * tapsoljanak kezeikkel a nemzetek örvendezve, * mert Krisztus, a mi Megváltónk, * bűneinket a keresztre szegezte, * és megölvén a halált, * életet ajándékozott nékünk, * feltámasztva az elesett ősünket Ádámot, * mint embereket szerető.
+[E]És megerősítette a földkerekséget, amely nem rendül meg.
+Bár a mennynek és a földnek Királya vagy, ó Felfoghatatlan, * önként feszíttettél a keresztre emberszeretetből. * Midőn lent az alvilág találkozott Veled, elkeseredett, * s az igazak lelkei fogadva Téged, örvendeztek, * Ádám pedig látván Téged, * a Teremtőt a föld mélységében, feltámadott. * Ó mily csoda! * Hogyan ízlelhette meg a halált a mindenek Élete? * Csakis úgy, hogy megvilágosítani akarta a világot, * mely ezt kiáltja és mondja: * Ki halottaidból feltámadtál, * Urunk, dicsőség Néked.
+[E]A Te házadat illeti szentség, Uram, napok hosszáig.
+A kenetetvivő asszonyok keneteket hozva, * sietséggel és sírással jöttek a sírodhoz, * s nem találván tisztaságos Testedet, * és megtudván az angyaltól az újszerű és különös csodát, * ezt mondták az apostoloknak: * Feltámadt az Úr, * megadva a világnak a nagy irgalmat.
+[/]
+[TRP]
+[T1]Bár a sírkövet a zsidók lepecsételték, * és a vitézek őrizték szeplőtelen Testedet, * feltámadtál harmadnapon Üdvözítő, * életet ajándékozva a világnak. * Ezért a Mennyei Hatalmak ezt kiáltják Néked, az Életetadónak: * Dicsőség a Te feltámadásodnak Krisztus, * dicsőség a Te Országodnak, * dicsőség a Te gondviselésednek, egyedülvaló Emberszerető.
+[/]
+[THT]
+[T1]Midőn Gábriel így szólott Hozzád ó Szűz: Örvendezz! * E szavával megtestesült a mindenek Uralkodója, * Benned a szent frigyszekrényben, * s amiképpen az igaz Dávid mondotta: * az egeknél tágasabbnak bizonyultál, * hordozva az Alkotódat. * Dicsőség a Benned Lakozónak, * dicsőség a Tőled Származónak, * és dicsőség Annak, * ki felszabadított minket, a Te szülésed által.
+[//]
 [Tone 2]
+[LIC]
 [T2]Az Atyától időknek előtte született, * és a Szűz Máriától megtestesült Isten Igének * jöjjetek hódoljunk, * mert eltűrvén a keresztet, temetésnek átadatott, * amint Ő maga akarta; * és feltámadván halottaiból, * üdvözített engem, a tévelygő embert.
 Krisztus, a mi Üdvözítőnk * keresztre szegezvén az ellenünk szóló adósságlevelet * megsemmisítette azt, * s megszüntette a halál hatalmát. * Hódolunk a harmadnapi feltámadásának.
 Az arkangyalokkal együtt magasztaljuk * Krisztus feltámadását, * mert Ő a mi lelkünk Megváltója és Üdvözítője, * aki az Ő félelmetes dicsőségével és hatalmas erejével újból eljő * megítélni a világot, amelyet alkotott.
@@ -18,7 +35,23 @@ Megnyíltak Előtted Urunk * félelemmel a halál kapui, * s az alvilág őrség
 Az üdvösség dicsérőénekét zengve, * ajkainkkal énekeljünk: * Jertek mindannyian, * boruljunk le az Úrnak házában, mondván: * Ki a keresztfára feszíttettél, * és halottaidból feltámadtál, * s az Atyának ölében vagy, * könyörülj a bűneinken.
 [M][T2]Elszállt a törvény árnyéka * és eljött a kegyelem; * mert amiként a lángoló csipkebokor el nem égett, * azonképpen szűzen szültél és Szűz is maradtál. * A lángoszlop helyett az Igazság Napja kelt fel, * Mózes helyett pedig Krisztus, a mi lelkünk Üdvössége.
 [/]
+[APO]
+[T2]A Te feltámadásod Krisztus Üdvözítő, * beragyogta az egész földkerekséget, * és általa visszahívtad a Te teremtményedet. * Mindenható Urunk, dicsőség Néked.
+[E]Az Úr uralkodik, ékességbe öltözött.
+A keresztfa által megszüntetted, Üdvözítő, * a gyümölcsfa átkát; * a halál hatalmát temetéseddel megölted, * nemzetségünket pedig megvilágosítottad a Te feltámadásoddal. * Ezért így kiáltunk Hozzád: * Életetadó Krisztus Istenünk, dicsőség Néked.
+[E]És megerősítette a földkerekséget, amely nem rendül meg.
+Amikor a keresztre szegezve jelentél meg Krisztus, * elváltoztattad a teremtményeid szépségét: * a katonák megmutatták az embertelenségüket, * átszúrván lándzsával oldaladat, * a héberek pedig követelték sírod lepecsételését, * nem ismervén hatalmadat. * Ki irgalmas szánalmadban elfogadtad az eltemettetést, * és harmadnap feltámadtál, * Urunk, dicsőség Néked.
+[E]A Te házadat illeti szentség, Uram, napok hosszáig.
+Ó életetadó Krisztus, * aki önként tűrted el a szenvedést a halandókért, * leszállván az alvilágba mint hatalmas, * a jöveteledre ott várakozókat kiragadtad a hatalmasnak kezéből, * s a Paradicsomot ajándékoztad nékik * lakhelyül az alvilág helyett. * Ajándékozd azért nékünk is, * kik dicsérjük harmadnapi feltámadásodat, * a bűnöktől való megtisztulást és a nagy irgalmat.
+[/]
+[TRP]
+[T2]Midőn leszállottál a halálba, Halhatatlan Élet, * megölted a poklot az Istenség villámával, * midőn pedig a halottakat a föld mélyéből feltámasztottad, * minden Mennyei Hatalmak így kiáltottak: * Életetadó Krisztus Istenünk, dicsőség Néked.
+[/]
+[THT]
+[T2]Mind értelem fölött vannak, * mind fölöttébb dicsőségesek a Te titkaid, Istennek Szülője; * tisztasággal megpecsételt, * és szüzességben megőrzött, hamisítatlan Anyává lettél, * megszülvén az igaz Istent. * Hozzá esedezz, hogy üdvözüljön a mi lelkünk.
+[//]
 [Tone 3]
+[LIC]
 [T3]A Te kereszted által Krisztus Üdvözítő * leomlott a halálnak hatalma, * és meghiúsult az ördög álnoksága; * az emberek nemzetsége pedig * a hit által üdvözülve * minden napon dicsérőéneket zeng Tenéked.
 Megvilágosodott a mindenség a feltámadásod által Urunk, * s újból megnyílt a Paradicsom, * és az egész teremtés Téged magasztalva * minden napon dicsérőéneket zeng Tenéked.
 Dicsőítem az Atyának és Fiúnak erejét, * s magasztalom a Szent Lélek hatalmát, * az elválaszthatatlan és nem alkotott Istenséget, * egylényegű Háromságot, * aki uralkodik mindörökkön örökké.
@@ -28,7 +61,23 @@ Az alvilágban lévőknek örömet hirdetett * a hozzájuk alászállott Krisztu
 Akik méltatlanul állunk tisztaságos hajlékodban, * esti dicsérőéneket zengünk * a mélységből felkiáltva, Krisztus Isten: * Ki megvilágosítottad a világot harmadnapi feltámadásoddal, * ragadd ki népedet ellenségeid kezéből, ó Emberszerető.
 [M][T3]Hogyan is ne csodálnánk * istenemberi szülésedet, ó fölöttébb Tiszteletreméltó! * Mert férfiút nem ismervén, ó Tisztaságos, * atya nélkül szülted testben a Fiút, * aki minden időknek előtte, * az Atyától anya nélkül született, * úgyhogy semmi változást vagy vegyülést * vagy megoszlást nem szenvedett, * hanem mindkét valójának a tulajdonságát * sértetlenül megőrizte. * Ezért Szűzanya Nagyasszonyunk, * esedezzél Őhozzá, * hogy üdvözítse azok lelkét, * akik Téged igaz hittel Isten Szülőjének vallanak.
 [/]
+[APO]
+[T3]Aki szenvedésed által elhomályosítottad a napot, * feltámadásod fényével pedig derűssé tetted a mindenséget, ó Krisztus, * fogadd el esti dicsérőénekünket * mint embereket szerető.
+[E]Az Úr uralkodik, ékességbe öltözött.
+A Te életetadó feltámadásod Urunk, * az egész földkerekséget megvilágosította, * és a Te teremtményedet, mely romlott volt, * kegyelmedbe visszahívta. * Ezért Ádám átkától megszabadulva, * így kiáltunk Hozzád: * Mindenható Urunk, dicsőség Néked.
+[E]És megerősítette a földkerekséget, amely nem rendül meg.
+Változhatatlan Isten létedre, * testileg szenvedve elváltoztál; * kit is a teremtés nem nézhetett függeni a kereszten, * és szorongó félelemmel * sóhajtozva dicsérte hosszantűrésedet; * alászállva pedig az alvilágba, * harmadnapra feltámadtál, * életet ajándékozva a világnak * és a nagy irgalmat.
+[E]A Te házadat illeti szentség, Uram, napok hosszáig.
+Hogy a mi nemzetségünket a haláltól megváltsad ó Krisztus, * elszenvedted a halált, * s harmadnapra feltámadván a halottaidból, * magaddal feltámasztottad azokat is, * akik Téged Istennek ismernek, * s a világot megvilágosítottad. Urunk, dicsőség Néked.
+[/]
+[TRP]
+[T3]Örvendezzenek az égiek * és vigadjanak a földiek, * mert hatalmasat cselekedett karjával az Úr: * eltiporta halállal a halált, * elsőszülötté lett a halottak közül, * a pokol gyomrából szabadított ki minket, * és megadta a világnak a nagy irgalmat.
+[/]
+[THT]
+[T3]Aki nemzetségünk üdvösségéért közbenjársz, * Téged magasztalunk, Istennek Szűz Szülője; * mert a Tőled vett testével, * a Fiad és Istenünk, * elfogadván a kereszten való kínszenvedést, * megváltott minket az enyészettől, * mint embereket szerető.
+[//]
 [Tone 4]
+[LIC]
 [T4]Életetadó kereszted előtt szüntelenül hódolva, * ó Krisztus Isten, * harmadnapi feltámadásodat dicsőítjük, * mert általa megújítottad az emberek megromlott természetét, ó Mindenható, * s a mennyekbe való fölmenetelt megmutattad nékünk, * mint egyedül jóságos és emberszerető.
 Az engedetlenség fájának büntetését * feloldottad Üdvözítő * a kereszt fájára Önként szegeztetvén, * és az alvilágba alászállván, ó Hatalmas, * a halálnak bilincseit mint Isten széttörted; * ezért is hódolunk a halottakból való feltámadásodnak, * örvendezéssel kiáltva: * Mindenható Urunk, dicsőség néked.
 Az alvilág kapuit szétzúztad Urunk, * haláloddal megdöntötted a halál uralmát, * az emberek nemzetségét megszabadítottad az enyészettől, * életet és enyészetlenséget ajándékozva a világnak * és a nagy irgalmat.
@@ -38,7 +87,23 @@ Az érckapukat szétzúztad, * a korlátokat letörted Krisztus Isten, * és az 
 Urunk, az Atyától való születésed időtelen és örök; * a Szűztől való megtestesülésed embereknek titokzatos és felfoghatatlan; * és az alvilágba való leszállásod félelmetes az ördögnek és az ő angyalainak; * mert a halált eltiporván harmadnapra feltámadtál, * enyészetlenséget adván az embereknek és a nagy irgalmat.
 [M][T4]Dávid próféta egykoron, * ki Néked istenősöd volt, * így énekelt Rólad Annak, * aki Veled nagy dolgokat cselekedett, Istennek Szülője: * Jobbod felől állt meg a Királynő. * Mert életethozó Anyává tett Téged * az Általad atya nélkül Emberré lett Isten, * hogy újjáalkossa a szenvedélyektől elrontott képmását, * és hogy megtalálva a hegyekben eltévedett bárányt, * vállaira vegye s az Atyához vigye, * és a maga akaratából a Mennyei Hatalmakkal egyesítse, * és megváltsa a világot Ő, a Krisztus, * akié a nagy és gazdag irgalom.
 [/]
+[APO]
+[T4]Urunk, felmenvén a keresztre, * eltörölted az ősszülői átkunkat, * és alászállván az alvilágba, * kiszabadítottad az időtelen időktől megkötözötteket, * enyészetlenséget ajándékozva az emberek nemzetségének; * amiért is énekelve dicsőítjük * az életetadó és megváltó feltámadásodat.
+[E]Az Úr uralkodik, ékességbe öltözött.
+A kereszten függve, * ó egyedül Hatalmas, * megrengetted az egész teremtést, * sírba helyeztetvén pedig, * feltámasztottad a sírban lakozókat, * enyészetlenséget és életet ajándékozva az emberek nemzetségének; * amiért is énekelve dicsőítjük * harmadnapi feltámadásodat.
+[E]És megerősítette a földkerekséget, amely nem rendül meg.
+A törvényszegő nép, * átadva Pilátusnak Téged ó Krisztus, * kereszthalálra ítélt el Téged, * hálátlannak mutatkozva Jóttevője iránt; * de Te önként eltűrvén az elhantolást, * harmadnapra Önerődből feltámadtál mint Isten, * ajándékozva nékünk * az örökkévaló életet és a nagy irgalmat.
+[E]A Te házadat illeti szentség, Uram, napok hosszáig.
+Könnyek közt kerestek Téged * az asszonyok a sírhoz érkezvén, * s nem találva Téged, * sírva és jajgatva kiáltottak mondván: * Ó jaj nékünk! * Hogyan lophattak el Téged Üdvözítőnk, * mindenek Királya? * Mely hely tartja fogva életethordozó testedet? * Angyal pedig felelt nékik: * Ne sírjatok — így szólt —, * de menjetek s hirdessétek, * hogy feltámadott az Úr, * örvendezést adva nekünk, * mint egyedül könyörületes.
+[/]
+[TRP]
+[T4]A feltámadás örvendetes hírét, * megtudván az angyaltól az Urat követő asszonyok, * és elvetvén az ősatyai ítéletet * boldogan mondották az apostoloknak: * Legyőzetett a halál, * feltámadt a Krisztus Isten * ajándékozva a világnak a nagy irgalmat.
+[/]
+[THT]
+[T4]Az időtelen időktől rejtett, * és az angyalok előtt is ismeretlen titok, * megnyilatkozott a földieknek, Teáltalad Istennek Szülője: * Isten az Ő összevegyítetlen egységében megtestesült, * és érettünk önként elvállalta a keresztet, * amely által feltámasztván az elsőnek alkotottat, * megmentette a haláltól a mi lelkünket.
+[//]
 [Tone 5]
+[LIC]
 [T5]A Te drága kereszteddel Krisztus * az ördögöt megszégyenítetted, * és feltámadásod által letörted a bűn fullánkját, * s kiragadtál minket a halálnak kapujából. * Dicsőítünk Téged, ó Egyszülött.
 Aki feltámadást adott az emberi nemzetségnek, * mint a juh vitetett a leöletésre; * megrettentek Tőle az alvilág vezérei, * és fölemelkedtek a fájdalom kapui; * mert belépett Krisztus, * a dicsőség Királya, * így szólva a megbilincseltekhez: * Jöjjetek ki! * A sötétségben lévőknek pedig ezt mondotta: * Fedjétek fel magatokat!
 Ó nagyszerű csoda! * A láthatatlan dolgoknak Alkotója, * emberszeretetből testileg szenvedvén, * feltámadt mint halhatatlan. * Jertek népek nemzetségei, * hódoljunk Előtte, * mert az Ő könyörülete által * megszabadultunk a tévelygéstől, * és megtanultuk dicsérni a három tulajdonságú Egy Istent.
@@ -48,7 +113,23 @@ Az őrséghez tartozókat így oktatták a törvénytelenek: * Titkoljátok el K
 Urunk, ki az alvilágot leigáztad, * és a halált eltiportad, Üdvözítőnk, * aki meg világosítottad a világot a Te drága kereszteddel, * irgalmazz nekünk.
 [M][T5]A Vörös Tengerben egykor * a férjezetten Menyasszony képe rajzolódott ki: * ott Mózes volt a víznek szétválasztója, * itt Gábriel a csodának szolgálója; * akkor a mélységen száraz lábbal kelt át Izrael, * most meg Krisztust szülte a Szűz magtalanul. * Izraelnek átkelése után újra járhatatlan lett a tenger, * Emmánuel születése után pedig sértetlen maradt a Feddhetetlen. * Aki vagy és aki mindig voltál, * és mint Ember megjelentél, ó Istenünk, * irgalmazz nékünk.
 [/]
+[APO]
+[T5]Téged, a megtestesült és a mennyektől meg nem vált Üdvözítő Krisztust, * énekeknek hangján magasztalunk; * mert a keresztet és a halált is elvállaltad a mi nemzetségünkért, * mint ember szerető Urunk; * ledöntvén az alvilág kapuit * harmadnapra feltámadtál * üdvözítve a mi lelkünket.
+[E]Az Úr uralkodik, ékességbe öltözött.
+Midőn átszúrták az oldaladat, ó Életetadó, * a bocsánat, az élet és az üdvösség forrásait fakasztottad mindeneknek; * testileg a halált elfogadtad, * halhatatlanságot ajándékozva minékünk; * a sírban lakozván pedig * minket megszabadítottál, * magaddal feltámasztva bennünket, * dicsőségesen mint Isten. * Ezért így kiáltunk Hozzád: * Embereket szerető Urunk, dicsőség Néked.
+[E]És megerősítette a földkerekséget, amely nem rendül meg.
+Különös a keresztrefeszíttetésed, * és az alvilágba való leszállásod, ó Emberszérető; * mert leigázván azt, * s a régóta fogvatartottakat önmagaddal feltámasztván * dicsőségesen mint Isten, * és megnyitván a Paradicsomot, * őket annak élvezetére méltattad. * Ezért tehát minékünk is, * kik dicsérjük harmadnápi feltámadásodat, * ajándékozd bűneink bocsánatát, * és méltass bennünket arra, * hogy a Paradicsom lakói lehessünk, * ó egyedülvaló Könyörületes.
+[E]A Te házadat illeti szentség, Uram, napok hosszáig.
+Aki miérettünk elfogadtad a testi szenvedést, * és harmadnap feltámadtál a halottaidból, * gyógyítsd meg a testi szenvedéseinket, * és emelj föl minket súlyos vétkeinkből, ó Emberszerető, * és üdvözíts minket.
+[/]
+[TRP]
+[T5]Az Atyával és a Lélekkel együtt öröktől való Igét, * ki a Szűztől a mi üdvösségünkre született, * magasztaljuk hivők és hódoljunk Néki; * mert kegyes volt testben felmenni a keresztre, * és elszenvedni a halált, * és az elhunytakat is feltámasztani * az Ő dicsőséges feltámadásával.
+[/]
+[THT]
+[T5]Örvendezz, Úrnak átjárhatatlan ajtaja; * örvendezz, védőfala és oltalma a Hozzád folyamodóknak; * örvendezz, nyugalmas révpart és férjezetlen Hajadon, * ki testileg szülted Alkotódat és Istent. * Ne szűnjél meg közbenjárni, * azokért, kik dicsérik és imádják a Te Szülöttedet.
+[//]
 [Tone 6]
+[LIC]
 [T6]Aki győzedelmes vagy az alvilág felett, ó Krisztus, * felmentél a keresztre, * hogy a halál sötétségében lévőket önmagaddal feltámasszad * mint aki a holtak között is szabad vagy. * Ki életet fakasztasz tulajdon világosságodból, * mindenható Üdvözítő, * irgalmazz nékünk.
 Mai napon Krisztus * eltiporván a halált, * feltámadt amint mondotta, * s a világnak örömet ajándékozott, * hogy mindnyájan felkiáltva, * ilyen dicséretet zengjünk: * Életnek Forrása, * megközelíthetetlen Világosság, * mindenható Üdvözítő, irgalmazz nékünk.
 Teelőled Urunk, * aki jelen vagy az egész teremtésben, * mi bűnösök hová menekülnénk? * A mennybe-é? * De Te ott lakozol. * Az alvilágba-é? * De Te eltiportad a halált. * A tengernek mélyébe-é? * De ott is van a Te karod, Uralkodónk. * Hozzád menekedünk tehát, * és Előtted leborulva esedezünk: * Aki feltámadtál a halottaidból, * irgalmazz nékünk.
@@ -58,7 +139,23 @@ Dicsőség a hatalmadnak Urunk, * mert ledöntötted azt, akié a halálnak hata
 A Te eltemettetésed Urunk, * összezúzva törte szét az alvilág bilincseit, * a halottakból való feltámadásod pedig, * a világot megvilágosította. * Urunk, dicsőség Néked.
 [M][T6]Ki ne mondana boldognak Téged, ó szentséges Hajadon? * Kicsoda ne magasztalná a Te szűzi szülésedet? * Mert az Atyától időtelenül kisugárzott egyszülött Fiú, * Tőled származott ó Tisztaságos, * kifejezhetetlen módon megtestesülvén. * Természete szerint Isten lévén, * érettünk természet szerint Emberré lett * két személyre meg nem oszthatóan, * de két természetben összevegyíthetetlenül felismerhetően. * Őhozzá esedezz, ó Tiszta és Boldogságos, * hogy irgalmazzon a mi lelkünknek.
 [/]
+[APO]
+[T6]A Te feltámadásodat Krisztus Üdvözítő, * angyalok dicsérik a mennyekben; * méltass minket is a földön, * hogy tiszta szívvel dicsőítsünk Téged.
+[E]Az Úr uralkodik, ékességbe öltözött.
+Szétzúzván az érckapukat, * és az alvilág korlátait letörvén, * mint mindentehető Isten, * fölemelted az emberek elesett nemzetségét; * ezért is mi dicséretet énekelve így kiáltunk: *  Aki a halottaidból feltámadtál, * Urunk, dicsőség Néked.
+[E]És megerősítette a földkerekséget, amely nem rendül meg.
+A régi romlásból helyre akarván állítani bennünket Krisztus, * a keresztre szegeztetik és a sírba helyeztetik; * Őt keresve könnyek között a kenetvivő asszonyok, * zokogva mondották: * Ó jaj nekünk, mindenek Üdvözítője! * Hogyan fogadhattad el a sírban való lakást? * És ha ott akartál lakni, * hogyan lophattak el? * Hová helyeztek át Téged? * Mely hely rejtette el életetadó testedet? * Hanem Uralkodónk, amiképpen megígérted, * jelenj meg és távoztasd el tőlünk a könnyes bánkódást. * És míg azok siránkoztak, * az angyal így kiáltott hozzájuk: * Szüntessétek meg a sírást, * és mondjátok az apostoloknak, * hogy feltámadott az Úr, * engesztelést adva a világnak, * és a nagy irgalmat.
+[E]A Te házadat illeti szentség, Uram, napok hosszáig.
+A keresztre feszíttetvén akaratod szerint Krisztus, * és a halált leigázva eltemettetéseddel, * harmadnapra feltámadtál dicsőséggel mint Isten, * örök életet ajándékozva a világnak és a nagy irgalmat.
+[/]
+[TRP]
+[T6]Angyali Hatalmak szálltak a sírboltodra, * és az őrizők megbénultak; * és ott állott Mária, * a sírban keresve szeplőtelen testedet. * Meghódítottad a poklot, * meg nem kísértetvén tőle; * találkoztál a Szűzzel, életet ajándékozva. * Aki a halottaidból feltámadtál, Urunk, dicsőség Néked.
+[/]
+[THT]
+[T6]Ki áldottnak nevezted Anyádat, * önakaratodból jöttél a szenvedésre, * felragyogtál a kereszten, * meg akarván keresni Ádámot, * s így szóltál az angyalokhoz: * örüljetek Velem együtt, * mert megkerült az elveszett drachma. * Aki mindent bölcsen elrendezel, dicsőség Néked.
+[//]
 [Tone 7]
+[LIC]
 [T7]Jertek örvendezzünk az Úrban, * ki megtörte a halál hatalmát, * és megvilágosította az emberek nemzetségét, * s így kiáltsunk együtt a Testnélküliekkel: * Teremtőnk és Üdvözítőnk, dicsőség Néked.
 Keresztet és elhantolást szenvedtél el * miérettünk Üdvözítő, * és mint Isten haláloddal a halált megölted; * ezért hódolunk a harmadnapi feltámadásodnak. * Urunk, dicsőség Néked.
 Látván az apostolok a Teremtő feltámadását, * csodálták azt az angyali dicséretet énekelve: * Ez az Egyház dicsősége, * ez az Ország gazdagsága. * Aki érettünk szenvedtél, Urunk, dicsőség Néked.
@@ -68,7 +165,23 @@ Leszálltál az alvilágba Krisztus, * amiként magad akartad, * leigáztad a ha
 Mint alvót tettek a sírba Téged Urunk, * s harmadnapra feltámadtál mint erőben hatalmas, * önmagaddal felkeltve Ádámot a halál enyészetéből, mint mindentehető.
 [M][T7]Mint Anya természetfelettinek mutatkoztál meg, Istennek Szülője, * Szűznek pedig értelmet és elmét meghaladó módon maradtál, * és szülésednek csodáját nyelv meg nem magyarázhatja; * mivel különös volt foganásod, Tisztaságos, * szülésednek módja is felfoghatatlan, * mert ahol Isten akarja, * legyőzetik a természet rendje. * Ezért is mi mindannyian, * Isten Anyjának ismerve Téged, * állhatatosan könyörgünk Hozzád: * Járj közre, hogy üdvözüljön a mi lelkünk.
 [/]
+[APO]
+[T7]Feltámadtál a sírból, * ó világ Üdvözítője, * és testeddel együtt felkeltetted az embereket is. * Urunk, dicsőség Néked.
+[E]Az Úr uralkodik, ékességbe öltözött.
+A halottaiból Feltámadottnak, * s a mindeneket Megvilágosítónak * jertek hódoljunk; * mert megszabadított minket az alvilág uralmától * harmadnapi feltámadásával, * életet ajándékozva nékünk, * és a nagy irgalmat.
+[E]És megerősítette a földkerekséget, amely nem rendül meg.
+Az alvilágba leszállva Krisztus, * leigáztad a halált, * s harmadnapon feltámadva * minket is feltámasztottál, * kik dicsérjük nagyhatalmú feltámadásodat, * embereket szerető Urunk.
+[E]A Te házadat illeti szentség, Uram, napok hosszáig.
+Félelmetesnek mutatkoztál meg Urunk, * amikor mint alvó feküdtél a sírban; * feltámadva pedig harmadnapra mint hatalmas, * Ádámot is felkeltetted, * ki így kiált Hozzád: * Dicsőség a feltámadásodnak, egyedüli Emberszerető.
+[/]
+[TRP]
+[T7]Elpusztítottad kereszteddel a halált, * a latornak megnyitottad a Paradicsomot, * a kenethozó asszonyok siralmát megváltoztattad, * és apostolaidnak megparancsoltad, hogy hirdessék: * Feltámadtál Krisztus Isten, * megadván a világnak a nagy irgalmat.
+[/]
+[THT]
+[T7]Mint feltámadásunk letéteményese, ó fölöttébb Magasztalt, * emelj föl bennünket, kik Tebenned bízunk, * a vétkeknek gödréből és mélységéből; * mert Te szabadítottad meg a bűnökben vétkeseket, * az Üdvösségünket szülvén, * ki a szülés előtt s a szülésben is Szűz voltál, és szülés után is Szűz maradtál.
+[//]
 [Tone 8]
+[LIC]
 [T8]Esti dicsérőéneket * és eszmei szolgálatot ajánlunk fel Néked Krisztus, * mivel kegyeskedtél irgalmazni nékünk * a feltámadásod által.
 Urunk, Urunk, ne vess el bennünket * a Te színed elől, * hanem kegyeskedjél irgalmazni nékünk * a feltámadásod által.
 Örvendezz szent Sion, * egyházaknak anyja, * Istennek hajléka, * mert te nyerted el elsőként a bűnöknek bocsánatát * a feltámadás által.
@@ -78,3 +191,18 @@ Dicsőség Néked Krisztus Üdvözítő, * Istennek egyszülött Fia, * aki a ke
 Téged dicsőítünk Urunk, * aki miérettünk önként szenvedted el a keresztet, * és Tenéked hódolunk ó mindenható Üdvözítő. * Ne vess el bennünket a Te színed elől, * de hallgass meg és üdvözíts minket * a feltámadásod által, ó Emberszerető.
 [M][T8]A Mennyek Királya emberszeretetből megjelent a földön, * és emberek közt lakozott, * mert a tiszta Szűztől testet véve, * s a vétellel Őtőle származván * egy Fiú Ő, * aki természete szerint kettős, * de nem a tulajdonsága szerint; * ezért Őt igazán tökéletes Istennek és tökéletes Embernek hirdetve, * megvalljuk a Krisztust, a mi Istenünket, * akihez is esedezzél érintetlen Anya, * hogy irgalmazzon a mi lelkünknek.
 [/]
+[APO]
+[T8]Felmentél a keresztre ó Jézus, * ki az égből szálltál alá; * a halálhoz jöttél halhatatlan Élet, * a sötétségben levőkhöz igazi Világosság, * az elesettekhez mindenek Feltámadása. * Megvilágosítónk és Üdvözítőnk, dicsőség Néked.
+[E]Az Úr uralkodik, ékességbe öltözött.
+Krisztust dicsőítsük, * ki feltámadt a halottaiból; * mert lelket és testet öltvén, * szenvedésével elválasztotta azokat egymástól, * és a tisztaságos lelke leszállott az alvilágba, * amelyet is leigázott, * a sírban pedig nem ismerte meg a romlást * a mi lelkünk Megváltójának szent teste.
+[E]És megerősítette a földkerekséget, amely nem rendül meg.
+Zsoltárokkal és dicsérőénekekkel dicsőítjük Krisztus * a halottaidból való feltámadásodat, * amely által megváltottál minket az alvilág gyötrelmétől, * és mint Isten örök életet ajándékoztál, * és a nagy irgalmat.
+[E]A Te házadat illeti szentség, Uram, napok hosszáig.
+Mindeneknek felfoghatatlan Uralkodója, * égnek s földnek Teremtője, * a kereszt által szenvedvén, * sérthetetlenséget adtál nékem, * elfogadván pedig az eltemettetést, * s feltámadván dicsőséggel, * Ádámot is feltámasztottad magaddal, * mindentehető kezeddel. * Dicsőség a harmadnapi feltámadásodnak, * amely által ajándékul adtad nékünk az örök életet, * és a bűnöktől való megtisztulást, * mint egyedülvaló Könyörületes.
+[/]
+[TRP]
+[T8]A magasságból szállottál alá Könyörületes, * elfogadtad a háromnapos eltemettetést, * hogy minket megszabadíts a szenvedésektől. * Életünk és Feltámadásunk, mi Urunk, dicsőség Néked.
+[/]
+[THT]
+[T8]Aki miérettünk a Szűztől születtél, és keresztréfeszítést szenvedtél, ó Jóságos, * ki a halált haláloddal leigáztad, * és mint Isten megmutattad a feltámadást, * meg ne vesd a kezed alkotásait; * mutasd meg emberszeretétedet, ó Irgalmas; * fogadd a Szülődnek, Isten Szülőjének érettünk való közbenjárását, * és üdvözítsd, Üdvözítőnk, keservesen bánkódó népedet.
+[//]
