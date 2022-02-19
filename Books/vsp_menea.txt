@@ -24,7 +24,7 @@ Az írásban levő törvényt teljesíti * a törvény Ura és megadója, * mert
 Azt, ki az Atyától öröktől fogva, * a Szűz méhéből pedig az utóbbi időben feltündöklött, * a templomba viszi a férfit nem ismerő Anya. * Azt, ki a Sinai-hegyen a törvényt adta, * és ki aláveti magát a törvény rendelkezésének, * odanyújtja az agg és igaz papnak, * ki ígéretet kapott, hogy meglátja az Úr Krisztust. * Karjára veszi őt Simeon, * és örvendezéssel mondja: * Az Atyával együtt öröklétezésű Isten e kisded * és a mi lelkünk Szabadítója.
 [E]Világosságul a pogányok megvilágosítására és dicsőségül a te népednek, Izraelnek.
 A kerubszekéren hordozott * és a szeráfok által dicsőítő énekekben magasztalt * és a szeplőtelen módon tőle megtestesült isteni kisdedet * az Istenszülő Mária karjain hordozta. * A törvényhozót, ki betölti a törvény parancsát, * átadta az agg pap karjaira, * és aki az Eletet tartja karjain, * az életnek feloldását kéri, mondván: * Uralkodó, most bocsáss el engem, * hogy Ádámnak meghirdessem, * láttam változatlanul kisdedként * az örök Istent * és a világ Üdvözítőjét!
-[M][8]Azt, akit a kerubok vállukon hordoznak * és a szeráfok szent dalokkal magasztalnak, * ma a törvény szerint elhozzák a szent templomba, * és mint királyi székre az aggastyán karjára ültetik fel. * Ő Józseftől elfogadja az Istent megillető ajándékot: * gerlepárként a szeplőtelen egyházat * és a pogányokból kiválasztott új népet, * két galambfiókát is kap az Ó- és Újszövetség szerzője. * Simeon látja, hogy teljesül a reá vonatkozó ígéret, * megáldja az Istenszülő Szűz Máriát, * és megjövendöli neki a Szülöttjére váró szenvedés jeleit. * E gyermektől elbocsáttatását kérve felkiált: * Most bocsáss el engem. Uralkodó, * miként megígérted nekem, * mert láttam az öröktől fogva való világosságot * és a kereszténység üdvözítő Urát!
+[M][T8]Azt, akit a kerubok vállukon hordoznak * és a szeráfok szent dalokkal magasztalnak, * ma a törvény szerint elhozzák a szent templomba, * és mint királyi székre az aggastyán karjára ültetik fel. * Ő Józseftől elfogadja az Istent megillető ajándékot: * gerlepárként a szeplőtelen egyházat * és a pogányokból kiválasztott új népet, * két galambfiókát is kap az Ó- és Újszövetség szerzője. * Simeon látja, hogy teljesül a reá vonatkozó ígéret, * megáldja az Istenszülő Szűz Máriát, * és megjövendöli neki a Szülöttjére váró szenvedés jeleit. * E gyermektől elbocsáttatását kérve felkiált: * Most bocsáss el engem. Uralkodó, * miként megígérted nekem, * mert láttam az öröktől fogva való világosságot * és a kereszténység üdvözítő Urát!
 [/]
 [TRP]
 [T1]Örvendezz Kegyelembefogadott, * Istennek Szűz Szülője, * mert Belőled kelt fel az Igazság Napja, * a mi Krisztus Istenünk, * megvilágítva a sötétségben járókat. * Örvendezz Te is, * igaz öreg férfiú, * aki karjaidba fogadtad * a mi lelkünk Szabadítóját, * aki pedig feltámadást ajándékozott nékünk.
@@ -161,39 +161,54 @@ Most bocsátod el, Uram, szolgádat, * amint megmondtad, békességben * a test 
 [//]
 [02.09]
 [LIC]
-[T2]Istenben * nagyon boldog vértanú, * engedelm eskedtél az érettünk a földön testben megjelent * és a tiszteletreméltó szenvedést magára vállalt Krisztus törvényének, * teljesítetted a felebaráti szeretet parancsát, * mert az a törvény és a próféták lényege. * Éppen ezért boldog véget is értél, * és most ott állsz a szeretet forrásánál, Győző!
+[T2]Istenben * nagyon boldog vértanú, * engedelmeskedtél az érettünk a földön testben megjelent * és a tiszteletreméltó szenvedést magára vállalt Krisztus törvényének, * teljesítetted a felebaráti szeretet parancsát, * mert az a törvény és a próféták lényege. * Éppen ezért boldog véget is értél, * és most ott állsz a szeretet forrásánál, Győző!
 Fejedet * meghajtottad Isten előtt, * kinek a mindenség térdet hajt, * csodálatos vértanú! * Levágták fejedet, s elválasztották nemes testedtől, * Krisztussal, a mindenség fejével egyesültél tiszta elmével, * most az ő világosságában élsz, * kérj tehát mindnyájunknak, * a te magasztalóidnak megvilágosítást, Győző!
 Krisztusért * kiomlott véred áradatával a földet megszentelted, * lelkeddel megörvendeztetted a test nélküli erők szellemeit, * a vértanúk egész seregét megvidámítottad, * mint nemes katona és mint legyőzhetetlen vértanú, * boldog bölcs, egyesültél velük, * és érettünk esedezel Istenhez.
 [M][T2]Fogadd el * szolgáid könyörgő énekét, * melyet hozzád intézünk, Istenszülő, * ments meg minket, Nagyasszony, kik segítség nélkül vagyunk, * vezesd ki a veszedelmekből ezt a te nyájadat, * amely híven eléd borul a te szent templomodban, * mert te mint anya, ki az Üdvözítőt szülted, * bátran eléje járulhatsz, * esedezzél szüntelenül a mi üdvösségünkért!
 [/]
 [APO]
+[D][T6]Mindenkinek világosan megmutattad, Győző bajnok, * hogy aki felebarátját nem szereti, * az az Uralkodót sem szeretheti. * Azért magad is igazán szeretted szolgatársadat, Szaprikioszt, * s ebből az istenszeretet magasságába emelkedtél, * és életedet a Krisztusba vetett hit megvallásáért ajánlottad föl. * A gonosz Szaprikiosz azonban engesztelhetetlenül gyűlölt téged, * és megtagadta az Uralkodó Krisztust, * akinek színe előtt te most ott állsz. * Esedezzél a mi lelkünk üdvösségéért!
+[M][T6]Megsebeztek engem a démonok rablótámadásai, * s teljesen elerőtlenedve fekszem, Szeplőtelen, * az állhatatlanság útján mindenkor hozzád folyamodom , * tekints reám könyörülettel, * önts bort és olajat gyógyíthatatlan sebeimre, * segíts megerősödnöm , hogy dicsőítselek téged, * és érdemed szerint buzgón magasztaljam nagy csodáidat, * szeplőtelen mindenkorszűz Anya!
 [/]
 [TRP]
 [T4]A te szent vértanúd, Urunk, * az ő szenvedéseiért hervadhatatlan koszorút nyert tőled, Krisztus Istenünk, * mert a te erődet bírván * kínzóit megszégyenítette, * és az ördögök tehetetlen vakm erőségét megtörte. * Az ő imádságai által * üdvözítsd, jóságos a mi lelkünket!
 [//]
 [02.10]
 [LIC]
-[T]
-[/]
-[APO]
+[T6]Már ifjú korodban fölajánlottak az Úrnak, * őutána vágyódtál, * az ő nyomdokaiba léptél, * megtisztultál a szenvedélyek minden szennyétől, * a gyógyítások szent kegyelmi ajándékát bőségesen elnyerted, * csodajeleket műveltél, * vértanúvá lettél, * a kereszten feláldozottnak segítségével * a kínvallatás minden gyötrelmében tántoríthatatlan maradtál. * Szüntelenül esedezzél hozzá a mi lelkünkért!
+Felszögezték szögekkel * a te nagyon erős, boldog testedet, legyőzhetetlen Karalampész bajnok, * de gyötrelmeid közepette lelkedet tántoríthatatlanul, elmédet sértetlenül megőrizted. * Belülről az isteni szeretet fűtött nagy lánggal, * és arra ösztönzött, hogy a kínok minden fajtáját elviseld, * bajnok vértanú, Krisztus szenvedéseinek részese. * Bátran esedezzél hozzá a mi lelkünkért!
+Küzdelmedért szerfölött ragyogó örömet, * mindennél tiszteletreméltóbb dicsőséget * és örökkétartó boldogságot örököltél, szentéletű főpap, * tiszteletreméltó bajnok, legnemesebb harcos, * ki a sátán hadait és cselszövéseit véred áradatával teljesen elárasztottad. * Hathatós közbenjárásoddal * Isten kegyelme folytán még halottakat is valóban életre keltettél, * és bátran esedezel a mi lelkünkért.
+[M][T6]Megsebeztek engem a démonok rablótámadásai, * s teljesen elerőtlenedve fekszem, Szeplőtelen, * mindenkor hozzád folyamodom az állhatatlanság útján, * könyörülettel tekints rám, * önts bort és olajat gyógyíthatatlan sebeimre, * segíts megerősödnöm, hogy dicsőíthesselek téged, * és érdemed szerint buzgón magasztaljam nagy csodáidat, * szeplőtelen mindenkorszűz Anya!
 [/]
 [TRP]
 [T4]A te szent vértanúd, Urunk, * az ő szenvedéseiért hervadhatatlan koszorút nyert tőled, Krisztus Istenünk, * mert a te erődet bírván * kínzóit megszégyenítette, * és az ördögök tehetetlen vakm erőségét megtörte. * Az ő imádságai által * üdvözítsd, jóságos a mi lelkünket!
 [//]
 [02.11]
 [LIC]
-[T]
+[T1]Önmegtagadásban sarjadtál fel, Szentéletű Balázs, * az egyházi rend dicsőségében valóban kivirágoztál, mint a pálmafa, * és a vértanúság isteni gyümölcsét, a bálványok lerontását * és az emberek visszatérítését * ajánlottad Istennek, végtelenül boldog!
+Kitűnően jeleskedtél lelkipásztori munkádban, * Krisztus fölszentelt vértanúja, * a bajnoki küzdelmeket nemesen magadra vállaltad, * egyszerre nyertél mindkettőért közös koszorút, * hiszen mindkettőben igazsággal és bajnoki szenvedéssel ékeskedtél. * Esedezzél a mi üdvösségünkért!
+A hit isteni buzgóságával megerősített asszonyok a szép vértanúság koszorúját kapták * tiszteletreméltó küzdelmükért gyermekeikkel együtt. * Ó milyen fenséges csoda! * Krisztus, a fej után vágyakoztak, * vele nászra léptek, * érte elviselték a fej vesztést.
+Balázs, magasztalunk téged, * a szellemi sarjaknak s a szenvedő juhoknak gondozója, * mivel mindenkit hűségesen megerősítesz * a jócselekedetben és a gyógyulásban. * Krisztus szolgája, a Szentlélek kegyelme betölt téged, * és a csodákat bőven műveled.
+Neked Krisztus volt az élet, * a halál pedig igazi nyereség, * a nagy Pál apostol mondása szerint, * végtelenül boldog Balázs, te istenszerető. * Érette szívesen meg is haltál, * és vele együtt uralkodsz mindenkor a véget nem érő életben.
+[D][T6]Istennek tetsző erények gyakorlásában saijadtál fel, * „sarjadék” nevét viselő Balázs. * A zsoltáros szava szerint kivirágoztál, * mint a pálma az Úr udvarában, * jócselekedeteiddel mint a cédrus kiemelkedtél, * bőven termő szőlőtő voltál az Isten házában. * A vértanúság idején a vallatások kínjával metszettek, * küzdelmeid gyümölcséből szellemi bort buzogtattál nekünk, * isszuk azt, és szívünk istenes boldogsággal telik el. * Egybegyülekezünk a te elköltözésed tiszteletreméltó emléknapján, * egybehangzóan boldognak hirdetünk és magasztalunk, * és arra kérünk téged, * hogy eszközöld ki nekünk * a békességet és a nagy irgalmat.
+[M][T6]Istennek ismerjük el azt, * aki megtestesült tőled, * ó, Istenszülő Szűz. * Esedezzél hozzá, * hogy üdvözítse a mi lelkünket!
 [/]
 [APO]
+[D][T4]Mint jó gyermeknevelő és a vallásosság oktatója, * istenes szavai erejével és működésével * Istent szerető nőket vértanú küzdelemre fellelkesítettél, * természetük gyöngeségét Krisztusban megerősítetted, * a küzdelem pályafutását velük együtt szépen befejezted, * a mennyei lakodalmas házban, * kettős koszorúval ékesen, velük együtt örvendezel, * az isteni dicsőséggel büszkélkedve, * együtt könyörögsz velük, * hogy elnyeljük a békességet és a nagy irgalmat.
+[M][T4]A Szent Lélek kegyelmének záporával édesítsd meg lelkemet, Szeplőtelen, * ki a vízcseppet szülted: Krisztust Istenünket, * és ő irgalmával lemossa az emberek mérhetetlen sok bűnét. * Zárd el szenvedélyeim forrását, * és tégy méltóvá közbenjárásoddal * a boldogság örökké buzgó patakjára!
 [/]
 [TRP]
 [T4]Erényekben társa, * a püspöki trónon helyettese lévén az apostoloknak, * isteni ihletésű, jótettekkel a szemlélődéshez jutottál el, * ennek folytán az igazság igéit hirdetvén, * utolsó csepp véredig küzdöttél a hitért, * Szent Balázs fölszentelt vértanú, * imádd Krisztus Istent, * hogy üdvözítse a mi lelkünket!
 [//]
 [02.12]
 [LIC]
-[T]
-[/]
-[APO]
+[T4]Az üdvösséges törvényen elmélkedtél az írás szerint, * boldog Meletiosz főpap, * az önmegtagadás vize mellett álló és erények gyümölcsét adó faként tűntél fel, * annak kegyelméből, aki megvilágosította szent lelkedet, * és aki mindenféle lelki fényáradat befogadójává tett téged.
+Az üdvösséges törvényen elmélkedtél az írás szerint, * boldog Meletiosz főpap, * az önmegtagadás vize mellett álló és erények gyümölcsét adó faként tűntél fel, * annak kegyelméből, aki megvilágosította szent lelkedet, * és aki mindenféle lelki fényáradat befogadójává tett téged.
+Olyan ékessé lett az arcod az írás szerint, * mint amilyen a gerléé, * mikor önmegtagadásban buzgólkodtál, * és a táplálékot elutasítottad a lelki táplálék utáni vágyakozással, * és azt meg is adta neked Krisztus, * elfogadva a te sok küzdelmedet * és a benned lángoló buzgóságot, * mellyel a hitért kockáztattad életedet, * végtelenül bölcs Meletiosz!
+Olyan ékessé lett az arcod az írás szerint, * mint amilyen a gerléé, * mikor önmegtagadásban buzgólkodtál, * és a táplálékot elutasítottad a lelki táplálék utáni vágyakozással, * és azt meg is adta neked Krisztus, * elfogadva a te sok küzdelmedet * és a benned lángoló buzgóságot, * mellyel a hitért kockáztattad életedet, * végtelenül bölcs Meletiosz!
+A feltörő testi vágyakat önmegtagadással elhervasztottad, * megfékezted a szenvedélyek sorát, * szenvedélymentesség fényességével önmagadat felékesítetted, * szeplőtelenül és tisztán szolgáltál Krisztusnak. * Járj közben, Meletiosz, őnála, * hogy az enyészettől és veszedelmektől szabaduljanak meg mindazok, * kik a te mindenkor tisztelt emlékedet híven megünneplik!
+A test nélküli és az Atyával együtt kezdet nélküli Igéről, * végtelenül bölcs, okosan azt tanítottad, * hogy testtel egyesült személyes egységben, * változás és összeelegyedés nélkül, * és hogy együttesen tevékenykedik benne a kettős természet, * amelyből áll, és amelyben látható, * és hogy oszthatatlanul egy a létezésében.
+[M][T4]Mikor a tengeren hajózom, * mikor úton járok, * s mikor éjjel alszom, őrizz meg, * és tedd kegyesen éberré elmémet, Szeplőtelen, * és méltass arra, hogy az Úr Krisztus akaratát megtegyem, * hogy az ítélet napján * életem folyamán elkövetett bűneim feloldozását elnyerhessem * én, ki a te oltalmad alá menekülök!
 [/]
 [TRP]
 [T4]A hit szabályának és a szelídség mintaképének, * a mértékletesség tanítójának * mutatott fel téged a te nyájad előtt a dolgok igazsága. * Azért alázatodban elérted a magasságot, * szegénységedben a gazdagságot. * Meletiosz főpap atyánk esedezz Krisztus Istenhez, * hogy üdvözítse a mi lelkünket.
@@ -259,11 +274,37 @@ A tenger közepén lévő sziklán lakoztál, * hogy a kígyó viharát elkerül
 [T8]Az igaz hitnek oktatója, * a vallásosság és a tisztaság tanítómestere, * a mindenség világítója, az igazhitűek isteni ihletésű dicsérete, * ki tanításoddal, mint a Szentlélek hárfája, mindenkit megvilágosítottál, * bölcs Leó, kérjed Krisztus Istent, hogy üdvözítse a mi lelkünket!
 [//]
 [02.19]
-[LIC]
+[LIC] Uram Tehozzád kiáltottam
 [T]
 [/]
-[APO]
+[APO] Előverses sztichírák
 [/]
-[TRP]
+[TRP] Tropár
 [T4]Szent Archipposz apostol, imádd a kegyelmes Istent, * hogy ajándékozzon bűnbocsánatot a mi lelkünknek!
+[//]
+[02.20]
+[LIC]
+[T8]Végtelenül boldog, istenszerető Leó! * Önmegtagadások gyakorlásával * és tökéletes tisztulásokkal megtisztultan * Istenedhez és Teremtődhöz ragaszkodtál, * isteni világossággal töltekeztél, * és isteni kegyelmi ajándékokat nyertél, * hogy a gyógyíthatatlan betegségeket mindenkor meggyógyíthasd, * és imádságaid erejével a tisztátalan lelkeket elűzhesd!
+Ó igazán boldog Leó! * Főpap és legigazabb pásztor voltál, * nyájadat az Istenbe vetett hit pálcájával * s a Szentlélek erejével az igaz hit és a tökéletesség rétjén legeltetted, * előtte Isten tetszése szerint csodajeleket műveltél, * és elvehetetlen dicsőséget örököltél.
+Merítsetek magatoknak szent olajat, * mely a bölcs főpásztor tiszteletreméltó koporsójából, * mint felbuzgó forrásból mindenkor feltör, * és a mindenség Istenének kiáltsátok: * Ki csodálatos vagy szentjeidben, * ennek a szentnek könyörgésére * üdvözíts minket, * könyörülj meg, jóságos, mindazokon, * kik az ő szent emlékét híven megünneplik!
+[M][T8]Rajta, lelkem, fohászkodjál, és fakassz szívedből könnypatakot, * kiálts a Szűzhöz, a mi Istenünk Anyjához: * Könyörületed teljességével szabadíts meg a félelmetes fenyítéstől, * és szerezz számomra, Tisztaságos, lakóhelyet, * ott ahol nyugalom, örökké tartó öröm és boldogság van!
+[/]
+[TRP] Tropár
+[T4]A hit szabályának és a szelídség mintaképének, * a mértékletesség tanítójának * mutatott fel téged a te nyájad előtt a dolgok igazsága. * Azért alázatodban elérted a magasságot, * szegénységedben a gazdagságot. * Leó főpap atyánk esedezz Krisztus Istenhez, * hogy üdvözítse a mi lelkünket.
+[//]
+[02.21]
+[LIC] Uram Tehozzád kiáltottam
+[T8]Istenszerető Timót atya! * Sok önmegtagadással és állandó imádsággal a szenvedélyek feltörését teljesen meghiúsítottad, * a szenvedélytelenség kegyelmét elnyerted, * a Szentlélek hordozójává lettél, * így a gonoszlelkeket mindenkor elűzhetted, * s a halál után is élsz, Istenben boldog!
+Istenszerető Timót atya! * Ábrahám igazi követőjévé lettél, * a hozzád folyamodóknak mindenkor szolgálatára siettél, * a szenvedéseket Jób szilárd kitartásával tűrted, * fennen gyakoroltad Dávid szelídségét, * itt a földön angyali életet éltél, * a vágyva vágyott Úrhoz siettél, * és közbenjársz érettünk.
+Tiszteletreméltó Szent Timót atya! * A mértékletesség mintaképe, az önmegtagadás példája, * a jámborság szobra, * a töredelem forrása, * az igazhitűség megingathatatlan támasza, * a gyógyulások kiapadhatatlan forrása, * le nem nyugvó nap, az isteni kegyelem gyermeke * és a szerzetesek ékessége voltál!
+[M][T8]Egész életem tékozló! * Kicsapongó a lelkem! * A testem nagyon tisztátalan, az elmém beszennyezett! * Cselekedeteim elvetemültek, egész lényem ítéletre és kárhozatra való. * Hová menjek, avagy ki máshoz meneküljek, * csak egyedül tehozzád! * Könyörülj meg rajtam, Nagyasszony, * gyorsan ments meg engem!
+[//]
+[02.22]
+[LIC] Uram Tehozzád kiáltottam
+[T]
+[/]
+[APO] Előverses sztichírák
+[/]
+[TRP] Tropár
+[T]
 [//]

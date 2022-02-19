@@ -98,10 +98,10 @@ def getDayName() :
             if not line :
                 break
             if '['+nomen+']' in line :
-                dname = line.lstrip('['+nomen+']').rstrip('\n')
+                dname = line.lstrip('['+nomen+']').rstrip('\r\n')
                 break
             if '['+menea+']' in line :
-                dname = line.lstrip('['+menea+']').rstrip('\n')
+                dname = line.lstrip('['+menea+']').rstrip('\r\n')
                 break
     return dname
 
@@ -478,7 +478,7 @@ def printTroparion() :
 
 ### MAIN LOOP ###
 pdf = PDF(orientation='P', unit='mm', format='A5')
-menea = '02.13'
+menea = '02.20'
 weekly = getWeeklyTone()
 nomen = getNominal()
 dayname = getDayName()
