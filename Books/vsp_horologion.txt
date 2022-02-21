@@ -55,16 +55,16 @@ Alleluja, alleluja, alleluja! Dicsőség Néked, Isten.
 [P]A fentről való békességért és lelkünk üdvösségéért könyörögjünk az Úrhoz.
 [R]    Uram irgalmazz.
 
-[P]Az egész világ békéjéért, Isten szent egyházainak jólétéért és a mindenek egyesüléséért könyörögjünk az Úrhoz.
+[P]Az egész világ békéjéért, Isten szent egyházainak jólétéért, és a mindenek egyesüléséért könyörögjünk az Úrhoz.
 [R]    Uram irgalmazz.
 
 [P]Ezért a szent hajlékért és azokért, akik abba hittel, áhítattal és isteni félelemmel járnak, könyörögjünk az Úrhoz.
 [R]    Uram irgalmazz.
 
-[P]Főpásztorunkért, N. metropolitáért, a tisztes papságért, a Krisztusban szolgáló diakónusok rendjéért, az egész egyházi rendért és a népért könyörögjünk az Úrhoz.
+[P]Az istenfélő és igazhitű kereszténykért könyörögjünk az Úrhoz. 
 [R]    Uram irgalmazz.
 
-[P]Istenoltalmazta hazánkért, hadseregéért és vezetőiért, könyörögjünk az Úrhoz.
+[P]Főpásztorunkért N.-ért, a tisztes papságért, a Krisztusban szolgáló diakónusok rendjéért, az egész egyházi rendért és a népért könyörögjünk az Úrhoz.
 [R]    Uram irgalmazz.
 
 [P]Ezért a városért, minden városért és vidékért, és mindazokért, akik azokban hittel élnek, könyörögjünk az Úrhoz.
@@ -73,7 +73,7 @@ Alleluja, alleluja, alleluja! Dicsőség Néked, Isten.
 [P]A levegő kedvező változásáért, a föld gyümölcseinek bőségéért és békés időkért könyörögjünk az Úrhoz.
 [R]    Uram irgalmazz.
 
-[P]A hajózókért, útonlevőkért, betegekért, szenvedőkért, foglyokért és ezek megváltásáért könyörögjünk az Úrhoz.
+[P]A hajózókért, úton levőkért, betegekért, szenvedőkért, foglyokért és ezek megváltásáért könyörögjünk az Úrhoz.
 [R]    Uram irgalmazz.
 
 [P]Hogy mentsen meg minket minden bánattól, haragtól, veszedelemtől és szükségtől, könyörögjünk az Úrhoz.
@@ -82,8 +82,8 @@ Alleluja, alleluja, alleluja! Dicsőség Néked, Isten.
 [P]Oltalmazz, üdvözíts, irgalmazz és őrizz meg minket, Isten, a Te kegyelmeddel.
 [R]    Uram irgalmazz.
 
-[P]Szentséges, tisztaságos, fölöttébb áldott, dicsőséges Nagyasszonyunkról, Istennek Szülőjéről és Örökszűz Máriáról minden szentekkel együtt megemlékezvén, önmagunkat és egymást és egész életünket Krisztus Istenünknek ajánljuk.
-[R]    Néked Uram.
+[P]Szentséges, tisztaságos, fölöttébb áldott, dicsőséges Nagyasszonyunkról, Istennek Szülőjéről és Örökszűz Máriáról minden szentekkel együtt megemlékezvén, önmagunkat és egymást, és egész életünket Krisztus Istenünknek ajánljuk.
+[R]    Uram irgalmazz.
 
 [P]Mert Téged illet minden dicsőség, tisztelet és hódolat, az Atyát és Fiút és Szent Lelket, most és mindenkor és mindörökkön örökké.
 [R]    Ámin.
@@ -191,7 +191,7 @@ A Te házadat illeti szentség, Uram, napok hosszáig.
 [R]    Ámin.
 [/]
 [Vouchsafe O Lord]
-[R]Add Urunk, hogy ez estén, minden bűntől megőrizzük magunkat. Áldott vagy Te Urunk, atyáinknak Istene, dicséretes és dicsőséges a Te neved mindörökké. Ámin. Legyen a Te kegyelmed rajtunk, amint Tebenned bíztunk. Áldott vagy Te, Urunk, taníts meg minket a Te igazságidra. Áldott vagy Te Uralkodó, oktass bennünket a Te igazságidra. Áldott vagy Te Szent, világosíts meg minket a Te igazságiddal. Uram a Te kegyelmed örökké, kezeid munkáit meg ne vesd. Téged illet a dicséret, Téged illet az ének, Téged illet a dicsőség, Atya és Fiú és Szent Lélek most és mindenkor és mindörökkön örökké. Ámin.
+[R]Add Urunk, hogy ez estén, minden bűntől megőrizzük magunkat. Áldott vagy Te Urunk, atyáinknak Istene, dicséretes és dicsőséges a Te neved mindörökké. Ámin. Legyen Uram a Te kegyelmed rajtunk, amint Tebenned bíztunk. Áldott vagy Te, Urunk, taníts meg minket a Te igazságidra. Áldott vagy Te Uralkodó, oktass bennünket a Te igazságidra. Áldott vagy Te Szent, világosíts meg minket a Te igazságiddal. Uram a Te kegyelmed örökké, kezeid munkáit meg ne vesd. Téged illet a dicséret, Téged illet az ének, Téged illet a dicsőség, Atya és Fiú és Szent Lélek most és mindenkor és mindörökkön örökké. Ámin.
 [/]
 [Litany of Supplication]
 [P]Teljesítsük esti könyörgésünket az Úrnak.
