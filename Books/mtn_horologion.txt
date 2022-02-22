@@ -261,20 +261,26 @@ A kő, amelyet az építők elvetettek, az lett a szeglet fejévé, az Úrtól l
 [Little Litany 1]
 [P]Újra meg újra békességben könyörögjünk az Úrhoz.
 [R]    Uram irgalmazz.
+
 [P]Oltalmazz, üdvözíts, irgalmazz és őrizz meg minket, Isten, a Te kegyelmeddel.
 [R]    Uram irgalmazz.
+
 [P]Szentséges, tisztaságos, fölöttébb áldott, dicsőséges Nagyasszonyunkról, Istennek Szülőjéről és Örökszűz Máriáról minden szentekkel együtt megemlékezvén, önmagunkat és egymást, és egész életünket Krisztus Istenünknek ajánljuk.
 [R]    Néked, Uram.
+
 [P]Mert Tied a hatalom, és Tied az Ország és az erő és a dicsőség, az Atyáé és Fiúé és Szent Léleké, most és mindenkor és mindörökkön örökké.
 [R]    Ámin.
 [/]
 [Little Litany 2]
 [P]Újra meg újra békességben könyörögjünk az Úrhoz.
 [R]    Uram irgalmazz.
+
 [P]Oltalmazz, üdvözíts, irgalmazz és őrizz meg minket, Isten, a Te kegyelmeddel.
 [R]    Uram irgalmazz.
+
 [P]Szentséges, tisztaságos, fölöttébb áldott, dicsőséges Nagyasszonyunkról, Istennek Szülőjéről és Örökszűz Máriáról minden szentekkel együtt megemlékezvén, önmagunkat és egymást, és egész életünket Krisztus Istenünknek ajánljuk.
 [R]    Néked, Uram.
+
 [P]Mert Tied a hatalom, és Tied az Ország és az erő és a dicsőség, az Atyáé és Fiúé és Szent Léleké, most és mindenkor és mindörökkön örökké.
 [R]    Ámin.
 [/]
@@ -324,10 +330,13 @@ Alleluja, alleluja, alleluja. Dicsőség Néked, Isten.
 [Little Litany 3]
 [P]Újra meg újra békességben könyörögjünk az Úrhoz.
 [R]    Uram irgalmazz.
+
 [P]Oltalmazz, üdvözíts, irgalmazz és őrizz meg minket, Isten, a Te kegyelmeddel.
 [R]    Uram irgalmazz.
+
 [P]Szentséges, tisztaságos, fölöttébb áldott, dicsőséges Nagyasszonyunkról, Istennek Szülőjéről és Örökszűz Máriáról minden szentekkel együtt megemlékezvén, önmagunkat és egymást, és egész életünket Krisztus Istenünknek ajánljuk.
 [R]    Néked, Uram.
+
 [P]Mert megáldatott a Te neved és megdicsőíttetett a Te Országod hatalma, az Atyáé és Fiúé és Szent Léleké, most és mindenkor és mindörökkön örökké.
 [R]    Ámin.
 [/]
@@ -416,5 +425,109 @@ Uram irgalmazz. Uram irgalmazz. Uram irgalmazz.
 [P]A Te egyszülött Fiadnak irgalma, könyörülete, és emberszeretete által, kivel áldott vagy a te szentséges és jóságos és éltető Lelkeddel együtt, most és mindenkor és mindörökkön örökké.
 [R]    Ámin.
 [/]
-[]
+[Little Litany 4]
+[P]Újra meg újra békességben könyörögjünk az Úrhoz.
+[R]    Uram irgalmazz.
+
+[P]Oltalmazz, üdvözíts, irgalmazz és őrizz meg minket, Isten, a Te kegyelmeddel.
+[R]    Uram irgalmazz.
+
+[P]Szentséges, tisztaságos, fölöttébb áldott, dicsőséges Nagyasszonyunkról, Istennek Szülőjéről és Örökszűz Máriáról minden szentekkel együtt megemlékezvén, önmagunkat és egymást, és egész életünket Krisztus Istenünknek ajánljuk.
+[R]    Néked, Uram.
+
+[P]Mert Te vagy a mi Istenünk, és néked zengünk dicsőséget, az Atyának és Fiúnak és Szent Léleknek, most és mindenkor és mindörökkön örökké.
+[R]    Ámin.
+[/]
+[Little Litany 5]
+[P]Újra meg újra békességben könyörögjünk az Úrhoz.
+[R]    Uram irgalmazz.
+
+[P]Oltalmazz, üdvözíts, irgalmazz és őrizz meg minket, Isten, a Te kegyelmeddel.
+[R]    Uram irgalmazz.
+
+[P]Szentséges, tisztaságos, fölöttébb áldott, dicsőséges Nagyasszonyunkról, Istennek Szülőjéről és Örökszűz Máriáról minden szentekkel együtt megemlékezvén, önmagunkat és egymást, és egész életünket Krisztus Istenünknek ajánljuk.
+[R]    Néked, Uram.
+
+[P]Mert Te vagy a békesség Királya, és a mi lelkünk Üdvözítője, és néked zengünk dicsőséget, az Atyának és Fiúnak és Szent Léleknek, most és mindenkor és mindörökkön örökké.
+[R]    Ámin.
+[/]
+[Magnificat]
+[P]Istennek Szülőjét és a világosság Anyját énekekben magasztaljuk.
+
+[R]1. Magasztalja én lelkem az Urat, * és örvendezzék az én lelkem az én Üdvözítő Istenemben.
+
+Aki a Keruboknál tiszteltebb * és a Szeráfoknál hasonlíthatatlanul dicsőbb vagy, * aki az Isten Igét sérületlenül szülted, * Istennek valóságos Szülője, Téged magasztalunk.
+
+2. Mert reá tekintett az Ő Szolgálóleányának alázatos állapotjára; * mert íme, mostantól fogva boldognak mondanak engem minden nemzedékek.
+
+Aki a Keruboknál tiszteltebb * és a Szeráfoknál hasonlíthatatlanul dicsőbb vagy, * aki az Isten Igét sérületlenül szülted, * Istennek valóságos Szülője, Téged magasztalunk.
+
+3. Mert nagy dolgokat cselekedett velem a Hatalmas, * és szent az Ő neve, * és az Ő irgalma nemzedékről nemzedékre megmarad * azokon, akik félik Őt.
+
+Aki a Keruboknál tiszteltebb * és a Szeráfoknál hasonlíthatatlanul dicsőbb vagy, * aki az Isten Igét sérületlenül szülted, * Istennek valóságos Szülője, Téged magasztalunk.
+
+4. Hatalmas dolgot cselekedett az Ő karjával: * szétszórta a szívük gondolatában kevélykedőket.
+
+Aki a Keruboknál tiszteltebb * és a Szeráfoknál hasonlíthatatlanul dicsőbb vagy, * aki az Isten Igét sérületlenül szülted, * Istennek valóságos Szülője, Téged magasztalunk.
+
+5. Hatalmasokat ledöntött trónjaikról, * és alázatosakat felmagasztalt; * éhezőket javakkal töltött el, * és gazdagokat elbocsátott üresen.
+
+Aki a Keruboknál tiszteltebb * és a Szeráfoknál hasonlíthatatlanul dicsőbb vagy, * aki az Isten Igét sérületlenül szülted, * Istennek valóságos Szülője, Téged magasztalunk.
+
+6. Felkarolta Izráelt, az Ő szolgáját, * hogy megemlékezzék irgalmáról, * amiképpen szólott atyáinkhoz, * Ábrahám és annak magva iránt mindörökké.
+
+Aki a Keruboknál tiszteltebb * és a Szeráfoknál hasonlíthatatlanul dicsőbb vagy, * aki az Isten Igét sérületlenül szülted, * Istennek valóságos Szülője, Téged magasztalunk.
+[/]
+[Little Litany 6]
+[P]Újra meg újra békességben könyörögjünk az Úrhoz.
+[R]    Uram irgalmazz.
+
+[P]Oltalmazz, üdvözíts, irgalmazz és őrizz meg minket, Isten, a Te kegyelmeddel.
+[R]    Uram irgalmazz.
+
+[P]Szentséges, tisztaságos, fölöttébb áldott, dicsőséges Nagyasszonyunkról, Istennek Szülőjéről és Örökszűz Máriáról minden szentekkel együtt megemlékezvén, önmagunkat és egymást, és egész életünket Krisztus Istenünknek ajánljuk.
+[R]    Néked, Uram.
+
+[P]Mert Téged dicsérnek minden mennyei hatalmak, és néked zengünk dicsőséget, az Atyának és Fiúnak és Szent Léleknek, most és mindenkor és mindörökkön örökké.
+[R]    Ámin.
+
+Szent a mi Urunk Istenünk. 
+Szent a mi Urunk Istenünk.
+Magasztaljátok az Urat, a mi Istenünket, és boruljatok le az ő lábainak zsámolya előtt. 
+Mert Szent Ő!
+[/]
+[Praises]
+[I](%. hang)
+[R]Minden lélegzet dicsérje az Urat! * Dicsérjétek az Urat a mennyekből, * dicsérjétek Őt a magasságban. * Téged illet a dicséret, ó Isten. * Dicsérjétek Őt minden Ő angyalai, * dicsérjétek Őt minden Ő seregei. * Téged illet a dicséret, ó Isten.
+[/]
+[Doxology]
+[P]Dicsőség Néked, aki megmutattad nekünk a világosságot!
+[R]Dicsőség a magasságban Istennek, * és a földön békesség, az emberek között jóakarat.
+Magasztalunk Téged, áldunk Téged, * hódolunk Néked, dicsőítünk Téged, * hálát adunk Néked a Te nagy dicsőségedért.
+Urunk Királyunk, mennyei Istenünk, mindenható Atyánk, * egyszülött Fiú, Jézus Krisztus Urunk és Szent Lélek.
+Urunk Istenünk, Istennek Báránya, az Atyának Fia, * aki elveszed a világ bűnét! * Irgalmazz nekünk, aki elveszed a világ bűnét.
+Fogadd a mi könyörgésünket, ki ülsz az Atyának jobbján, * és irgalmazz nekünk.
+Mert egyedül Te vagy szent, egyedül Te vagy Úr, Jézus Krisztus, * az Atya Isten dicsőségére. Ámin.
+Minden napon áldalak Téged, és dicsérem a Te nevedet minden időkben és mindörökkön-örökké. * Méltass minket, Urunk, hogy ezen a napon bűntelenül maradhassunk meg.
+Áldott vágy, Urunk, atyáinknak Istene, és dicséretes és dicsőített a Te neved mindörökké. Ámin. * Legyen, Urunk, a Te irgalmad mirajtunk, amiképpen bíztunk Tebenned.
+Áldott vagy, Uram, taníts meg engem a Te rendeléseidre.
+Áldott vagy, Uram, taníts meg engem a Te rendeléseidre.
+Áldott vagy, Uram, taníts meg engem a Te rendeléseidre.
+Urunk, menedékünk voltál nemzedékről nemzedékre. * Én mondám: Uram, irgalmazz nekem, gyógyítsd meg az én lelkemet, mert vétkeztem Ellened.
+Uram, Hozzád menekedtem, taníts meg cselekedni a Te akaratodat, * mert Te vagy az én Istenem.
+Mert Nálad van az élet forrása; a Te világosságodban látjuk meg a Világosságot. * Áraszd a Te irgalmadat azokra, kik ismernek Téged.
+Szent Isten, Szent Hatalmas, Szent Halhatatlan, irgalmazz nekünk.
+Szent Isten, Szent Hatalmas, Szent Halhatatlan, irgalmazz nekünk.
+Szent Isten, Szent Hatalmas, Szent Halhatatlan, irgalmazz nekünk.
+Dicsőség az Atyának és Fiúnak és Szent Léleknek, most és mindenkor és mindörökkön örökké. Ámin.
+Szent Halhatatlan, irgalmazz nekünk.
+Szent Isten, Szent Hatalmas, Szent Halhatatlan, irgalmazz nekünk.
+[/]
+[Final Troparion Odd]
+[I](4. hang)
+[R]Ma lett a világnak üdvössége; * énekeljünk a sírból Feltámadottnak, és a mi lelkünk Fejedelmének; * mert ledöntve a halállal a halált, * a győzelmet adta nekünk, és a nagy irgalmat.
+[/]
+[Final Troparion Even]
+[I](8. hang)
+[R]Feltámadván a sírból, és széttörvén az alvilág bilincseit, * feloldottad a halál ítéletét, Urunk, * megszabadítva mindnyájunkat az ellenség csapdáitól. * Megjelenvén az apostoloknak, elküldötted őket a hit hirdetésére, * és általuk békét adtál a földkerekségnek, ó egyedülvaló Nagyirgalmú.
 [/]
