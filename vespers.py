@@ -478,7 +478,7 @@ def printTroparion() :
 
 ### MAIN LOOP ###
 pdf = PDF(orientation='P', unit='mm', format='A5')
-menea = '02.20'
+menea = '02.27'
 weekly = getWeeklyTone()
 nomen = getNominal()
 dayname = getDayName()
