@@ -3,7 +3,7 @@
 #      Glory to God in the Highest        #
 ###########################################
 from fpdf import FPDF
-from datetime import date
+import datetime
 
 # Page design elements
 class PDF(FPDF):
@@ -35,10 +35,22 @@ class PDF(FPDF):
         self.cell(0,7,label,0,1,'C')
         self.ln(4)
 
+# Get the date for upcoming sunday
+def getNextSunday() :
+    nxt = ''
+    current = datetime.date.today()
+    delta = 6-datetime.date.weekday(current)
+    nextsunday = current+datetime.timedelta(days=delta)
+    print('***************************')
+    if delta != 0 : print('The day is '+current.strftime ('%d.%m.%Y')+', the next Sunday will be '+nextsunday.strftime('%d.%m.%Y.'))
+    if delta == 0 : print('The day is Sunday, '+current.strftime ('%d.%m.%Y.'))
+    nxt = nextsunday.strftime('%d %m %Y')
+    return nxt
+
 # Get the tone of the week
 def getWeeklyTone() :
     ### Get date of last Pascha
-    current = date(2022,int(menea.split('.')[0]),int(menea.split('.')[1]))
+    current = datetime.date(2022,int(menea.split('.')[0]),int(menea.split('.')[1]))
     pascha = current
     with open('Books/paschalia.txt','rb') as file :
         while True :
@@ -46,13 +58,14 @@ def getWeeklyTone() :
             if not line :
                 break
             readnumbers = line.rstrip('\n').split('.')
-            readdate = date(int(readnumbers[0]),int(readnumbers[1]),int(readnumbers[2]))
+            readdate = datetime.date(int(readnumbers[0]),int(readnumbers[1]),int(readnumbers[2]))
             diff = (current-readdate).days
             if diff >= 0 : pascha = diff
     ### Calculate tone
     weeks = (pascha//7)-1
     todaystone = (weeks%8)+1
     if weeks < 1 : todaystone = 1
+    print('    The tone of the week will be tone '+str(todaystone)+'.')
     return todaystone
 
 # Get the name of a nominal day, if there is any
@@ -72,7 +85,7 @@ def getNominal() :
               7:'Thomas'
               }
     ### Get dates of previous and next Pascha
-    current = date(2022,int(menea.split('.')[0]),int(menea.split('.')[1]))
+    current = datetime.date(curryear,int(menea.split('.')[0]),int(menea.split('.')[1]))
     lastp = -10
     nextp = -356
     with open('Books/paschalia.txt','rb') as file :
@@ -81,7 +94,7 @@ def getNominal() :
             if not line :
                 break
             readnumbers = line.rstrip('\n').split('.')
-            readdate = date(int(readnumbers[0]),int(readnumbers[1]),int(readnumbers[2]))
+            readdate = datetime.date(int(readnumbers[0]),int(readnumbers[1]),int(readnumbers[2]))
             diff = (current-readdate).days
             if diff >= 0 : lastp = diff
             if diff < 0 and diff > nextp : nextp = diff
@@ -103,6 +116,8 @@ def getDayName() :
             if '['+menea+']' in line :
                 dname = line.lstrip('['+menea+']').rstrip('\r\n')
                 break
+    if dname != '' : print('    This Sunday is '+dname+'.')
+    if dname == '' : print('    This Sunday is not a named Sunday.')
     return dname
 
 # Read a text section from a file
@@ -140,6 +155,7 @@ def printSection(sttl,section,tn=0) :
             pdf.set_text_color(0,0,0)
         if len(line) > 2 : pdf.multi_cell(0,6,line)
     pdf.ln()
+    print('    Printed '+section+'.')
     return
 
 # Compile 'Lord I call'
@@ -247,6 +263,7 @@ def printLordICall() :
             pdf.ln()
             oldtone = tone
         n += 1
+    print('    Compiled Lord I Call.')
     return
 
 # Compile Aposticha
@@ -375,6 +392,7 @@ def printAposticha() :
                 pdf.ln()
             oldtone = tone
         n += 1
+    print('    Compiled Aposticha.')
     return
 
 # Compile troparia and theotokion
@@ -474,11 +492,20 @@ def printTroparion() :
                 pdf.ln()
             if '[Tone '+str(tone)+']' in line : okay = 1
             if '[THT]' in line and okay == 1 : okay = 2
+    print('    Compiled Troparia.')
     return
 
 ### MAIN LOOP ###
+print('***************************')
+print('*      GREAT VESPERS      *')
+print('***************************')
+print(' ')
+print('Lord Jesus Christ, Son of God, have mercy on us, sinners.')
+print(' ')
 pdf = PDF(orientation='P', unit='mm', format='A5')
-menea = '02.27'
+nsun = getNextSunday().split()
+curryear = int(nsun[2])
+menea = nsun[1]+'.'+nsun[0]
 weekly = getWeeklyTone()
 nomen = getNominal()
 dayname = getDayName()
@@ -489,6 +516,8 @@ pdf.add_font('IMFell','','Fonts/IMFeENrm29P.ttf',True)
 #pdf.set_title(title)
 pdf.set_author('Servo Skull Romanos')
 # Add content
+print('***************************')
+print('Compiling Vespers for Sunday:')
 pdf.add_page()
 printSection('Bevezetés','Intro')
 printSection('103. zsoltár','Psalm 103')
@@ -506,4 +535,9 @@ printSection('Most bocsásd el','Now Lettest')
 printSection('Háromszorszent','Trisagion')
 printTroparion()
 printSection('Elbocsátás','Dismissal')
+print('***************************')
+print('Building PDF.')
 pdf.output('Builds/vespers_'+menea.replace('.','')+'.pdf')
+print('    The machine spirit is willing.')
+print('***************************')
+print('Glory to Thee oh Lord, glory to Thee.')
