@@ -262,8 +262,8 @@ Fényes örömünnepet ül ma és magasztal téged szerető városod, mert ráta
 [/]
 [KTH]
 [T8]Az Előhírnök fejét kincstárba helyezett drága kincsként őrizték, * edényben rejtőzött az Ige szava, mint a föld mélyére vetett mag, * kikelt és isteni életet termett. * Ennek megtalálását tiszteljük mindnyájan, * és dicsőítsük Krisztust, ki a gyógyítások kegyelmi ajándékát adta neki!
-[D]Mint drágagyöngyöt a föld alá rejtették a Keresztelő fejét edényben, * de isteni fényt sugárzó fáklyaként felragyog, és csodát művel az egész világ számára. * Szépséges hajnalként mint a Napnak Előhírnöke tündökölteti a Napot, * s a nem alkonyodó világosságot újra jelzi nekünk,, és így szól: * Íme az Isten Báránya!
-[M]Megértvén a titokteljes parancsolatot, * József hajlékában sietve megjelent a testnélküli, * és így szól a Szeplőtelennek: * „Aki leereszkedve meghajlítja az egeket, * változás nélkül teljesen benned helyezkedik el. * Őt látom méhedben szolgai alakot ölteni, * ezért megdöbbenve kiáltom neked: * Üdvözlégy Istennek szeplőtelen Jegyese!
+[D][T8]Mint drágagyöngyöt a föld alá rejtették a Keresztelő fejét edényben, * de isteni fényt sugárzó fáklyaként felragyog, és csodát művel az egész világ számára. * Szépséges hajnalként mint a Napnak Előhírnöke tündökölteti a Napot, * s a nem alkonyodó világosságot újra jelzi nekünk,, és így szól: * Íme az Isten Báránya!
+[M][T8]Megértvén a titokteljes parancsolatot, * József hajlékában sietve megjelent a testnélküli, * és így szól a Szeplőtelennek: * „Aki leereszkedve meghajlítja az egeket, * változás nélkül teljesen benned helyezkedik el. * Őt látom méhedben szolgai alakot ölteni, * ezért megdöbbenve kiáltom neked: * Üdvözlégy Istennek szeplőtelen Jegyese!
 [/]
 [OD4]
 [T6]Az Ószövetség pecsétje voltál, s a próféták sorát bezártad, és az Újszövetség szeplőtelen vőfélyévé lettél, Előhírnök!
@@ -320,7 +320,6 @@ Menjünk az Előhírnök híres szentélyébe, merítsünk orvosságot szenvedé
 Titokzatos és isteni asztalra kerül ma az Előhírnök feje, * örökké csörgedező kenet patakzik tőle, * szellemi jó illatot áraszt, * a szorongások szomorúságát eloszlatja, * és örömmel tölti be mindazokat, * akik buzgósággal zengik: * Mindenható Jézus, lelkünk Üdvözítője!
 Levágta a te fejed mint igen éles kard, * a törvényszegő ellenség fejét, * és Isten kegyelmi ajándékainak árját buzogtatja a törvényt betartóknak, * azért híven magasztalunk téged, János, * a Teremtő barátja és Előhírnöke. * Őneki pedig szüntelenül hangoztatjuk: * Mindenható Jézus, lelkünk Üdvözítője!
 [D][T6]A te Keresztelőd tiszteletreméltó fejét, * mely ma előkerült a földből, * dicshimnusz szavával híven fölemeljük, * emberszerető Urunk, * s mi, a te bűnös szolgáid, * közbenjárónkként eléd állítjuk és azt kérjük, * hogy az ő közbenjárására * az ítélet napján elnyerjük tőled a bocsánatot és a nagy irgalmat.
-[M][T6]Jóságot kedvelő Istenünk * és Üdvözítőnk, * mentsd meg szolgáidat minden megpróbáltatástól * az Előhírnök könyörgésére * s Anyádnak és összes szenteidnek imádságára.
 [//]
 [02.25]
 [OD1]
@@ -896,8 +895,8 @@ A küzdelem ideje megmutatta mindenkinek, hogy te az Isten hűséges barátja va
 [/]
 [KTH]
 [T4]Bátran felsorakoztatok a törvénytelenül élők ellen, * szellemi küzdelembe szálltatok az istentagadókkal, * felöltöttétek Krisztus Isten teljes fegyverzetét, * kézbe vettétek kard gyanánt a hitet, * vállatokra emeltétek pajzsként a reményt, * fölvettétek páncélnak a szeretetet, * és megfutamítottátok az ellenséget.
-[T8]Az ellenség fogságába estetek, * hosszú időre tömlöcbe zártak titeket, * de a hitet megőriztétek, és sértetlenek maradtatok. * A kardcsapás kiszabadított titeket a testből, * de az istenszeretet nyilvánvalóan összefogott, ó szentek! * Azért mint világítók, beragyogtátok a világot, * és a Szentlélek kegyelmével mindenkit megvilágosítottatok, boldog bajnokok! * Esedezzetek Krisztus Istenhez, * hogy adjon bűnbocsánatot azoknak, * akik buzgón megünneplik a ti szent emléketeket!
-[M]A Bölcsességet és Igét * kifejezhetetlen módon méhedben fogadtad, Isten Anyja, * a világnak a világ fenntartóját szülted, * karjaidban hordoztad a mindenség összefogóját, * mindenek Táplálóját, a teremtés Alkotóját. * Azért kérlek, legszentebb Szűz, * ajándékozz meg azzal az ítélet órájában, * mikor a Teremtőm színe elé kell állnom, * teljesen Szeplőtelen Nagyasszony, * hogy akkor is ajándékozz meg pártfogásoddal, * mert egyedül tebenned remélek, én, a te méltatlan szolgád!
+[D][T8]Az ellenség fogságába estetek, * hosszú időre tömlöcbe zártak titeket, * de a hitet megőriztétek, és sértetlenek maradtatok. * A kardcsapás kiszabadított titeket a testből, * de az istenszeretet nyilvánvalóan összefogott, ó szentek! * Azért mint világítók, beragyogtátok a világot, * és a Szentlélek kegyelmével mindenkit megvilágosítottatok, boldog bajnokok! * Esedezzetek Krisztus Istenhez, * hogy adjon bűnbocsánatot azoknak, * akik buzgón megünneplik a ti szent emléketeket!
+[M][T8]A Bölcsességet és Igét * kifejezhetetlen módon méhedben fogadtad, Isten Anyja, * a világnak a világ fenntartóját szülted, * karjaidban hordoztad a mindenség összefogóját, * mindenek Táplálóját, a teremtés Alkotóját. * Azért kérlek, legszentebb Szűz, * ajándékozz meg azzal az ítélet órájában, * mikor a Teremtőm színe elé kell állnom, * teljesen Szeplőtelen Nagyasszony, * hogy akkor is ajándékozz meg pártfogásoddal, * mert egyedül tebenned remélek, én, a te méltatlan szolgád!
 [/]
 [OD4]
 [T6]A Szentlélek erejével leterítettétek az ellenség egész erőtlen haderejét, vértanúk, meghaltatok, és örök életet örököltetek.

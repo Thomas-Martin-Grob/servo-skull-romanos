@@ -1,0 +1,86 @@
+[Publican and Pharisee]
+[//]
+[Prodigal Son]
+[//]
+[Meatfare]
+[//]
+[Cheesefare]
+[OD1]
+[T6]Jöjj végre, szerencsétlen lelkem, hogy megsirathasd cselekedeteidet! Ma emlékezz vissza arra, hogy hajdan az Édenkertben meztelenné váltál, ami miatt elvesztetted a gyönyörűséget és az örök boldogságot!
+Nagy irgalmasságod és könyörületességed révén egykor a föld anyagából életre keltettél, Teremtőm és a világmindenség Alkotója, s meghagytad, hogy az angyalokkal együtt magasztaljalak téged.
+Bőséges jóindulattal ültetted Édenben a boldogság Paradicsomát, Teremtőm és Uram, úgy rendelkezve, hogy élvezzem szép, kellemes és enyészhetetlen gyümölcseit.
+Jaj neked, szerencsétlen lelkem! Isten hatalmat adott arra, hogy az Éden minden fájáról ehess, csak azt kötötte ki, hogy a tiltott tudás gyümölcséből ne egyél! Miért hágtad át Isten törvényét?
+[M]Istenszülő Szűz, ki Ádám törzsének leánya. Krisztus Istennek pedig kegyelemből anyja vagy, újíts most meg engem, az Édenből kiűzöttet!
+[/]
+[OD3]
+[T6]A ravasz kígyó egykor megirigyelte méltóságomat és Éva fülébe álnok dolgot suttogott, amely miatt eltévelyedtem, s jaj nekem, száműztek az élet földjéről.
+Vakmerően kinyújtottam kezemet és megízleltem a tudás fájának gyümölcsét, melyről azt parancsoltad nekem, Istenem, hogy ne egyek róla. így az isteni dicsőségből csúfosan kibuktam.
+Jaj nekem, szerencsétlen lelkem! Hogy nem ismerted föl a cselvetést? Hogyan nem vetted észre az ellenség alattomosságát és irigységét? Elsötétült az értelmed és áthágtad Teremtőd parancsát!
+[M]Reménységem és oltalmazóm, szeplőtelen Tisztaság, ki Fiaddal betakartad Ádám hajdani meztelenségét, öltöztess engem újra enyészhetetlenségbe!
+[/]
+[OD4]
+[T6]Uram, mily nagy méltóságra emeltél engem az Édenben, s én szerencsétlen mennyire eltévelyedteml A gonosz rászedett és az Uralkodó elvetett színe elől.
+Sirassatok meg engem, angyali seregek, paradicsomi szépségek, ott levő gyönyörű növények, mert szerencsétlenül eltévelyedtem és istentől elpártoltam!
+Boldog liget, Isten által ültetett növények, Paradicsom boldogsága, leveleitekből, mint szemekből, ontsatok könnyeket, mert ruhátlan lettem, és kiestem Isten dicsőségéből!
+Soha nem látlak téged, soha nem élvezem édes és isteni csillogásodat, legdrágább Paradicsom. Meztelenül földre zuhantam és magamra haragítottam az Alkotót.
+[M]Szentséges Nagyasszony, ki minden hívőnek megnyitottad a Paradicsom ajtaját, melyet bűnével Ádám egykor bezárt, nyisd meg nekem az irgalom ajtaját!
+[/]
+[OD5]
+[T6]Megirigyelte tőlem hajdan az embert gyűlölő ellenség a Paradicsom boldog lakóhelyét, kígyó alakjában becsapott engem s az örök dicsőségből kibuktatott.
+Sírok, lelkemben gyászolok s azt kívánom, hogy könnyek sokasága töltse el szememet, mikor szemügyre veszem és megértem ruhátlanságomat, mely a parancs megszegése miatt szakadt reám.
+Földből alkotott Isten az ő kezével s újra visszatérek a földbe – ezt hallottam én, szerencsétlen. Istentől elszakadtam, és az Édent az alvilágra cseréltem fel. Van-e, aki meg nem sirat?
+[M]Dicsőség titkokzatos arájának hirdetünk téged mindnyájan, mi hívek, szeplőtelen Istenszülő! Kibuktam a menyegzős teremből, de most hozzád esedezem, tégy a Paradicsom lakójává!
+[/]
+[OD6]
+[T6]Az ártatlanságnak Isten-szőtte köntösébe öltöztettél engem az Édenben, irgalmas Üdvözítőm, én viszont semmibe vettem parancsolataidat, a csábításra hallgattam és szerencsétlenül meztelenné lettem.
+Szerencsétlen lelkem! Esztelenségedben Istentől eltávolodtál, a Paradicsom boldogságát elveszítetted, az angyaloktól elkülönültél, enyészetre jutottál. Ó jaj, milyen rettenetes bukás!
+Irgalmazz, könyörülj, mindenható Isten, kezed művén! Ne vess meg engem, jóságos, kérlek, noha elkülönültem szentjeid karától!
+[M]Istentől kiválasztott Mária, a világmindenség Úrnője, ki az Urat, a mindenség Uralkodóját és Szabaditóját szülted, hívj vissza engem, számkivetett rabot a Paradicsom dicsőségébe!
+[/]
+[KNT]
+[T6]Bölcsességnek útmutatója, * okosságnak megadója, * oktalanok nevelője és szegények oltalmazója, * szívemet tedd erőssé és bölccsé, Uralkodóm! * Atya Igéje, te adj nekem igét, * mert nem tartóztatom ajkamat, hadd kiáltsa néked: * Irgalmas, könyörülj rajtam, elesetten!
+[/]
+[IKS]
+Hajdan, midőn Ádám leült a gyönyörűség paradicsomával szemben, és arcát a kezébe temetve siránkozott, így szólt: Irgalmas, könyörülj rajtam, elesetten! Midőn Ádám meglátta, hogy az angyal kiűzi őt és bezárja az isteni kert kapuját, mélyen felsóhajtott, és így szólt: Irgalmas, könyörülj rajtam, elesetten! Légy részvéttel, Paradicsom, koldussá vált művelőd iránt., s lombjaidnak susogásával kérleld te is az Alkotót, hogy ne zárjon be téged: Irgalmas, könyörülj rajtam, elesetten! Minden jóval teli, legszentebb és legáldottabb Paradicsom, mely Ádámért lettél telepítve s Éva közreműködésével bezáródtál, esedezzél Istenhez az elbukott emberért: Irgalmas, könyörülj rajtam, elesetten!
+[/]
+[OD7]
+[T6]Minden korszak fölött uralkodó Uram! Te akaratoddal megteremtettél engem, de a gonosz szörny megirigyelte sorsomat, s így megharagítottalak téged, Üdvözítőm, Te azonban ne vess meg, hanem hívj vissza magadhoz engem, Istenem!
+A tündöklő köntös helyett, jaj, a szégyen öltözete födöz be engem! Siratom romlásomat és hittel kiáltok hozzád, Üdvözítőm: Ne vess meg, hanem hívj vissza magadhoz engem. Istenem!
+Irigységében egészen megmérgezte lelkemet a gonosz kígyó, hogy a Paradicsomból száműzött legyek. De te, könyörpletes, Üdvözítő Istenem, ne vess meg, hanem hívj vissza magadhoz engem!
+[M]Esdeklő könyörgésemet fogadd együttérzéssel, Szeplőtelen, és bűneimre szerezz bocsánatot, mert könnyek között hangoztatom neked, Tisztaságos: Ne vess meg, jóságos, hanem hívj vissza magadhoz engem!
+[/]
+[OD8]
+[T6]Sokféle ajándékkal tetted hajdan értékessé kezed művét, egyetlen emberszerető, a gonosz kígyó azonban hízelgésével rászedett, és a minket megillető javaktól megfosztott.
+Miért hallgattál a keserves tanácsadásra, s miért szegted meg az isteni rendelkezést, szerencsétlen lelkem, Istent megszómorítva, noha ő arra rendelt, hogy az angyalokkal együtt mindig dicsőítést zengj neki?
+Csúszómászók és vadak fölött korlátlan úr voltál, hogyan állhattál tehát szóba a lelket tönkretevő kígyóval, s hogyan fogadhattad jó tanácsadóként a gonoszt? Ó, mennyire lépre mentél, szerencsétlen lelkem!
+[M]Isten megtestesülésének tündöklő sátraként magasztalunk téged, Isten kegyeltje, Mária! Világosítsd meg a szenvedélyek rettentő homályába merült lelkemet, te, irgalom fénye, kétségbeesettek reménye!
+[/]
+[OD9]
+[T6]Megízlelve édesnek tűnt nekem az Édenben a tudás gyümölcse, midőn a tiltott eledellel jóllaktam, de végül aztán keserűvé változott. Jaj, szerencsétlen lélek, hogy elidegenített téged a mértéktelenség a paradicsomi lakóhelyedtől!
+Világmindenség irgalmas Ura és Istene! Kegyesen tekints az én nyomorúságomra, és ne űzz már meszire az isteni Édentől, hogy még láthassam a szépséget, amelytől elestem, s hadd igyekezzek könnyekkel újra visszaszerezni azt, amit így elveszítettem!
+Sírok, fohászkodom és kesergek, amikor látom, hogy kerub lett tüzes karddal az Édenkert bejáratának őrzésére rendelve, amely minden vétkes számára hozzáférhetetlen, hacsak te, Üdvözítő, szabad utat nem nyitsz oda.
+Üdvözítő Krisztusom, irgalmad bőségében és isteni oldaladból kifolyt véredben bízom, mellyel megszentelted az emberek természetét, s imádóidnak megnyitottad, Jóságos, az Ádámnak korábban bezárult Paradicsom ajtaját.
+[M]Az életnek átjárhatatlan, lelki kapuja, szeplőtelen Istenszülö Szűz, közbenjárásoddal nyisd meg nekem a Paradicsomnak hajdan bezárult kapuját; hadd dicsőítselek téged, mint Isten utáni első segítőmet és erős védelmezőmet!
+[/]
+[PRS]
+[T5]Jaj nekem, kiáltotta sírva Ádám, * mert a kígyó és az asszony * kirekesztett az Isten közeléből, * és a fának gyümölcsét elfogyasztva * a Paradicsom boldogságából kivettettem! * Jaj nekem, nem bírom már a szégyent: * Előbb még Isten minden földi teremtményének királya voltam, * most egy rossz tanács miatt rabszolga lettem. * Egykor a halhatatlanság köntösébe öltözve éltem, * és most halandóként a kegyetlen halál ruháját hordozom. * Jaj nekem, kivel osszam meg siralmamat? * Emberszerető, ki a földből megalkottál engem, * és irgalmasságot hordozol, * hívj vissza az ellenség szolgaságából, * és üdvözíts engem!
+[E]Hálát adok neked, Uram, teljes szívemből, elbeszélem minden csodádat.
+Megnyílt az erények küzdőtere, * lépjetek be, akik küzdeni akartok, * felövezve magatokat a dicséretes böjti harcra, * mert akik szabályosan küzdenek, * azok igazságosan koszorút nyernek majd. * Vegyük hát magunkra a kereszt fegyverzetét, * s álljunk ellen az ellenségnek! * Hitünk legyen a védfalunk, * az imádság a mellvértünk, * irgalmasság a sisakunk, * kardunk pedig a böjtölés, * mellyel szívünkből minden gonoszságot kivágunk. * Aki mindezeket megteszi, * az elnyerheti a valódi koszorút * a mindenség királyától * a nagy ítélet napján.
+[E]Kelj föl, Uram, emeld föl kezedet, s ne feledkezzél el végképp a szegényeidről!
+Ádám a Paradicsomból száműzött lett, * mert engedetlenül szedett a gyümölcsből. * Mózes viszont Istent is megláthatta, * lelki szemeit megtisztítva a böjttel. * Azért mi is mindnyájan, * kik az Édenkert lakói szeretnénk lenni, * tartózkodjunk a mit sem használó eledelektől, * és ha látni akarjuk Istent, * böjtöljünk Mózes példája szerint negyven napot, * s imádságunkban és a könyörgésben állhatatosan tartsunk ki, * hogy lelkünk indulatait megfékezzük! * Adjunk le testünk terheiből, * hogy megkönnyebbülten emelkedjünk föl a magasságba, * hol az angyali karok szüntelen szóval dicsőítik az oszthatatlan Háromságot, * s ott megláthatjuk majd az Úr leírhatatlan szépségét. * Ott majd méltass minket, kik benned bízunk, Krisztus, * Isten életadó Fia, * hogy szent Anyádnak imái által, * az apostoloknak, a vértanúknak * és összes szentednek közbenjárására * az angyali seregekkel * mi is együtt örvendjünk!
+[D][T5]Elérkezett az idő, * a lelki küzdelmek kezdete, * a démonok fölötti győzelem, * a felvértezett önmegtartóztatás, * az angyalok ékessége, * az Isten iránti bátor bizalom. * Mert ezzel lett Mózes is méltóvá arra, * hogy Teremtőjével beszélhessen * és a láthatatlan Isten szavát hallhassa. * Ezek által méltass minket is, * hogy szenvedésed és föltámadásod előtt hódolhassunk, * emberszerető Urunk!
+[//]
+[Orthodoxy]
+[//]
+[Saint Gregory Palamas]
+[//]
+[Holy Cross]
+[//]
+[Saint John Climacus]
+[//]
+[Saint Mary of Egypt]
+[//]
+[Palm Sunday]
+[//]
+[Thomas]
+[//]
