@@ -2,7 +2,7 @@
 [Prodigal Son]Tékozló fiú vasárnapja
 [Meatfare]Húshagyó vasárnap
 [Cheesefare]Sajthagyó vasárnap
-[Orthodoxy]Orthodoxia vasárnapja
+[Orthodoxy]Az orthodoxia vasárnapja
 [Saint Gregory Palamas]Palamasz Szt. Gergely vasárnapja
 [Holy Cross]Kereszthódolás vasárnapja
 [Saint John Climacus]Létrás Szt. János vasárnapja
