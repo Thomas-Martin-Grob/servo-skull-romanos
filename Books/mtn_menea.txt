@@ -945,7 +945,7 @@ A föld befogadta véreteket, a folyó levágott fejetekkel egyesítette testete
 [T2]A negyvenkét tagból álló kar egy lélekkel * a legkeményebben küzdött mindhalálig, * így az ellenség minden cselvetését meghiúsította, * és az égi hajlékba került, * s fényes győzelmi koszorút kapott a Magasságbeli jobbjából.
 [M]Tekints az én nyomorúságomra * minden magasztalásra méltó Istenszülő Szűz, * mert nálad van minden együttérzés forrása * és a nagy irgalom! * Csillapítsd a szenvedélyek háborgását és az élet botrányait, * ments meg engem imádságoddal a kárhozat tüzétől, Szent Szűz!
 [//]
-[03.07.]
+[03.07]
 [OD1]
 [T4]Szent vértanúk, kiket az isteni fényözön vesz körül, szabadítsátok meg a szenvedélyek sötétségéből mindazokat, akik ezt a ti fényes és tündöklő ünnepeteket mindenkor buzgón megünneplik!
 Az Isten megtestesült Igéje hírneves pásztorokká tett titeket, szentéletűek, hogy hirdessétek az ő istenségét a tévelygőknek és a tudatlanság veszélyében levőknek.
@@ -1001,7 +1001,7 @@ Ma megünnepli Kerszon városa a ti emléketeket, mert az ő tornyai, istenes os
 Az angyalok karában van már az atyák kara, Jenő, Efrém és Kapitón, Elpidiosz és Etheriosz, a dicsőséges Bazil és az istenszerető Agathodórosz.
 [M]Isten kedves Leánya, karján hordozva Krisztust, ki a mindenséget hordja kezén, megdöbbenve így szólt: Hogyan lehetsz egyszerre Fiam is és Teremtőm is, te felfoghatatlan!
 [//]
-[03.08.]
+[03.08]
 [OD1]
 [T8]Istent hordozó Theofilaktosz atya, ki ott állsz az Uralkodó trónusa előtt, őrizd meg azokat, akik híven megünneplik a te emlékedet.
 Méltán kent fel téged a Szentlélek kegyelme hűségedért és jóságos viselkedésedért.Hogy a mennyeieket elnyerhesd, ó boldog, minden földit megvetettél, és Krisztus Isten nyomába léptél.
@@ -1053,7 +1053,7 @@ Tarts szemmel minket, a te magasztalóidat, ó boldog, szabadíts meg a kísért
 Bölcsen és igaz emberhez híven éltél, mint szent titkok beavatottja, tündöklő vértanúvá lettél, véredből magadnak bíbort szőttél.
 [M]Szent Szűz, ki Krisztust, az igazság Napját hordoztad karodon, mint a hajnal, felragyogtattad őt a sötétségben és az eltévelyedésben levőknek.
 [//]
-[03.09.]
+[03.09]
 [1ST]
 [T4]Fönséges csillagokként ragyogtok mindenkor * az Egyház szent égboltján, * s tündöklővé teszitek a híveket, * Krisztus negyven szent vértanúja.
 [M]Fogadd el könyörgésünket, tisztaságos Szűz, * kik a te oltalmad alá menekülünk. * Esedezzél szüntelenül a te Fiadhoz, * hogy üdvözüljenek szolgáid!
@@ -1133,7 +1133,7 @@ Győztetek a küzdelemben, bajnokok, ott álltok a három személyű Szenthárom
 [D][T5]Krisztus bajnokai! * A szeplőtelen böjtöt ragyogóbbá teszitek * a ti dicsőséges küzdelmetek emlékével, * negyvenen lévén a negyven napot megszentelitek, * Krisztusért vívott küzdelmetekkel * az üdvözítő szenvedést utánozzátok. * Mert szólásjogotok van nála, * esedezzetek, hogy békességben elérhessük * Istennek s a mi lelkünk Üdvözítőjének * harmadnapi feltámadását!
 [M][T5]Áldunk téged, Istenszülő Szűz, * és hűséggel dicsőítünk, mi, hívek, * mint rendíthetetlen, erős várat, * megvívhatatlan védőbástyát, * hatalmas szószólónkat * és lelkünk menedékét.
 [//]
-[03.10.]
+[03.10]
 [OD1]
 [T4]Itt van a szentül küzdő szent vértanúk szent és csodálatos ünnepe, s megvilágosít mindenkit a Szentlélek fényárasztásával. 
 Gyülekezzünk, ünneplést kedvelők, és magasztaljuk őket érdemük szerint!Erényeidnek utat mutató fényével fényes napként ragyogtál föl nekünk, boldog Kodrátosz bajnok. Fényt árasztó ragyogásoddal a sokistenhit sötétségét eloszlattad, és a hívek seregét megvilágosítottad.
@@ -1187,7 +1187,7 @@ Szádból isteni édességet csepegtettél, a bajnokok csapatát: Anektoszt és 
 A ti küzdelmetek napját mindnyájan megünnepeljük, bajnokok, mert ezen enyészhetetlen koszorút szereztetek, a világosság és a nappal fiaivá lettetek, s a mindenség Urának trónusa előtt vigadoztok.
 [M]A mindenség Alkotójának minden elképzelést felülmúló világra hozatala folytán, ó Szeplőtelen, az egeknél is följebbvalóvá lettél, és uralkodol mindeneken, minden magasztalásra méltó Istenszülő Szűz. Azért mindnyájan magasztalunk téged.
 [//]
-[03.11.]
+[03.11]
 [OD1]
 [T4]Bölcsen áthajóztál a bölcsesség tengerén, a Szentlélek kormányozott fuvallatával, és nagy vagyont gyűjtöttél a bölcsesség kegyelmi ajándékával, Szofróniosz atya!
 Szinte Krisztus feltámadásának angyala s a szent sírnak isteni ihletésű őre voltál, melynek Krisztus, a halhatatlanság forrása volt a nagy kincse, aki fölemelte a mi nemünket a bukásból.
@@ -1245,7 +1245,7 @@ Itt a földön az angyalok életét élted, ott az égben az angyalok boldogság
 Arccsontjaid illatos kenet tartóedényei, istenszerető, hiszen a bölcsesség folyékony, drága nárduszkenettel telt alabástrom edényének tűntél fel, s Krisztus tiszteletreméltó testét illatossá tetted hitbeli kijelentéseiddel.
 [M]Könnyű felhőnek szemlélt téged Izaiás, ó Szent Szűz! Leszállt rád az Úr, megsemmisített minden kézzel alkotott bálványt, és kinyilatkoztatta az ő ismeretét a te magasztalóidnak.
 [//]
-[03.12.]
+[03.12]
 [OD1]
 [T4]Áhítattól égve a testben megjelent Istent követted, atyánk, hiszen gondviselésszerűen épp őreá utalt a neved is, melynek jelentése a valóságnak megfelel.
 A te Uralkodód vágyva vágyott szeretete elbűvölt, a világias vágyakozást megvetetted, az isteni buzgóság elfogott, az élet örömeit semmibe vetted, végtelenül boldog.
@@ -1307,7 +1307,7 @@ A te átköltözésed fényes napja minden hívőt összegyűjt, istenszerető, 
 Add a te bőséges kegyelmedet annak, aki buzgón elzengi magasztalásod igéit, istenszerető! Tedd kedvesen fogadott imádságoddal neved viselőjét életmódodnak is követőjévé, legszentebb atyánk!
 [M]Fogadd el a te néped könyörgését, és esedezzél a te Fiadhoz, Istenszülő Szűz, hogy mentsen meg minket, a te magasztalóidat, a veszedelmektől és a megpróbáltatásoktól, mert te vagy a mi oltalmazónk és reménységünk!
 [//]
-[03.13.]
+[03.13]
 [OD1]
 [T2]Bűnök szörnyű sírja tartott fogva engem, de te támassz fel halhatatlan szavaddal és könyörületes kezeddel, és éltess mint könyörületes és nagyirgalmú!
 Az erényeknek mind a négy családját a legnagyobb mértékben megszerezted, s rajtuk, mint valami fogaton célba értél, istenhordozó, a cselekvésből a szemlélődéshez emelkedtél föl.
@@ -1362,335 +1362,390 @@ Szentéletű szolgád könyörgésére fegyverezd fel a híveket diadalmas fegyv
 Erősítsd meg kezeddel az uralkodókat a barbárokkal szemben, őrizd meg a helyes tanításban a híveknek szilárd alapot nyújtó Egyházadat!
 [M]Te vagy a mi hatalmas pártfogónk, reményünk, védőbástyánk, horgonyunk, biztos oltalmazónk, megvívhatatlan erősségünk, viharmentes öblünk, egyetlen menedékünk, Tisztaságos, minden magasztalásra méltó Szűz, azért mindnyájan üdvösségre juthatunk.
 [//]
-[03.14.]
+[03.14]
 [OD1]
 [T2]Szentéletű Benedek atya! A te dicséretre méltó emlékedet akarom himnuszokban zengeni. Járj közben azért, hogy megkapjam ezt a kegyelmet és minden vétkemnek elengedését!
 Kisgyermekkorodtól magadra véve keresztedet, magányodban is a Mindenhatót követted, és testedet meghalni engedve, az Életre lettél méltóvá, boldogságos.Szerfölött boldog atyánk!
 Te Isten törvényének alávetve magad, az önmegtartóztatás küzdelmei során lecsillapítottad szenvedélyeid hullámveréseit, s így a szenvedélymentesség ajándékában részesülhettél.
 [M]A romolhatatlan élet kincsére találtunk rá a te jóvoltodból, Legszentebb Istenszülő. Ezért hangos szóval énekeljük neked: Üdvözlégy, kegyelembe fogadott, a szentek és igazak ragyogó ékessége!
+[/]
 [OD3]
-A Szentlélek életadó árjaival telve, a te lelkedből is, Benedek atyánk, csodák folyói törtek fel, felszárítva a fenyegető betegségeket.Boldogságos atyánk! 
+[T2]A Szentlélek életadó árjaival telve, a te lelkedből is, Benedek atyánk, csodák folyói törtek fel, felszárítva a fenyegető betegségeket.Boldogságos atyánk! 
 A szűk ösvényen járva a Paradicsom tágas térségében jutottál lakhelyhez, mert a démonok mesterkedését és rendetlen működését visszaszorítottad.
 Isten kegyelme folytán erényeiddel és csodatételeiddel jó és bő termésűvé tetted életednek fáját, amelyet könnyeid áradatával öntözgettél, Benedek.
 [M]Az egyetlen Jóságos a te méhedből testesült meg, teljesen Szeplőtelen, és tökéletesen halandó emberként lépett nyilvánosság elé. Kérjed őt esedezve, hogy a mi lelkünket is üdvözítse!
+[/]
 [KTH]
 [T1]Istennek tetsző szerzetes voltál, * minden dicséretre méltó Benedek, és teljesen erényes életet éltél. * A gyógyítások kegyelmét is elnyerve * megdöbbentő csodákat vittél végbe. * Aztán szent monostort alapítva * az üdvözülni vágyók sokaságát vezetted az Úrhoz. * Azért dicsőség a téged megvilágosító Istennek, * dicsőség a győzelmi koszorút reád rakónak, * s dicsőség annak, ki általad sokakat meggyógyított!
-[M]Legszentebb Szűz, ki a jósága folytán megtestesült Teremtőt * Isten által megtisztított kezeidben hordoztad, * tárd ki most feléje karodat, és könyörögj hozzá, * hogy szabadítson meg minket a veszedelmekből * s a szenvedélyek és kísértések csapdáitól, * mert mi szeretettel így magasztalunk téged: * Dicsőség a benned lakást vevőnek, * dicsőség a belőled közénk jövőnek, * s dicsőség annak, ki szülésed folytán megváltott minket!
+[M][T1]Legszentebb Szűz, ki a jósága folytán megtestesült Teremtőt * Isten által megtisztított kezeidben hordoztad, * tárd ki most feléje karodat, és könyörögj hozzá, * hogy szabadítson meg minket a veszedelmekből * s a szenvedélyek és kísértések csapdáitól, * mert mi szeretettel így magasztalunk téged: * Dicsőség a benned lakást vevőnek, * dicsőség a belőled közénk jövőnek, * s dicsőség annak, ki szülésed folytán megváltott minket!
 [OD4]
-Miután a szenvedélyek és a világ számára keresztre feszíttetted magadat, Istenben bölcs atya, a kereszten karjait önként kiterjesztő Krisztust szolgálod, Benedek atya. Őt kérleld most, hogy üdvözítse lelkünket!
+[T2]Miután a szenvedélyek és a világ számára keresztre feszíttetted magadat, Istenben bölcs atya, a kereszten karjait önként kiterjesztő Krisztust szolgálod, Benedek atya. Őt kérleld most, hogy üdvözítse lelkünket!
 Önmegtartóztatásod küzdelmeivel halálra adtad testrészeidet, imádságoddal viszont halottat támasztottál föl, szentéletű atyánk. 
 A hívők nagy ámulatára bénáknak adtad vissza a könnyed járást, és mindenféle betegséget meggyógyítasz.
 Éltető szavaddal a száraz és kitikkadt lelkeket termékenyekké tetted, s jeles csodáiddal Isten által kijelölt pásztor lettél, s a szerzetesek tündöklő ékessége.
 [M]Mint harmat a gyapjúra, úgy szállt le megtestesülésekor az Ige a te szent méhedbe, Tisztaságos. Szemmel láthatóan megszüntette a sokistenhit záporait, Szeplőtelen, és annak keserves telét végképp megszüntette.
+[/]
 [OD5]
-Az irgalmas Istenhez könyörögtél, s Illéshez hasonlóan megtölttetted vele a nagy olajos korsót, amin a téged szemlélő híveid igen álmélkodtak.
+[T2]Az irgalmas Istenhez könyörögtél, s Illéshez hasonlóan megtölttetted vele a nagy olajos korsót, amin a téged szemlélő híveid igen álmélkodtak.
 Lelked olyan tiszta lett, hogy amikor önkívületi állapotba kerültél, Isten egyetlen sugárnyalábjaként láttad az egész földet. Ő tisztelt meg ezzel téged, boldog Benedek atya.
 Imádságod révén Krisztusban csodát műveltél, mert elérted nála, minden jónak megadójánál azt, hogy vizet fakasszon, és ő azóta is tanúsítja ezt a csodádat, Benedek.
 [M]A mennyben lakozó a te szeplőtelen méhedbe költözött, Tisztaságos, hogy a Szentháromság lakhelyeivé tegyen bennünket, akik téged Istenszülőnek vallunk!
+[/]
 [OD6]
-A Szentlélek fényáradatával tündököltél mint a szerzetesek ragyogó csillaga, csodatevő Benedek, s a démonok gonosz homályát visszaszorítottad.
+[T2]A Szentlélek fényáradatával tündököltél mint a szerzetesek ragyogó csillaga, csodatevő Benedek, s a démonok gonosz homályát visszaszorítottad.
 Dicsőséges az életed, ó boldog, és tündöklő az életszentséged, amellyel a szerzetesek karát az üdvös igazság ismeretére vezetted el.
 A mennyország lakója lettél, isteni ihletésű Benedek. Ennek eléréséhez segítsd hozzá könyörgéseiddel mindazokat, akik téged mindig híven magasztalnak!
 [M]Minden magasztalásra méltó Istenszülő Szűz! A te szent méhedből tűnt fel az igazság alkonyt nem ismerő Napja, és megvilágosította a híveket. 
+[/]
 [OD7]
-Az érzéki gyönyöröktől tartózkodva életadó halált szereztél magadnak, ezért arra is méltó lettél, hogy halottakat támassz fel, boldog Benedek, s ezért minden hívő megcsodál, mint egykor a nagy Illést.
+[T2]Az érzéki gyönyöröktől tartózkodva életadó halált szereztél magadnak, ezért arra is méltó lettél, hogy halottakat támassz fel, boldog Benedek, s ezért minden hívő megcsodál, mint egykor a nagy Illést.
 Tiszteletreméltó fáradozásaid révén számtalan sok szerzetest gyűjtöttél össze, s közösségük a te közbenjárásod jóvoltából mindig erős és hűséges marad az általad hagyott igen szép példához.
 Az esztelenek dőre módon úgy gondolták, hogy gonoszul elkészített mérgükkel megölhetnek téged, akit a mindenség Teremtőjének isteni keze őrzött. De szégyent vallottak, hiszen a Szentlélektől kapott jóstehetségeddel leleplezted a merényletet.
 [M]Gyógyítsd meg lelkem szenvedélyeit, ó Szűz, mert te a szenvedélytől való mentesülés forrását fogantad! Áraszd reám a bűnbánó töredelmesség záporait, melyek által odaát majd vigaszra találhatok, szent Istenszülő! 
+[/]
 [OD8]
-Krisztusban úrrá lettél minden romlást okozó szenvedélyen, isteni ihletésű atyánk, s így méltóvá lettél arra, hogy minden olyan emberrel együtt, aki helyesen élt és a mindent látó Istent szerette, a mennyországban lakhass.
+[T2]Krisztusban úrrá lettél minden romlást okozó szenvedélyen, isteni ihletésű atyánk, s így méltóvá lettél arra, hogy minden olyan emberrel együtt, aki helyesen élt és a mindent látó Istent szerette, a mennyországban lakhass.
 Isten elfogadta szent imáidat, és jóvoltodból a megélhetéshez szükséges javakhoz juttatta a szűkölködőket, és csodáiddal a földön rendkívül megdicsőített, háromszorosan boldog Benedek.
 Isteni erényekkel fölékesítvén eljutottál, atyánk, a gyönyörű menyegzős terembe, ahol már mindökre együtt lehetsz Istennel, és véget nem érő századokon át élvezheted az ő isteni szépségét. 
-[M]Amint Izajás mondta, íme, megszületett tőled, ó tisztaságos Szűz, a Gyermek, a magasságbelinek Fia, és a te fiadnak mutatkozott, hogy a mennyei Atya fiaivá tegye mindazokat, akik téged magasztalnak.
+[M]Amint Ézsaiás mondta, íme, megszületett tőled, ó tisztaságos Szűz, a Gyermek, a magasságbelinek Fia, és a te fiadnak mutatkozott, hogy a mennyei Atya fiaivá tegye mindazokat, akik téged magasztalnak.
+[/]
 [OD9]
-Nagy napként jelentél meg, istenhordozó atyánk, félelmetes csodajelekkel ragyogva be az egész teremtést. Ezért ünnepeljük most így a te fényes emlékedet, szívünk érzéseit sugározva feléd, szent atyánk.
+[T2]Nagy napként jelentél meg, istenhordozó atyánk, félelmetes csodajelekkel ragyogva be az egész teremtést. Ezért ünnepeljük most így a te fényes emlékedet, szívünk érzéseit sugározva feléd, szent atyánk.
 Az általad egybegyűjtött szerzetesek karai éjjel-nappal magasztalnak téged, bölcs atyánk, s ott van közöttük szent tested, mely bőségesen árasztja a csodákat, és szüntelenül megvilágosítja azok lépteit.
 A napfénynél is jobban ragyogtál, tiszteletreméltó Benedek atyánk, mert betartottad Isten parancsait, és eljutottál az alkonyt nem ismerő világosságra, hogy ott bűnbocsánatért járhass közbe mindazokért, akik téged hűségesen tisztelnek. 
 [M]Világosság szűzi szülője, oszlasd el lelkem ködét! Add meg nekem, minden magasztalásra méltó Nagyasszony, hogy tisztán szemlélhessem a te legszentebb méhedből a pogányok megvilágosítására kimondhatatlanul fölragyogott Üdvözítő szépségét!
 [//]
-[03.15.]
+[03.15]
 [OD1]
 [T8]Szent vértanúk, ti már a mennyei hajlékokban vagytok. Méltassátok földi magasztalóitokat a megvilágosításra!
 Az Egyház tornyai, a bálványimádás őrületét visszaverő bástyák gyanánt tűntetek fel, Krisztus legnemesebb bajnokai!
 Mélyen átjárt téged a mindenség Uralkodója iránti szeretet, és érte szíves-örömest meghaltál, magasztalásra méltó Agápiosz vértanú!
 [M]Világosítsd meg lelkem szemét, Szent Szűz, a belőled feltündöklöttnek ragyogó fényével, hogy dicsőítselek téged!
+[/]
 [OD3]
-Krisztus szeretetének tüzén lángra lobbantál, véred áradatával a bálványimádás tüzét eloltottad, Agápiosz vértanú, azért magasztalunk téged.
+[T8]Krisztus szeretetének tüzén lángra lobbantál, véred áradatával a bálványimádás tüzét eloltottad, Agápiosz vértanú, azért magasztalunk téged.
 Pallosként tűntetek fel, ó boldogok, vágásotokkal megsemmisítettétek a démonok sokaságát a kegyelemben, s most velük együtt örvendeztek a szellemi Erők sokaságával.
 A vértanúság útját bátran végigjártátok, a test levetése után a mennyországba siettetek, és most már annak polgárai vagytok, isteni ihletésű vértanúk.
 [M]Valljuk, hogy a könyörületes irgalmával testi hasonlatosságban hozzánk, a te magasztalóidhoz jött Teremtő a te ragyogó bensődből tűnt fel, mindenkorszűz Anya.
+[/]
 [KTH]
 [T1]Magasztaljuk a vértanúk héttagú karát, * mert ők mint a hit őrzői, * az Egyház bástyatornyai, * elűzik tőlünk a kártevőt, * elriasztják a démonok hadoszlopait, * esedeznek érettünk az Uralkodóhoz, * és békességet ajándékoznak.
-[M]Isten Anyjának vallunk mindnyájan, * ki a szülés után is valóban szűz maradtál, * és szeretettel járulunk, mi bűnösök, a te kegyességedhez, * mert te vagy a mi pártfogónk, * kitől a veszély idején oltalmat várunk, egyetlen Szeplőtelen!
+[M][T1]Isten Anyjának vallunk mindnyájan, * ki a szülés után is valóban szűz maradtál, * és szeretettel járulunk, mi bűnösök, a te kegyességedhez, * mert te vagy a mi pártfogónk, * kitől a veszély idején oltalmat várunk, egyetlen Szeplőtelen!
 [OD4]
-Tisztelni akartad Krisztust, Agápiosz, ezért szenvedését bátran követted, mint a bárány, önként leöletésre mentél, magasztalásra méltó nagyvértanú.
+[T8]Tisztelni akartad Krisztust, Agápiosz, ezért szenvedését bátran követted, mint a bárány, önként leöletésre mentél, magasztalásra méltó nagyvértanú.
 Teljes szívvel odaadtátok magatokat, kard alá hajtottátok fejeteket, bölcs vértanúk, véretekkel bíborköntöst festettetek magatoknak, fel is öltöttétek azt, és most a mennyben lakoztok.
 Ó, milyen forró a ti szeretetetek Isten iránt! Érte teljesen lemondtatok magatokról, elvállaltátok a legkegyetlenebb halált, és méltókká lettetek a halhatatlanságra.
 [M]Méhedben fogantad az Igét, a drága kenetet, szeplőtelen Tisztaság, és az megtisztította a világot a bűnbe esettek mindenféle rossz szagától. Azért híven magasztalunk téged.
+[/]
 [OD5]
-Szeretetre méltó lettél nemcsak neved, hanem cselekedeteid szerint is, dicsőséges. Megküzdöttél a mi Istenünknek, a mindenség Uralkodójának szeretetéért.
+[T8]Szeretetre méltó lettél nemcsak neved, hanem cselekedeteid szerint is, dicsőséges. Megküzdöttél a mi Istenünknek, a mindenség Uralkodójának szeretetéért.
 A szörnyű zsarnok szavait semmibe vettétek, szent vértanúk, és Krisztus katonáiként a démonok hadoszlopait elpusztítottátok.
 Szent küzdelmetekkel leterítettétek a törvény nélkül élők gőgjét, és elnyertétek a halhatatlanság koszorúját, Krisztus vértanúi.
 [M]Magasztaljuk, hívek, az Istenszülőt, szent dalokkal, s mondjuk: Üdvözlégy, kapu, melyen egyedül az Úr ment keresztül!
+[/]
 [OD6]
-Énekeljük meg a két Sándorral és a két Dénessel együtt a dicsőséges Agápioszt, Timolaoszt és Rómüloszt, mert bátran küzdöttek, és az ellenség megszámlálhatatlan sokaságát legyőzték!
+[T8]Énekeljük meg a két Sándorral és a két Dénessel együtt a dicsőséges Agápioszt, Timolaoszt és Rómüloszt, mert bátran küzdöttek, és az ellenség megszámlálhatatlan sokaságát legyőzték!
 Szent vértanúk, kik orvosságok folyamait buzogtatjátok, szüntessétek meg Isten erejével az emberek szenvedéseit! Mi pedig örömmel és híven magasztaljuk a ti nagyságotokat.
 A szent küzdelmet szabályosan végigküzdöttétek, a Mindenható kezéből szabályos győzelmi koszorút kaptatok, ti, hét vértanú, a mennyország polgárai, az angyalok társai!
 [M]Szeplőtelen, ki szent sarjadékoddal elhervasztottad az istentelenség vetését, csökkentsd bennem az ellenségnek állandóan sarjadó gonoszságát, Isten Jegyese!
+[/]
 [OD7]
-Ártatlan bárányok módjára önként adtátok át magatokat a leöletésre, dicséretes vértanúk, s a kínzásoktól nem hőköltetek vissza, hanem lelkesen hangoztattátok: Atyáinknak Istene, áldott vagy te!
+[T8]Ártatlan bárányok módjára önként adtátok át magatokat a leöletésre, dicséretes vértanúk, s a kínzásoktól nem hőköltetek vissza, hanem lelkesen hangoztattátok: Atyáinknak Istene, áldott vagy te!
 A mindenség Ura iránti szeretettől fölhevülve hajtottad pallos alá fejedet, és így kerültél a vértanúk sorába. Ezért így kiáltasz, Agápiosz vértanú: Atyáinknak Istene, áldott vagy te!
 Mécsesekként tűntetek fel az Úr házában, dicsőséges vértanúk, hétszeres világosságotokkal megvilágosítottátok mindazokat a világon, akik hozzátok folyamodtak és hangoztatták: Atyáinknak Istene, áldott vagy te!
 [M]Kimondhatatlan nagy bűneim béklyója fogva tart, de te oldozz fel, Szeplőtelen, add nekem a könnyek záporát, és én hangoztatom a tőled Felragyogottnak: Atyáinknak Istene, áldott vagy te!
+[/]
 [OD8]
-A Szentlélek gyógyító erejével sokféle betegségnek orvoslóivá lettetek. Gyógyítsátok meg minden betegségünket, hogy áldjuk és magasztaljuk a ti szent emléketeket!
+[T8]A Szentlélek gyógyító erejével sokféle betegségnek orvoslóivá lettetek. Gyógyítsátok meg minden betegségünket, hogy áldjuk és magasztaljuk a ti szent emléketeket!
 Szeretted Istent, aki szeretett téged, ó vértanú, s mikor aztán szent küzdelmeidet befejezted, bevezetett téged buzgó társaiddal együtt a mennyei lakodalmas házba, Agápiosz.
 Az Uralkodóba vetett hit megerősített titeket, a csalárd ellenség hatalmát megtörtétek, győzelmeitekkel nagy dicsőségre tettetek szert, és a mennyei nyugalomban lakoztok, az Úrnak vértanúi.
 [M]Gyógyítsd meg szívem szenvedélyeit, ki a szenvedélytelenség forrását szülted, vezess el engem az istenes életre, az Üdvözítő Szülőanyja, hogy dicsőítselek téged mindörökké!
+[/]
 [OD9]
-Ékesekké lettetek, a vértanúság szent szépségével az Úr színe előtt álltok, s mindenkor vele együtt örvendeztek, bajnokok!
+[T8]Ékesekké lettetek, a vértanúság szent szépségével az Úr színe előtt álltok, s mindenkor vele együtt örvendeztek, bajnokok!
 Miután a testből eltávoztatok, angyalok serege kísért benneteket a mennyei városba, a nem alkonyodó világosságra, vértanúk!
 Isten előtt emlékezzetek meg szüntelenül mirólunk, akik ma megünnepeljük a ti szent emléketeket, dicsőséges vértanúk!
 [M]A tunyaság sötétségbe borított, de te világosíts meg a megtérés világosságával, Szeplőtelen, hogy áldjam és magasztaljam a te nagy dolgaidat!
 [//]
-[03.16.]
+[03.16]
 [OD1]
-Tisztítsuk meg lelkünk szemét az önmegtagadás küzdelmeivel és a könnyek áradatával, hogy megláthassuk lélekben az igazság Napjának feltámadását!
+[T8]Tisztítsuk meg lelkünk szemét az önmegtagadás küzdelmeivel és a könnyek áradatával, hogy megláthassuk lélekben az igazság Napjának feltámadását!
 Bölcs elmével felhatoltál, bajnok, Krisztus ismeretének magasságába, elhagytad a hamisság eltévelyedését, és elnyerted a mennyei dicsőséget.Krisztusnak egy másik aranyfolyója, Szabinosz vértanú! 
 Bajnoki küzdelmedben kiontott véreddel elárasztottad és az istenismerettel megöntözted Egyiptom földjén és a világon az embereket.
 [M]Töltse el nyugalommal, Szeplőtelen, a tőled kifejezhetetlen módon született Fiú a te könyörgéseddel a jelen korszakot! Vezesse útjukon magasztalóidat, Tisztaságos!
+[/]
 [OD3]
-Erősíts meg minket, Urunk, hogy a böjtöléssel kedvedben járjunk, és szeplőtelen parancsaidat buzgón teljesítsük!
+[T8]Erősíts meg minket, Urunk, hogy a böjtöléssel kedvedben járjunk, és szeplőtelen parancsaidat buzgón teljesítsük!
 Krisztus hitével és szeretetével mint legyőzhetetlen erővel felvértezted magadat, dicsőséges, és az ellenséggel szemben jelesen viselkedtél.
 A téveszmék alapjait megrengetted erőddel, s a bálványok szobrait a mélységbe döntötted, Szabinosz.
 [M]Tebenned megedződtünk és megerősödtünk, Szeplőtelen, s az önmegtagadás idején legyőzzük az ellenséges szenvedélyeket.
+[/]
 [KTH]
 [T3]Nagyszerű bajnok, az igazság harcosa! * Krisztusnak dicsőséges vértanúja! * A Szentháromság hirdetője, * kérjél a te tisztelőidnek a magasságból kegyelmet, * adj békességet könyörgéseddel mindazoknak, * akik szüntelenül magasztalják a te küzdelmeid szent emlékét!
-[M]Mindenki, ahol üdvözülhet, oda menekül. * De ki volna nekünk olyan menedékünk, mint te, Istenszülő, * ki a mi lelkünknek oltalmat nyújtasz?
+[M][T3]Mindenki, ahol üdvözülhet, oda menekül. * De ki volna nekünk olyan menedékünk, mint te, Istenszülő, * ki a mi lelkünknek oltalmat nyújtasz?
 [OD4]
-Fékezzük meg a test indulatait böjtöléssel és fáradságos munkával, hogy szenvedélytelenül és tisztán készüljünk Krisztus üdvösséges szenvedésére!
+[T8]Fékezzük meg a test indulatait böjtöléssel és fáradságos munkával, hogy szenvedélytelenül és tisztán készüljünk Krisztus üdvösséges szenvedésére!
 Istenes hitvallásod szavával mint valami korbáccsal ostoroztad az üldözőket, Szabinosz, és te magad sértetlenül megmenekültél.
 A teremtmény imádóit rávezetted és buzdítottad a mindenség Istenének imádására, s azok téged vezérüknek vallottak, Szabinosz vértanú.
 [M]Mint a horgonyokba, úgy kapaszkodunk a te oltalmadba, egyetlen minden magasztalásra méltó Szűz, és bejutunk Fiadnak, a mi Istenünknek isteni révébe.
+[/]
 [OD5]
-Világosíts meg minket a böjtölés fényáradatával, és méltass arra, hogy megtisztultan megláthassunk téged, dicsőség és igazság Napja!
+[T8]Világosíts meg minket a böjtölés fényáradatával, és méltass arra, hogy megtisztultan megláthassunk téged, dicsőség és igazság Napja!
 Lelkedben ragyogó fáklyaként élt Krisztus szeretete, szent vértanú, s elvezettek hozzá a küzdelmek.
 Bölcsességed vesszejével leromboltad az egyiptomiak szentélyeit, s a mindenség teremtő Urát dicsőítetted, ó bölcs.
 [M]Övezd fel erővel gyöngeségünket az önmegtagadás idején, Tisztaságos, vértezz föl minket az ellenségekkel és a szenvedélyekkel szemben!
+[/]
 [OD6]
-Igazi javak élvezetét és a szeplőtelen boldogságból való részesülést szerzi meg a böjt azoknak, akik megtartják, s Krisztust, az üdvösség egyetlen szerzőjét tiszta szívvel dicsőítik.
+[T8]Igazi javak élvezetét és a szeplőtelen boldogságból való részesülést szerzi meg a böjt azoknak, akik megtartják, s Krisztust, az üdvösség egyetlen szerzőjét tiszta szívvel dicsőítik.
 A látható szépséget és a világi kitüntetést buzgón megvetetted, a jobb dicsőség és a maradandó gazdagság szolgájává lettél, minden dicséretre méltó bajnok.
 A zavaros élet viharát elhagytad, Szabinosz, a krisztusi hit révébe beérkeztél, s a bajvívás kincsét az isteni kincstárban elhelyezted.
 [M]Megízlelték engedetlenséggel a gyümölcsöt az ősszülők, és kivetették őket a boldogságból, ó Szeplőtelen. Mi pedig a tőled Születettből részesülünk, hogy a szeplőtelen élet boldogságát élvezhessük.
+[/]
 [OD7]
-Szüntessük meg a lélek szemének homályát a böjtöléssel, fogadjuk be hittel az isteni világosságot, hangoztassuk félelemmel és tisztaságban: Atyáinknak Istene, áldott vagy te!
+[T8]Szüntessük meg a lélek szemének homályát a böjtöléssel, fogadjuk be hittel az isteni világosságot, hangoztassuk félelemmel és tisztaságban: Atyáinknak Istene, áldott vagy te!
 Lelked ékességét a test szépségére is kivetítetted, szent vértanú. Szemlélődésekkel ragyogóvá s édes szavúvá lettél, és zengted: Atyáinknak Istene, áldott vagy te!
 A Lélek nemességével és bátorságával a törvényszegő hatalmaskodók ellenséges vakmerőségét legyőzted, Szabinosz vértanú, és Krisztusnak hangoztattad: Atyáinknak Istene, áldott vagy te!
 [M]Méltass minket arra, Istenszülő, hogy a böjtölésben megtisztultan megláthassuk a te Fiad és Istened isteni feltámadását, kik híven áldjuk őt és mondjuk: Atyáinknak Istene, áldott vagy te!
+[/]
 [OD8]
-A mennyei Királyt böjtöléssel és imádsággal felékesített lélekkel, megingathatatlan hittel fogadjuk, Istenhez híven!A megerősítő Lélek szellemi áradatával megöntözötten a vértanúság gyümölcsét áldoztad az Úrnak, Szabinosz bajnok.
+[T8]A mennyei Királyt böjtöléssel és imádsággal felékesített lélekkel, megingathatatlan hittel fogadjuk, Istenhez híven!
+A megerősítő Lélek szellemi áradatával megöntözötten a vértanúság gyümölcsét áldoztad az Úrnak, Szabinosz bajnok.
 Véred áradata elöntötte a földet, s gyógyulás vizét ontotta minden embernek, Szabinosz!
 [M]Add, hogy mi, akik veled büszkélkedünk, Istenszülő, a te közbenjárásodra elnyerjük a te Fiad dicsőségét az ő feltámadásával!
+[/]
 [OD9]
 Fékezzük meg a szenvedélyeket önmegtagadással, s vessük alá a tiszta értelemnek, hogy együtt uralkodhassunk a mindenség Uralkodójával!
 Fölébe kerekedtél a szellemi ellenségnek, ó bajnok, leigáztad nemes lélekkel a Zsarnokot, és együtt uralkodsz Krisztussal, a mindenség Alkotójával.
 Fölemelkedtél a földről a magasságba, Szabinosz. Esedezzél értünk, tisztelőidért, megkoszorúzódhoz, a mindenség Alkotójához.
 [M]Te vagy, Istenszülő, a te szolgáid dicsősége, bizalma, ereje és dicsekvése, te vagy az én reménységem biztos záloga.
 [//]
-[03.17.]
+[03.17]
 [T2]A legszűkebb ösvényt jártad végig, feddhetetlenül és szentül éltél ifjúságodtól fogva, ó bölcs. 
 Tedd tágassá elmém szűkösségét, hogy magasztalhassalak téged, Elek, ki a Paradicsom tágas térségére költöztél!Önmagadat teljesen Istennek ajánlottad, ó boldog, a testen és a világon kívül éltél, a mulandó boldogságnak elébe helyezted a maradandó mennyeit, és bejutottál Sion örök városába.
 Születésedkor anyád méhének meddőségét megszüntetted, végtelenül boldog, miként egykor Sámuel, szíved méhében pedig a legtisztább félelmet fogantad, és megszülted a hit által, istenes erényekkel, az üdvösség lelkét.
 [M]Az Istennek vele együtt kezdet nélküli Fia téged választott hozzánk való hasonulásának eszközlőjévé, Szeplőtelen Szűz, mert téged talált minden teremtménynél tisztábbnak, azért áldunk és magasztalunk téged, minden nemzedék.
+[/]
 [OD3]
-Megsebzett a tisztaság szeretete, a földi nászágyat felcserélted a mennyeivel, s az asszonnyal élvezhető gyönyörűséget az angyalokhoz való legédesebb hasonulásoddal.
+[T2]Megsebzett a tisztaság szeretete, a földi nászágyat felcserélted a mennyeivel, s az asszonnyal élvezhető gyönyörűséget az angyalokhoz való legédesebb hasonulásoddal.
 Az élet zűrzavarát és a gazdagság terhét elhagytad, elköltöztél hazádból és Krisztus szegénységét követted, Elek atya.
 A könnyontásban, a vezeklésben és az önmegtagadásban kerested a jót, végtelenül bölcs, és egyszer csak az ismeret világossága és a szenvedélytelenség költözött szívedbe.
 [M]Akire odafenn az angyalok sem tekinthetnek fel, itt lent tebelőled, mint tökéletes ember, láthatóvá lett, Szeplőtelen, hogy uralma alá hajtsa az elveszett világot.
+[/]
 [KTH]
 [T8]Lélekben látva a te verejtékedet és küzdelmedet, ó bölcs, * töredelemmel töltjük meg lelkünket teljesen, mi, hívek, * és mindnyájan felbuzdulunk arra, * hogy a mindenség Istenének buzgó szívvel * szent dalokat, dicsőítést és áldást zengjünk, * téged szent énekben magasztaljunk, * és tenéked, az Úr szolgájának híven kiáltsuk: * Esedezzél Krisztus Istenhez, * hogy adjon bűnbocsánatot azoknak, * akik buzgón ünneplik a te szent emlékedet!
 [D][T3]A világ örömeit jámborul elhagytad, * a mulandó gazdagságot a valóban enyészhetetlennel * és maradandóval fölcserélted, * azért az összes szentekkel együtt dicsőítünk téged, * és szentül megünnepeljük a te emlékedet. * Azért esedezünk, Elek atya, * hogy imáid által megnyerjük a nagy irgalmat.
-[M]Megérthetetlen és felfoghatatlan * a benned végbement félelmetes titok, Isten kedveltje, szentséges Nagyasszony. * Mert a Körülhatárolhatatlant méhedben fogantad, * és szeplőtelen véredből testet adva neki, megszülted. * Esedezzél hozzá mindenkor, mint Fiadhoz, Tisztaságos, * hogy üdvözítse a mi lelkünket!
+[M][T3]Megérthetetlen és felfoghatatlan * a benned végbement félelmetes titok, Isten kedveltje, szentséges Nagyasszony. * Mert a Körülhatárolhatatlant méhedben fogantad, * és szeplőtelen véredből testet adva neki, megszülted. * Esedezzél hozzá mindenkor, mint Fiadhoz, Tisztaságos, * hogy üdvözítse a mi lelkünket!
 [OD4]
-Magadra vállaltad a szegénységet, kéregető koldussá lettél, miként Lázár, istenszeretet hevítette lelkedet, s az a mennyei kincs után vágyódott, ó boldog.
+[T2]Magadra vállaltad a szegénységet, kéregető koldussá lettél, miként Lázár, istenszeretet hevítette lelkedet, s az a mennyei kincs után vágyódott, ó boldog.
 Egyszerű és elvonult élet után vágyódtál, hetenként egyszer étkeztél, a maradandó és enyészhetetlen boldogságot kívántad, végtelenül boldog Elek!
 Lelkedet Isten hajlékává akartad tenni, mindenkor az Istenanya hajlékában tartózkodtál legszívesebben, s a mennyei szépséget élvezted, dicsőséges.
 [M]Szent Szűz, ki a tej megadóját szoptattad, tápláld éhező és szűkölködő lelkemet minden ismerettel és istenes töredelemmel, erre kérlek.
+[/]
 [OD5]
-Lelkedet állandóan szent könnyeid áradatával öntözgetted, a valóban százszoros kalászt megtermetted, hogy szépen megőrizd a halhatatlan földművesnek.
+[T2]Lelkedet állandóan szent könnyeid áradatával öntözgetted, a valóban százszoros kalászt megtermetted, hogy szépen megőrizd a halhatatlan földművesnek.
 Mindent felülmúló önmegtagadásoddal és állhatatos imádkozással a testnélküliek viselkedését utánoztad itt földön, magasztalásra méltó atya, s így magad is fényes világító lettél.
 Az imádság tüzével felégetted a bűn bozótját, ó bölcs, állandó virrasztásoddal minden élvezetvágyat elaltattál, s mikor elszenderültél, a nem alkonyodó világosságba költöztél.
 [M]Aki a világosságban lakozik, a te szent bensődben vett lakást, Tisztaságos, hogy a tudatlanság sötétségébe veszett világon úrrá legyen. Esedezzél hozzá, hogy világosítsa meg azokat, akik téged magasztalnak!
+[/]
 [OD6]
-A férfit nem ismerő Szűz nyilvánvalóvá teszi a titkot, hogy te az Isten élő templomává, Krisztus hajlékává lettél, és dicséri szándékodat, hogy rejtőzködni igyekeztél.
+[T2]A férfit nem ismerő Szűz nyilvánvalóvá teszi a titkot, hogy te az Isten élő templomává, Krisztus hajlékává lettél, és dicséri szándékodat, hogy rejtőzködni igyekeztél.
 Imáidat tömjénként fogadta Isten, ó boldog, s a hívők lelkületét a Szentlélek kegyelmével már életedben jó illattal árasztottad el. 
 Téged, szent viselkedéssel ékes dicsőséges szent, ki az ideig tartó dicsőség elől elmenekültél, Krisztus akaratod ellenére újra visszaadott hazádnak.
 [M]A teremtés Alkotója megújította a természet törvényeit, s kifejezhetetlen módon megszületett tőled, szeplőtelen Nagyasszony, s mérhetetlen irgalmával átistenített engem.
+[/]
 [KNT]
 [T4]Tartsuk meg ma buzgón * a végtelenül boldog Elek legszeplőtelenebb ünnepét, * magasztaljuk őt, mondván: * Üdvözlégy, szentéletűeknek gyönyörűséges ékessége!
-[IKS]Ki magasztalhatja méltóképpen a te szeplőtelen erényeidet? * Ki énekli meg alkalmasan, istenszerető Elek, * mértékletességedet, állhatatosságodat, * szelídségedet, önuralmadat, * szüntelen éneklésedet, kemény önfegyelmedet, * mérhetetlen alázatosságodat? * Ezekkel angyalok vetélytársává lettél * s mindenkor esedezel az egész világért. * Azért fogadd el most, szentéletű, minden hívőtől: * Üdvözlégy, szentéletűeknek gyönyörűséges ékessége!
+[IKS]
+Ki magasztalhatja méltóképpen a te szeplőtelen erényeidet? Ki énekli meg alkalmasan, istenszerető Elek, mértékletességedet, állhatatosságodat, szelídségedet, önuralmadat, szüntelen éneklésedet, kemény önfegyelmedet, mérhetetlen alázatosságodat? Ezekkel angyalok vetélytársává lettél s mindenkor esedezel az egész világért. Azért fogadd el most, szentéletű, minden hívőtől: Üdvözlégy, szentéletűeknek gyönyörűséges ékessége!
 [OD7]
-Ott tartózkodtál, szentéletű, szüleid ajtaja előtt, teljesen ismeretlenül, a szolgák csúfolódását, szörnyű gúnyolódását eltűrted, s nagy szegénységben nyomorogtál.
+[T2]Ott tartózkodtál, szentéletű, szüleid ajtaja előtt, teljesen ismeretlenül, a szolgák csúfolódását, szörnyű gúnyolódását eltűrted, s nagy szegénységben nyomorogtál.
 A testies lelkületet kiölted magadból, láttad szüleidet, és mégis ismeretlen maradtál előttük, a természet erejét legyőzted s a megvető bánásmódot eltűrted, mikor saját szolgáid határtalanul gyötörtek, szentéletű!Ó, milyen nagy csoda! Hogy megmaradtál a gazdagságban koldusnak, Elek! 
 Milyen nagy alázatosság! Hogy eltűrted a bántalmazást és a gyalázkodást saját szolgáidtól, akik nem értették meg ezt az életmódodat!
 [M]Nagy titkok szolgálójává lettél, Szeplőtelen! Belőled testesült meg az Isten, hogy a nagy bajokból megszabadítson minket, a te magasztalóidat, Istennek tisztaságos, áldott kedveltje!
+[/]
 [OD8]
-Szüleid előtt mindvégig ismeretlen voltál, és csak halálod közeledtével fedted fel előttük titkodat, akkor lettél ismeretessé, dicsőséges, a mi Istenünk dicsőségére, aki téged méltán és nagyon megdicsőített.
+[T2]Szüleid előtt mindvégig ismeretlen voltál, és csak halálod közeledtével fedted fel előttük titkodat, akkor lettél ismeretessé, dicsőséges, a mi Istenünk dicsőségére, aki téged méltán és nagyon megdicsőített.
 Az Úr hangos szóval mutatott be az egész Rómának téged, a koldus öltözetében fekvő, elrejtett kincset, végtelenül boldog, ki a gyógyítás kegyelmi ajándékával minden hittel hozzád folyamodót gazdaggá tettél.
 Összegyülekeztek a nép fejedelmei s a királyok és a papok Isten rendeletére, hogy eltemessenek téged, ó boldog! Látták a nagy látnivalót és elcsodálkoztak a csodákon, melyeket a Lélek isteni erejével műveltél, szentéletű!
 [M]A te romlatlan belsődből, Szeplőtelen, kimondhatatlan módon megtestesült az Emberszerető, hogy megújítson minket, az ősi kihágás folytán megromlottakat, s meg is szabadított mindnyájunkat az emésztő bűntől, Tisztaságos.
+[/]
 [OD9]
-Arra méltattak, boldog szentéletű, hogy megláthasd Isten dicsőségét, aki végezetül fényesen megdicsőített téged, minden dicséretre méltó Elek. Hiszen akik korábban vakok voltak, meglátták a világosságot, akik azelőtt némák voltak, megszólaltak.
+[T2]Arra méltattak, boldog szentéletű, hogy megláthasd Isten dicsőségét, aki végezetül fényesen megdicsőített téged, minden dicséretre méltó Elek. Hiszen akik korábban vakok voltak, meglátták a világosságot, akik azelőtt némák voltak, megszólaltak.
 Mikor már a koporsóban feküdtél és temetésre vittek, olyan voltál, atyánk, mint a nap, gyógyulások sugarait árasztottad csodálatosan, elűzted a sötét szenvedélyt, fölperzselted a démonokat, és megvilágosítottad az istenszerető embereket.
 Isten rendelkezésére a te temetésedre összegyülekezett a pátriárkák feje és a Krisztust nagyon szerető uralkodó, a fejedelmek, vének és ifjak, s a szerzetesek serege, hogy a te megérintésed folytán megszentelődjenek.
 Elragadtak, az erények szekerén elutaztál, és ott pihentél meg, ahol a szentéletűek, az apostolok, a vértanúk, a pátriárkák és az összes igazak seregei vannak. Velük együtt emlékezzél meg rólunk, a te tisztelőidről, Elek!
-[M]Gábor szavát hangoztatjuk neked örvendezéssel, és mondjuk: Üdvözlégy, meg nem művelt föld! Üdvözlégy, átok feloldozója! Üdvözlégy, élő víz forrása, szentéletűek dicsekvése, mindenkorszűz Istenszülő!
+[M]GábrIEL szavát hangoztatjuk neked örvendezéssel, és mondjuk: Üdvözlégy, meg nem művelt föld! Üdvözlégy, átok feloldozója! Üdvözlégy, élő víz forrása, szentéletűek dicsekvése, mindenkorszűz Istenszülő!
+[/]
 [EXA]
-Mily nagy csoda! Hogyan élhettél ilyen hosszú időn át szüleid ajtaja előtt, mint valami kemény acél, Elek! Nem indított meg a természet ereje, szüleid és feleséged keserves könnye!
+[T2]Mily nagy csoda! * Hogyan élhettél ilyen hosszú időn át szüleid ajtaja előtt, * mint valami kemény acél, Elek! * Nem indított meg a természet ereje, * szüleid és feleséged keserves könnye!
 [//]
-[03.18.]
+[03.18]
 [OD1]
 [T4]Lelkedet az erények sokféleségével ékesítetted föl, s a Szentlélek kegyelmi ajándékainak befogadójává tetted, a bölcsesség mélységét buzogtattad, és az eretnekségek tengerét elapasztottad, Cirill!
 Elmédet az anyagvilágban élőkénél magasabbrendűvé tetted, a test nélküli szolgálattevőkhöz hasonlóvá lettél, szavaid tüzével az eretnekségek egész anyagát fölperzselted, Cirill, az Egyháznak soha ki nem alvó fényű világítótornya.
 Szavaidnak édes illatával az őrjöngés nevét viselő Mánit, az összes eretnekek közül a legtűrhetetlenebb szennyet messze elűzted, ó bölcs. Úgy cselekedted ezt, mint leghitelesebb pásztor, s így Krisztus jó illatává lettél.
 [M]Szabadítsd meg, Szeplőtelen Istenanya, a szenvedélyek posványából, az eszmék viharából, a gonosz lélek nyilaitól és az ellenség minden támadásától mindazoknak a lelkét, akik magasztalják a te kimondhatatlan szülésedet, teljesen Szeplőtelen!
+[/]
 [OD3]
-A Szentlélek bölcsességének fényével ragyogtál, a Szentháromság hármas fényét a földön levőknek világosan hirdetted, atyánk, s ezáltal az eltévelyedés sötétségétől megszabadultunk.
+[T4]A Szentlélek bölcsességének fényével ragyogtál, a Szentháromság hármas fényét a földön levőknek világosan hirdetted, atyánk, s ezáltal az eltévelyedés sötétségétől megszabadultunk.
 A legszentebb Lélek hangszerévé lettél, istenszerető, Krisztus megjelenésének dalát zengted, őt két természetűnek hirdetted, s a mi lelkünket elbűvölted.
 Lelked megszentelés hajlékává lett, s benne lakozott természetfölötti módon az Atya, a Fiú és az elevenítő Lélek, akinek zengjük: Szent vagy, Urunk! 
 [M]Az égi értelem sem tudja megérteni a te felfoghatatlan szülésedet, Leányzó, mert az első Értelem Igéjét fogantad méhedben, azt, aki igéjével a mindenséget fenntartja.
+[/]
 [KTH]
 [T8]Az Ige szent bölcsességére bőségesen szert tettél, * a hittitkok élő vizét fakasztottad, és a buzgók értelmét egészen megöntözted, * a nyájat isteni pásztorbottal kormányoztad, s az istenismeret virányain legeltetted. * Azért magasztalunk téged, Cirill főpap, mint nagy pásztort és tanítót, * mint a hitnek élen járó harcosát, és hangoztatjuk: * Esedezzél Krisztus Istenhez, * hogy ajándékozzon bűnbocsánatot azoknak, * akik buzgón ünneplik a te szent emlékedet!
 [D][T1]A te isteni sugallattól irányított nyelved, ó bölcs, * a népeket megvilágosította, * hogy egy, oszthatatlan természetű, * személyek szerint megkülönböztetett Háromságot imádjanak. * Azért örömmel megünnepeljük a te szent emlékedet, * és örök közbenjárónknak állítunk Isten elé.
-[M]Mária, Uralkodónk szent hajléka, * emelj föl bennünket a szörnyű kétségbeesés, vétkezés és szorongás mélységéből! * Vezess ki, végtelenül Tökéletes, a bűnök megátalkodottságából, * hogy dicsőítsünk téged, szolgáid egyetlen reménysége!
+[M][T1]Mária, Uralkodónk szent hajléka, * emelj föl bennünket a szörnyű kétségbeesés, vétkezés és szorongás mélységéből! * Vezess ki, végtelenül Tökéletes, a bűnök megátalkodottságából, * hogy dicsőítsünk téged, szolgáid egyetlen reménysége!
 [OD4]
-Szíved befogadta a világ fölött való bölcsesség vizét, szentéletű atyánk, felbuzogta a tanítás mélységét, s alámerítette az istentelenek szellemeit.
+[T4]Szíved befogadta a világ fölött való bölcsesség vizét, szentéletű atyánk, felbuzogta a tanítás mélységét, s alámerítette az istentelenek szellemeit.
 A három személyű istenség egy erejét, egy lényegét és egy akaratát tanítottad, és a sokistenhit eltévelyedésének áradatát megszüntetted, Cirill.
 Máni szennyes és esztelen szellemét, mint bölcs szellemű és Isten által oktatott hithirdető, szavaid villámaival fölperzselted, nyilvánosan kipellengérezted, ó boldog.
 [M]Mint minden teremtménynél följebbvaló, a teremtés Alkotóját méhedben fogantad, Tisztaságos, és a természet rendjét meghaladó módon megszülted a mi természetünk újjáteremtőjét.
-Ơ[OD5]
-kivezesd azokat, * kik téged hittel énekelnek.
-Szeplőtelen bölcsességed pásztorbotjával terelted az igazhitű istentisztelet vizéhez nyájadat, boldog főpap.
+[/]
+[OD5]
+[T4]Szeplőtelen bölcsességed pásztorbotjával terelted az igazhitű istentisztelet vizéhez nyájadat, boldog főpap.
 Igéd isteni villámfénnyel ragyogott, és Jeruzsálemben eloszlatta a megvilágosultaknál a tudatlanság sötétségét.
 [M]A szenvedélyek éjszakája és a bajok sötétsége elborította lelkemet. Világosítsd meg kérlek, Legtisztább, ki a világosság megadóját szülted!
+[/]
 [OD6]
-A Szentlélek élő vizével telt patakként fakadtál egy második Édenből, s megáztatod az Egyház barázdáit, szent főpap!
+[T4]A Szentlélek élő vizével telt patakként fakadtál egy második Édenből, s megáztatod az Egyház barázdáit, szent főpap!
 Szavaid világítótornyával megmented a népet az istentelenség tengeri viharából, s igaz hittel hívogatod a csöndes révbe, legszentebb!
 [M]Égivé tetted az emberek földies természetét, Szeplőtelen, és megújítottad romlottságából, azért soha nem szűnő énekszóval magasztalunk.
+[/]
 [OD7]
-Lelkedben ott volt az Isten félelmének tüze, atyánk, s az élvezetek bozótját elhamvasztottad, és ezt hangoztattad: Áldott vagy, Urunk, atyáinknak Istene!
+[T4]Lelkedben ott volt az Isten félelmének tüze, atyánk, s az élvezetek bozótját elhamvasztottad, és ezt hangoztattad: Áldott vagy, Urunk, atyáinknak Istene!
 Eloltottad könnyeiddel a szenvedélyek lángját, ó boldog, lelked olthatatlan, irányt mutató fényét megőrizted, és hangoztattad: Áldott vagy, Urunk, atyáinknak Istene!
 A Szentlélek kegyelme élő vízként ott volt a lelkedben, istenszerető atya, s te tanítások folyamát buzogtattad, az pedig megöntözte a téged magasztaló Egyházat.
 [M]Egészen megszentelt téged a Szent, aki a te testedből épített önmagának testet, Istenszülő, az az Úr, aki a szentek között lakozik, a mi Istenünk.
+[/]
 [OD8]
-Elűzted a lanyhaság álmát lelked pilláiról, ó boldog, s az igazakat megillető álomba szenderültél, majd pedig a nem alkonyodó világosság nappalára költöztél át.
+[T4]Elűzted a lanyhaság álmát lelked pilláiról, ó boldog, s az igazakat megillető álomba szenderültél, majd pedig a nem alkonyodó világosság nappalára költöztél át.
 Szavaid villámaival fölperzselted a tűzre való eretnekségeket, dicséretreméltó, s a híveket megvilágosítottad, hogy az egy Szentháromságot imádják, kiben a személyek a természet egységében vannak.
 Önmegtagadási gyakorlataiddal szentté tetted magadat, s azt, aki érted is meghalt, vérontás nélkül áldozatként mutattad be, mint isteni ihletésű főpap s mint kimondhatatlan titkok szolgája, Cirill!
 [M]Megszabadultunk az ősanya átkától általad, tisztaságos Istenanya, azért híven áldunk téged, áldott Szűz, és tiszteljük a te legszentebb szülésedet.
+[/]
 [OD9]
-Látni kívántad Krisztusnak kimondhatatlan dicsőségét, s nagy igyekezettel öldökölted a lelket emésztő szenvedélyeket, szívedet a jobb és tökéletesebb bölcsesség hajlékává tetted, szent főpap, azért híven magasztalunk téged.
+[T4]Látni kívántad Krisztusnak kimondhatatlan dicsőségét, s nagy igyekezettel öldökölted a lelket emésztő szenvedélyeket, szívedet a jobb és tökéletesebb bölcsesség hajlékává tetted, szent főpap, azért híven magasztalunk téged.
 Krisztus, a Nap, teljes fénnyel ragyogó csillagként helyezett téged oda az Egyház egére, szentéletű Cirill, hogy szent tanításaid sugaraival ragyogóvá tedd azoknak lelkét, akik híven ünneplik a te fényes emlékedet.
 Az angyalok barátja és magad is hozzájuk hasonló szolgálattevő lettél, hiszen mint valami testnélküli, úgy éltél a földön, atyánk, a szentéletűek örökségének részese és a főpapok kartársa. Velük együtt örvendezve emlékezzél meg rólunk!
 [M]Isteni erények híján terméketlen az én szívem, teljesen szeplőtelen Istenszülő. Te tedd azt bőven termővé, Szent Szűz, ki meddőségből születtél, annak az akaratából, aki a mindenséget akaratával teremtette, hogy magasztaljalak téged, minden magasztalásra méltó!
 [//]
-[03.19.]
+[03.19]
 [OD1]
-[T4]
-Aranynál ragyogóbb koszorúval ékesítve s a vértanúság dicsfényében ragyogva állsz az Uralkodó színe előtt, és értünk, a te tisztelőidért esedezel, magasztalásra méltó vértanú.Megsebezett a Teremtő legédesebb szeretete, te figyelemre se méltattad az élet gyönyörűségeit, és szíved egész lendületével, a legnagyobb buzgósággal odaadtad magadat a vágyva Vágyottnak, Krüszanthosz vértanú!
+[T4]Aranynál ragyogóbb koszorúval ékesítve s a vértanúság dicsfényében ragyogva állsz az Uralkodó színe előtt, és értünk, a te tisztelőidért esedezel, magasztalásra méltó vértanú.Megsebezett a Teremtő legédesebb szeretete, te figyelemre se méltattad az élet gyönyörűségeit, és szíved egész lendületével, a legnagyobb buzgósággal odaadtad magadat a vágyva Vágyottnak, Krüszanthosz vértanú!
 A hittel fölvértezted magadat, az asszony iránti vágy csábításával reád támadó fondorlatost leterítetted, s a tisztaság tiszteletreméltó edényévé lettél, Krüszanthosz vértanú!
 [M]Az isteni természetében megközelíthetetlen Lény belőled testet öltve megközelíthetőként tűnt fel előttünk, Szent Szűz! Utána vágyódott Dária, keményen küzdött, s mint jegyesét hozzá is vezették.
+[/]
 [OD3]
-Kínvallatások tüzén kipróbált aranynak bizonyultál, Krüszanthosz, királyi módon viselve a szenvedések jeleit.
+[T4]Kínvallatások tüzén kipróbált aranynak bizonyultál, Krüszanthosz, királyi módon viselve a szenvedések jeleit.
 Elhagytad a szónokok fecsegését, megfogott a téged nagyon bölccsé tevő tanítványainak a hálója, Krüszanthosz.
 Engedelmeskedtél vőlegényednek, aki szeplőtelen hittel, mint vőfély, Krisztushoz vezetett téged, és lemondtál a testi vágyról, végtelenül bölcs.
 [M]Jézus, aki testileg a te szűz méhedből született, Szeplőtelen, jegyesévé tette Dáriát, a tisztaságos vértanúnőt.
+[/]
 [KTH]
 [T3]Megkívántad a leggyönyörűbb ékességet, * és elhagytad a látható szépségeket, * elvezetted aranyos szavaiddal, boldog Krüszanthosz vértanú, ** Krisztushoz a dicsőséges Dáriát, * aki megvívta a küzdelmet, ** és megszégyenítette a zsarnokokat. ** Vele együtt emlékezzél meg mindnyájunkról, * akik a ti emléketeket híven ünnepeljük!
-[M]Mint megműveletlen szőlőföld, * a leggyönyörűbb szőlőfürtöt termetted, Istenszülő, * s belőle fakadt számunkra az üdvösség bora, * mely megvidámítja mindnyájunk lelkét és testét. * Azért mint minden jónak forrását, boldognak hirdetünk téged * és az angyallal állandóan hangoztatjuk neked: * Üdvözlégy, malaszttalteljes!
+[M][T3]Mint megműveletlen szőlőföld, * a leggyönyörűbb szőlőfürtöt termetted, Istenszülő, * s belőle fakadt számunkra az üdvösség bora, * mely megvidámítja mindnyájunk lelkét és testét. * Azért mint minden jónak forrását, boldognak hirdetünk téged * és az angyallal állandóan hangoztatjuk neked: * Üdvözlégy, malaszttalteljes!
+[/]
 [OD4]
-A Szentléleknek a te tiszta lelkedben ragyogó fényei egészen tündöklővé tettek téged, szent vértanú, és te buzgón zengted: Dicsőség a te erődnek, Uram!
+[T4]A Szentléleknek a te tiszta lelkedben ragyogó fényei egészen tündöklővé tettek téged, szent vértanú, és te buzgón zengted: Dicsőség a te erődnek, Uram!
 A Teremtő felöltöztetett téged az isteni kegyelem odafönt szőtt, enyészhetetlen köntösébe, ó boldog, ki testedet szeplőtelenül megőrizted, és diadalkoszorút nyertél.
 Szíved nemességével levetetted magadról a test gyönyöreit, a tiszta isteni szépségben gyönyörködtél, s örvendezve vonultál ki a vértanúság küzdőterére.
 Az Istenhez emelő egyesülésben részesülve átistenültél, ó bajnok, és örvendezve a mennyei lakodalmas házba költöztél, mint a teremtés Uralkodójának szeplőtelen jegyese.
 [M]A belőled megtestesült felfoghatatlan, ki téged a szülés után is szűzen megőrzött, miként előtte voltál, Dária vértanúnőt jegyesévé tette.
+[/]
 [OD5]
-Elmédet az anyagvilág fölé emelted, s megbilincselten az ellenség gonoszságát megszüntetted, boldog bajnok.
+[T4]Elmédet az anyagvilág fölé emelted, s megbilincselten az ellenség gonoszságát megszüntetted, boldog bajnok.
 A tisztaságot kedvelted, és a szűz forró szerelmét az Úr felé irányítottad, nagyhírnevű szent.Látva, hogy a Zsarnok megtört és lábad előtt fekszik, örvendező lélekkel magasztaltad az Uralkodót, végtelenül boldog.
 [M]Ki magyarázhatja meg a te titkodat, Tisztaságos? Az Isten-Igét szülted felfoghatatlanul és kimondhatatlan módon, kettős természettel.
+[/]
 [OD6]
-A mindenség Uralkodóját magasztaltad, mennyei fény özönlött teljesen körül, s ragyogóvá tett téged, a legsötétebb börtönbe zártan, tiszteletreméltó Krüszanthosz.
+[T4]A mindenség Uralkodóját magasztaltad, mennyei fény özönlött teljesen körül, s ragyogóvá tett téged, a legsötétebb börtönbe zártan, tiszteletreméltó Krüszanthosz.
 Róma a szeplőtelen vértanúsággal felékesített, aranyos csillagként tart birtokában, Krüszanthosz vértanú, küzdelmeiddel és isteni csodáiddal dicsekszik.
 Ékes, szépséges és nagyon ügyes voltál, Dária szűz vértanúnő, s a test minden szenvedése által a legékesebb Ige jegyesévé lettél.
 [M]Mint kisded csecsemőt szült téged a Szűz, öröktől fogva létező Ige, megkívántak téged a szüzek, akiket nászmenetként utána hozzád vezettek, mindenek Királya!
+[/]
 [OD7]
-A vértanúk aranyos virágává lettél, bajnokok csoportját vezetted Krisztushoz istenes szavaiddal és csodáiddal, Isten által kiválasztott vértanú! Velük együtt most téged is híven magasztalunk.
+[T4]A vértanúk aranyos virágává lettél, bajnokok csoportját vezetted Krisztushoz istenes szavaiddal és csodáiddal, Isten által kiválasztott vértanú! Velük együtt most téged is híven magasztalunk.
 Sáros gödörbe vetettek téged ruhátlanul, minden dicséretre méltó, de isteni illat fényes dicsőségével vont be téged Jézus, akit tiszta lélekkel nagyon bölcsen szerettél.
 Vadállatot küldött Krisztus, hogy őrizze szüzességedet, s az az istentelenek szennyességét távol tartotta tőled, hírneves, te pedig zengted: Áldott vagy te a te dicsőséged templomában, Uram!
 [M]Aki isteni lényege szerint körülhatárolhatatlan, a te bensődben a mi hasonlatosságunkra testben körülhatárolódott, Szent Szűz! Áldott vagy te az asszonyok között, szeplőtelen Nagyasszony!
+[/]
 [OD8]
-Kemény elhatározással szembeszálltál az esztelennel, elviselted tested marcangolását, nem égtél meg, mikor fáklyákkal sütögettek, Krüszanthosz, hanem az ifjakkal együtt zengted: Áldjátok az Urat, az Úrnak minden művei!
+[T4]Kemény elhatározással szembeszálltál az esztelennel, elviselted tested marcangolását, nem égtél meg, mikor fáklyákkal sütögettek, Krüszanthosz, hanem az ifjakkal együtt zengted: Áldjátok az Urat, az Úrnak minden művei!
 Krisztus bölcsességével ékesen bebizonyítottad, hogy az esztelenek kevélysége bolondság, a hajdan Évát is rászedő nagy csalót pedig megszégyenítetted, hiszen elvetted tőle fegyverét, és a hit által Istenhez vezettél egy kiválasztott menyasszonyt.
 Lelki egységre lépve kerültétek el a testi egyesülést, bajnokok, s így a Mindenható drága kincseinek bizonyultatok. A mennyei templomban mutattak be áldozatul benneteket, kik ezt hangoztattátok Krisztusnak: Áldjátok az Urat, az Úrnak minden művei!
 Isten akarata folytán úrrá lett teste szenvedélyén Krüszanthosz és Dária, majd a Lélek harmatával a kínzások tüzét hamuvá tette, s elnyerte az igazi élet tüzét, ezt zengve: Áldjátok az Urat, az Úrnak minden művei!
 [M]Reád talált az Isten, az élet tövisei között levő rózsára, szeplőtelen Tisztaság, benne lakozott szeplőtelen méhedben, betöltötte titokzatos illattal a világot, mely hangoztatja: Áldjátok az Urat, az Úrnak minden művei!
+[/]
 [OD9]
-Szent, isteni dolgokról beszéltél, s így szent sereg csatlakozott hozzád, amely a szentségtelen eltévelyedéstől megszabadult, és kardhalál révén ők is szeplőtelen áldozataivá lettek annak, akit mint juhot feláldoztak értünk, szent vértanú.
+[T4]Szent, isteni dolgokról beszéltél, s így szent sereg csatlakozott hozzád, amely a szentségtelen eltévelyedéstől megszabadult, és kardhalál révén ők is szeplőtelen áldozataivá lettek annak, akit mint juhot feláldoztak értünk, szent vértanú.
 Úgy tűntetek fel a vadállatok között, mint bárányok, annak a szent megtestesülését hirdettétek, aki kiüresítette önmagát utolsó csepp véréig, és szenvedésetek árán Istenben szenvedéstől mentes helyet örököltetek.
 Ma fényes ünnepségre gyűjt össze Róma városa minden várost és vidéket, és szellemi ünnepi lakomaként a ti szent bajvívásotokat és küzdelmeteket tálalja fel, szentek.
 Végtelen dicsőségre jutottatok, Krüszanthosz és Dária vértanúk, győzelmi koszorúval mindketten a mindenható Ige színe előtt álltok, s mindenkor esedeztek érettünk, kik magasztalunk titeket.
 [M]Megremeg minden elme és minden szív, mely rágondol a te felfoghatatlan anyaságodra, Szent Szűz, mert az Isten-Igét szülted, ki általad megszabadítja minden szükségtől azokat, akik téged tisztelnek.
 [//]
-[03.20.]
+[03.20]
 [OD1]
-[T8]
-Dicshimnuszokkal szeretném magasztalni isteni ihletésű szent vértanúid sokaságát, Krisztus. Az ő könyörgésükre adj nekem az égből világosságot, hogy Istennek tetsző éneket zenghessek!A test és a szellemi lélek szennyeitől elfordultatok, a világ halálos gyönyörűségeitől elmenekültetek, végtelenül boldogok, s már földi életetek során angyali életet éltetek, mielőtt még az égi hajlékokba beköltözhettetek volna.A Lélek törvényével kormányoztátok tagjaitokat és érzékeiteket, Isten felmagasztalt hajlékaivá lettetek, Istent hordozó vértanúk, hiszen Krisztus lakozott bennetek.A földi, mulandó boldogságról lemondtatok, szentek, az élet gyönyörűségeit, mint árnyékvilágot, semmibe vettétek, Krisztusnak megingathatatlan országa után sóvárogtatok, és most abban tartózkodtok.
+[T8]Dicshimnuszokkal szeretném magasztalni isteni ihletésű szent vértanúid sokaságát, Krisztus. Az ő könyörgésükre adj nekem az égből világosságot, hogy Istennek tetsző éneket zenghessek!
+A test és a szellemi lélek szennyeitől elfordultatok, a világ halálos gyönyörűségeitől elmenekültetek, végtelenül boldogok, s már földi életetek során angyali életet éltetek, mielőtt még az égi hajlékokba beköltözhettetek volna.
+A Lélek törvényével kormányoztátok tagjaitokat és érzékeiteket, Isten felmagasztalt hajlékaivá lettetek, Istent hordozó vértanúk, hiszen Krisztus lakozott bennetek.
+A földi, mulandó boldogságról lemondtatok, szentek, az élet gyönyörűségeit, mint árnyékvilágot, semmibe vettétek, Krisztusnak megingathatatlan országa után sóvárogtatok, és most abban tartózkodtok.
 [M]Te vagy az a szellemi lépcső, melyet az Isten kiválasztottja, Jákob látott, melyen kifejezhetetlen módon leszállott a testnélküli, és tőled változatlanul, kimondhatatlan módon testté lett, Istenszülő.
+[/]
 [OD3]
-Egészen szeplőtelen életeteket egészen feláldoztátok, önmagatokat a mindent látó Istennek istenes, egészen elégő áldozat gyanánt adtátok, és végezetül győzelmi koszorút nyertetek.
+[T8]Egészen szeplőtelen életeteket egészen feláldoztátok, önmagatokat a mindent látó Istennek istenes, egészen elégő áldozat gyanánt adtátok, és végezetül győzelmi koszorút nyertetek.
 Mint az Istent hordozó Száva hű növendékei, az élet zajából elkívánkoztatok, a szoros utat letérés nélkül végigjártátok, és a végtelen életbe siettetek.
 Az Igének belétek vetett magvát jó fölművesek módjára gondoztátok, könnyeitek áradatával bőségesen megöntöztétek, termésként Istennek százszoros kalászt adtatok, szentéletűek.
 [M]A Szűzben laktál testileg, Urunk, amint hozzád illett, hogy megjelenj az emberek között. Őt valóban Istenszülővé és a hívek menedékévé tetted, egyetlen Emberszerető!
+[/]
 [KTH]
 [T8]Önmegtagadással a szenvedélyek tüzes feltörését * és háborgását kitisztogattátok, * nyomába léptetek a mindenséget létrehozó egy Istennek, * Isten által kiválasztott önmegtagadók. * Föláldoztak titeket neki, mint kedvesen fogadott * és szent vágóáldozatokat. * Barbár kéz ütött és csonkított, * majd pedig erőszakkal felkoncolt titeket.
-[M]Istennek tisztaságos, áldott kedveltje! * Esedezzél érettünk szünet nélkül az égi erőkkel, * a főangyalokkal s az összes angyalokkal együtt ahhoz, * ki irgalma bőségéből tőled született, * hogy mielőtt a végünk elérkezik, * adjon nekünk megigazulást, * bűnbocsánatot és életjobbulást, * hogy mi is irgalomra találjunk!
+[M][T8]Istennek tisztaságos, áldott kedveltje! * Esedezzél érettünk szünet nélkül az égi erőkkel, * a főangyalokkal s az összes angyalokkal együtt ahhoz, * ki irgalma bőségéből tőled született, * hogy mielőtt a végünk elérkezik, * adjon nekünk megigazulást, * bűnbocsánatot és életjobbulást, * hogy mi is irgalomra találjunk!
+[/]
 [OD4]
-Látta az ellenség a kies puszta önmegtagadóit, a sokféle erénnyel ékes, legyőzhetetlen vértanúkat, elfogta őt a gyilkos gyűlölet, és hadat üzent ellenük.
+[T8]Látta az ellenség a kies puszta önmegtagadóit, a sokféle erénnyel ékes, legyőzhetetlen vértanúkat, elfogta őt a gyilkos gyűlölet, és hadat üzent ellenük.
 Beleültette a ravasz kígyó az eltévelyedést tanítványaiba, s egymás elleni háborúra ingerelte a barbár néptörzseket, és ezzel már a pusztában élő szentéletűek elűzésére is indította őket.
 Az igazak ellensége körülkerítette, de meg nem futamíthatta a legyőzhetetleneket; láthatóan diadalmaskodott, de láthatatlanul vereséget szenvedett.Méreggel és őrjöngéssel telve támadott a gonoszság szerzője harcostársaival együtt, kegyetlenül rájuk tört, fékezhetetlen vadsággal vérfürdőt rendezett.
 Mulandó anyagnak, enyésző aranynak kincseit keresték azok, akik reménységüket csak földi dolgokra alapozták, a nemes atyák azonban a mennyeiekbe vetették reménységüket és zengték: Dicsőség a te erődnek, Uram!
 Mint a vadállatok, botokkal, kardokkal, kövekkel bántalmazták a szentéletűeket, s azt parancsolták nekik, hogy árulják el elöljáróikat, de ezek mindnyájan megtagadták, hiszen megerősítette őket a szeretet törvénye.
 [M]Szűz és anya, te vagy az apostolok ékessége, a szent vértanúk erőssége, a szentéletűek dicsekvése s mindazoknak az erőssége, akik zengik: Dicsőség a te erődnek, Uram!
+[/]
 [OD5]
-Beavatást nyertek a szentéletűek a tökéletes szeretet parancsolatába, Üdvözítőnk, s miként te oktattad őket, életüket áldozták barátaikért, a te önként vállalt szenvedésedet utánozva.
+[T8]Beavatást nyertek a szentéletűek a tökéletes szeretet parancsolatába, Üdvözítőnk, s miként te oktattad őket, életüket áldozták barátaikért, a te önként vállalt szenvedésedet utánozva.
 A halálnál erősebbnek bizonyult a te parancsolatod, Krisztus, mely a test akaratából való emberi természetet messze fölülmúlja, s ennek a parancsolatodnak bűvkörébe jutottak az Istent szeretők, akik eggyé lettek a te törvényedben, hogy meghaljanak barátaikért.
 Meghintettek titeket a keresztség szellemi izsópjával, szentéletűek, aztán meghintettétek magatokat saját véretekkel is, s végül mint a tűz hevében próbált aranyat, jó illatú áldozatként Krisztusnak áldoztak.
 [M]Anyai bátorsággal fordulhatsz Fiadhoz, legtisztább, azért arra kérünk, rokonszenvedet kifejező gondoskodásodat ne vond el tőlünk, hogy mi, keresztények, egyetlen Isten előtt kedves közbenjárónknak állíthassunk Urunk elé!
+[/]
 [OD6]
-A zsarnokok fenyegetésétől nem ijedtek meg Krisztus szolgái, mert életüket állandóan a halállal számolva élték le.
+[T8]A zsarnokok fenyegetésétől nem ijedtek meg Krisztus szolgái, mert életüket állandóan a halállal számolva élték le.
 Azt gyanították az istentelenek ezekről a szegényekről, hogy gazdagok, és kegyetlenül megkínozták azokat, akik elvetették az enyészőt és megszerezték az enyészhetetlent.
 Legyőzhetetlen erőt öltöttek magukra Krisztus bajnokai, s megfutamították a szellemi gonoszságszerzőt és a barbárok fennhéjázását.
 [M]Rajtad mint könnyű felhőn eljött az uralkodó Úr, hogy elpusztítsa Egyiptom kézzel formált bálványait, Szeplőtelen!
+[/]
 [OD7]
-Megszégyenült a látható és a láthatatlan ellenség mindkét harcoló serege, látva, hogy a kínok közt a vértanúk dicshimnuszt zengenek: Áldott és magasztalt a mi atyáinknak Istene!
+[T8]Megszégyenült a látható és a láthatatlan ellenség mindkét harcoló serege, látva, hogy a kínok közt a vértanúk dicshimnuszt zengenek: Áldott és magasztalt a mi atyáinknak Istene!
 Jegyeseiddé lettek a vértanúk, Krisztus, megsebezte őket a te szereteted, egyetlen szeretetreméltó, elhagyták szüleiket, hazájukat, vagyonukat, és hozzád menekültek, atyáinknak megváltó Istene.
 A barbárok gyilkos vérontása nem tántorította el a te pusztabeli szeretteidet az istenimádástól, Krisztus. Nem féltek azoktól, akik a testet elveszik, hiszen a te parancsolatod volt életük megingathatatlan alapja.
-Egészen feléd irányították vágyakozásukat a világból a te szolgáid, Urunk, szívüket a bűnnel szemben fegyverezték föl, s végtelen bölcs lelkülettel a te kedvedben jártak, Urunk.Szívetek szent tábláin ott volt az Isten által megírt törvény, szent vértanúk. A Háromságban egy Istent hirdettétek, és neki zengtétek: Áldott a mi atyáinknak Istene!
+Egészen feléd irányították vágyakozásukat a világból a te szolgáid, Urunk, szívüket a bűnnel szemben fegyverezték föl, s végtelen bölcs lelkülettel a te kedvedben jártak, Urunk.
+Szívetek szent tábláin ott volt az Isten által megírt törvény, szent vértanúk. A Háromságban egy Istent hirdettétek, és neki zengtétek: Áldott a mi atyáinknak Istene!
 [M]Kik az Úr világosságában jártok, gyertek, magasztaljuk az uralkodó Úrnak isteni kapuját, a szeplőtelen Máriát, a valóságos Istenszülőt, a mi lelkünk reménységét!
+[/]
 [OD8]
-A mennyei seregekkel vetélkedtek az angyalokhoz hasonlók, és egész éjszakai virrasztásuk során ezt zengték: Minden művei, áldjátok Krisztust mindörökké!
+[T8]A mennyei seregekkel vetélkedtek az angyalokhoz hasonlók, és egész éjszakai virrasztásuk során ezt zengték: Minden művei, áldjátok Krisztust mindörökké!
 A keresztet hordozva teljes szívvel téged követtek a vértanúk, és ezt zengték: Minden művei, áldjátok Krisztust mindörökké!
 A kőzáport elszenvedték a botokkal összevert boldogok, az erényességhez ragaszkodtak, és ezt zengték: Minden művei, áldjátok Krisztust mindörökké!
 Testüket, lelküket és szellemüket egészen megtisztították a boldogok, és Krisztusnak zengték: Minden művei, áldjátok őt mindörökké!
 Szégyenüljenek meg azok, akik téged, az oszthatatlant, káromlóan két személyűnek vallanak, és négy személyt imádnak! Mi a Szentháromság egyik személyeként tisztelünk.
+[/]
 [OD9]
-Sokféleképpen gyakorlatoztak a bajnokok, s legyőzték a világkormányzó gonosznak a fondorlatait, bátran és buzgón megszégyenítették a barbár esztelenségét, s állták annak támadását, majd pedig kettős koszorút nyertek érte az igazságos versenybírótól.
+[T8]Sokféleképpen gyakorlatoztak a bajnokok, s legyőzték a világkormányzó gonosznak a fondorlatait, bátran és buzgón megszégyenítették a barbár esztelenségét, s állták annak támadását, majd pedig kettős koszorút nyertek érte az igazságos versenybírótól.
 Barlangokban és üregekben, önmegtagadásban töltöttétek életeteket, boldogok, szűk odúnak sötét szája zárt magába benneteket, kiket véretek bíborszínűre festett, a tűz heve s a szörnyen áradó füst mérge megfojtott, győzelmi jelet szereztetek.
 Magasztaljuk különleges módon a küzdelmeket, melyeket a bűnnel szembeszállva hősiesen vívtatok, Krisztusnak dicsőséges katonái. 
 Híres győzelmet is arattatok, s most, hogy a szentek seregével ott álltok a Fönséges előtt, emlékezzetek meg rólunk!
 Boldogok, akik Szávával, az atyával és nevelővel, mint az ő valódi gyermekei, az égben a hármasnapú fényben ragyogtok, esedezzetek értünk, tanítványtársaitokért, hogy az Egyház általános békét nyerjen, a mi lelkünk pedig üdvösséget!
 [M]Törd le az ellenségek gőgjét és dühét s az eretnekek gonosz terveit, Szűz Szülöttje, Alkotónk! Erősítsd meg szilárdan a hívek seregét, emeld fel hatalmát, szilárdítsd meg a hitben, Isten, hogy mindnyájan magasztaljunk téged!
 [//]
-[03.21.]
+[03.21]
 [OD1]
 [T2]Uralkodód világosságát lelkedbe fogadtad, a világ sötét csábítását elhagytad, s a túlvilági dicsőséget elnyerted, Jakab!
 A keresztet válladra vetted, a keresztrefeszített Urat követted, igen bölcsen magányba vonultál, s a szenvedélyeket önmegtagadással lecsillapítottad, szentéletű atya! 
@@ -1734,7 +1789,7 @@ Tisztelünk téged, Jakab atya, te nappali csillag, a Szentlélek hajléka, tito
 Könnyeidnek lelked földjén folyó áradata dús, érett kalászokat nevelt, s azok mindenkor jól tartják hív tisztelőid lelkét, istenszerető főpap, Jakab atyánk!
 [M]Kegyelmezz nekem, Uram, légy kegyelmes, midőn meg akarsz ítélni, s ne kárhoztass az örök tűzre, ne fenyíts meg haragosan, Krisztus, hiszen kérlel téged a Szűz, ki méhedben hordozott, az angyalok gyülekezete és a tiszteletre méltó Jakab!
 [//]
-[03.22.]
+[03.22]
 [OD1]
 [T6]A te királyi dicsőségedet, mindenség Királya, megszerette a királyi nevet viselő Bazil, keményen küzdött érte itt a földön. Az ő közbenjárása folytán méltass minket a mennyek országára!
 Magasztalásra méltó életed, tisztaságos viselkedésed, küzdelmeidnek fénye Isten örökösévé avatott és a mennyország polgárává tett téged, dicsőséges!
@@ -1786,7 +1841,7 @@ Világosságként, nagy Napként tűntél fel Krisztus Egyházának egén, végt
 A földet megszenteli a te szent és istenes tested eltemetése, az igazak lelkei ujjonganak, mert közöttünk van a te lelked, boldog Bazil. Velük egyetemben emlékezzél meg rólunk, akik megemlékezünk terólad!
 [M]Félelmetes a te anyaságod titka, szent Szűz, mert a megtestesült Isten született tőled. Esedezzél hozzá, hogy szabadítsa meg a félelmes kínoktól mindazokat, akik megingathatatlan hittel tisztelnek téged, Tisztaságos, férfiút nem ismerő Szűz!
 [//]
-[03.23.]
+[03.23]
 [T4]Önmegtagadási küzdelmeidben legyőzted a gonoszság szerzőjét, bajnoki dísszel megkoszorúztak, s most Isten színe előtt állsz, és értünk, a te tisztelőidért esedezel, szentéletű Győző.
 Megerősített annak ereje, aki a mi gyöngeségünket magára vette. Előbb a harcokban jeleskedtél és győzelmet arattál, aztán igyekeztél Krisztus keresztségébe alámerülni, ó boldog.
 Vértanúsággal ékeskedik a te tanítványaid legboldogabb serege, mely előbb önmegtagadási gyakorlataival tündökölt, és a kettős küzdelemben kettős koszorút kötött magának, ó bölcs.
@@ -1831,7 +1886,7 @@ Nagy nap vagy te az Egyház egén, bajnokok csoportja isteni fénnyel ragyogó c
 Feljutottál a szeplőtelen hajlékba, odaállítottad a bajnokok két századból álló karát a koszorút osztó versenybíró elé, szent vértanú. Velük együtt emlékezzél meg rólunk, akik ma a ti emléketeket ünnepeljük!
 [M]A belőled értünk megszületett Világosság hajlékaként tűntél fel, tisztaságos Szűzanya. Esedezzél hozzá szüntelenül, hogy világosítsa meg mindazokat, akik téged magasztalnak és Istenszülőnek vallanak!
 [//]
-[03.24.]
+[03.24]
 [OD1]
 [T4]Ujjongj nagy örvendezéssel, ó világ, látva, hogy az Úr lealázkodik hozzád, az égből könyörületes szívvel alászáll, hogy a Szűz méhében megtestesüljön!
 Íme, hozzád küldöm, ó Királynő, a mindenség királyának és Istenének szent főangyalát, hogy hirdesse az eljövetelt, és elmondja neked az üdvözletet az ősatya visszahívására.
@@ -1882,7 +1937,7 @@ Előünnepi ajándékként fölajánljuk neked, Tisztaságos, a szegénység sze
 [M]Az értelmet felülmúló beszédet * meghallgatta az Istenszülő, * a főangyal az örömhír szavát intézte hozzá, * kitől elfogadván hittel az üdvözletet, * méhében fogant téged, az örök Istent. * Azért mi is örvendezve kiáltjuk neked: * Istenünk, ki tőle változás nélkül megtestesültél, * ajándékozz békességet világodnak * és lelkünknek nagy kegyelmet!
 [APO]
 [T8]
-Gábor, a felső erők fővezére leszállott, * üdvözölte a Szüzet, és mondá: * üdvözlégy az istenség tiszta kocsija! * Téged az Isten öröktől fogva megszeretett, * lakóhelyéül kiválasztott. * A te Urad szolgájaként vagyok jelen, * és az ő eljövetelét hirdetem. * Meg fogod szülni az Urat, * és továbbra is sérülés nélkül maradsz.
+Gábriel, a felső erők fővezére leszállott, * üdvözölte a Szüzet, és mondá: * üdvözlégy az istenség tiszta kocsija! * Téged az Isten öröktől fogva megszeretett, * lakóhelyéül kiválasztott. * A te Urad szolgájaként vagyok jelen, * és az ő eljövetelét hirdetem. * Meg fogod szülni az Urat, * és továbbra is sérülés nélkül maradsz.
 [E]Hirdessétek napról napra a mi Istenünk szabadítását!
 Ó, miért olyan tüzes az alakod * – mondá a Szűz álmélkodva Gábornak. * Ó, milyen a te méltóságod, * és milyen hathatósak szavaid? * Te gyermekszülést hirdetsz nekem, * pedig férfiút nem ismerek. * Csalfa beszéddel ne ámíts el engem, ó ember, * mint hajdan Éva ősanyát a csalfa kígyó!
 [E] Énekeljetek az Úrnak új éneket, énekeljetek az Úrnak, minden föld!
@@ -1891,7 +1946,7 @@ Leszáll reád az Isten legszentebb Lelke, * Isten kedveltje, tisztaságos Nagya
 [TRP]
 [T4]Ma van a mi üdvösségünk kezdete...
 [//]
-[03.25.]
+[03.25]
 [1ST][T1]A test nélküli rendek fővezére * Názáret városába jövén * az örökkévalóság Urát és Királyát jelenti neked, tisztaságos Szűz, mondván: * Üdvözlégy, legáldottabb Mária, * fölfoghatatlan és kimondhatatlan Csodalény, * az emberek megújulása!
 [2ST][T3]Ma az egész teremtés vigadozik, * mert az üdvözlégyet mondja neked a főangyal. * Áldott vagy te, Tisztaságos, ** Krisztus szeplőtelen Anyja! * Ma a kígyó gőgje megtörik, * az ősatya átkának köteléke feloldódik. ** Azért mi is hangoztatjuk: ** Üdvözlégy, Malaszttalteljes!
 [3ST][T4]A mennyből jött Gábor, * üdvözlégyet kiáltott feléd, Tisztaságos, * hogy méhedben fogand az öröktől fogva való Istent, * ki egy szavával alkotta meg a földkerekséget. * Mária így válaszolt neki: * Férjetlen létemre hogy fogok fiat szülni? * Ki látott magvetés nélküli szülést? * Az angyal pedig magyarázólag ezt mondta az Istenszülő Szűznek: * A Szentlélek száll reád * és a Magasságbelinek ereje árnyékoz majd be téged.
@@ -1958,7 +2013,7 @@ Gábor főangyal * örömhírt hozott Szűz Máriának a mennyből, s fölkiált
 A kezdet nélküli Atyának * vele együtt öröklétű Igéje * a magasságbeliektől el nem válva * mérhetetlen könyörületességgel alászáll, * megszánva bukottságunkat, * Ádám nyomorúságát magára veszi * s önmagától idegen alakot ölt.
 [M][T2]Az öröktől fogva rejtelmes titok * föltárul a mai napon: * Isten Fia emberfiává lesz, * hogy a gyarlóbbat magára öltvén * jobbat adjon nekünk. * A megtévesztett Ádám hajdan kevélységből Isten akart lenni és nem lett, * Isten pedig emberré lesz, hogy Ádámot Istenhez emelje. * Vigadozzon a teremtés, * örvendezzen a természet, * mert a főangyal félelemmel áll a Szűz előtt, * s a szomorúság ellentétét, az örömteli üdvözletet hozza. * Istenünk, ki irgalomból megtestesültél, dicsőség néked!
 [//]
-[03.26.]
+[03.26]
 [OD1]
 [T4]Mint a legfőbb világosság fényében élő szent és anyagtalan világosságot, kérlek téged, főangyal, világosítsd meg könyörgéseddel elmémet, hogy magasztalhassalak téged!
 Alakítsunk örvendező lélekkel szent énekkart, ünnepeljük a test nélküli értelmek fejét, aki jóságosan közölte a világra áradó, kimondhatatlan örömet!
@@ -2006,7 +2061,7 @@ Tartóztasd fel mindenkor a barbároknak szolgáid ellen felgerjedt, vad vihará
 Ti szép és dicsőséges pár, Mihály és Gábor, ott álltok az isteni dicsőség királyi széke előtt. Kérjetek mindenkinek bűnbocsánatot, hárítsátok el a bajokat, mint védelmezők és mint az Uralkodó jóságának mindenben követői!
 [M]A te szülötted villámfénye felragyogott, megvilágosított mindent a nap alatt, s elpusztította a sötétség fejedelmét, tisztaságos Istenanya, angyalok dicsekvése, az összes, szüntelen szóval téged magasztaló ember üdvössége.
 [//]
-[03.27.]
+[03.27]
 [OD1]
 [T4]Te, ki a testnélküliek istenes seregeivel a mindenséget létrehozó Isten környezetében vigadozol és az isteni uralomból áradó fényözönt élvezed, világosítsd meg magasztalóidat!
 Krisztus, a mi Istenünk, ki a szolga alakját magára venni méltóztatott, hogy megmentse azt az enyészettől és a halál bilincseitől, a szolgaság igájából jegyesévé tett téged, vértanúnő!
@@ -2048,7 +2103,7 @@ Gyötrelmes szenvedéseidért megkaptad a jutalmat, bajnoknő, a mennyországnak
 Most valóban együtt vagy Krisztussal, a te halhatatlan Jegyeseddel, az ő szent sebeivel feltűnően ékeskedsz, tisztaságos, és a vértanúság tiszteletreméltó vérével tündökölsz.
 [M]Oldozd fel bűneim béklyóit, szűz Istenszülő, egyetlen Istenben boldog, ki az irgalmasság forrását szülted. Töltsd el szívünket örömmel, hogy méltó módon magasztaljunk téged!
 [//]
-[03.28.]
+[03.28]
 [OD1]
 [T2]Önmegtagadás gyakorlásával együttérzővé és szelíddé, s valóban vidor lelkűvé lettél, Vidor atya. Méltass engem könyörgéseddel az isteni könyörületességre, hogy most is vidám szívvel magasztalhassalak téged!
 Gyermekkorod óta szentül éltél, fölvetted keresztedet, Krisztust követted, a testi szenvedélyeket önmegtagadással és állandó imádsággal hervasztottad és szenvedélytelenséggel ékeskedtél, atyánk.
@@ -2098,7 +2153,7 @@ Könyörületes voltál, szeretettel teljes és alázatos, szánakozó és képm
 Úgy ragyogott fel ma a te emléked, mint a nap, küzdelmeid fényességével és csodáid sugaraival valóban megvilágosítja a buzgók szívét, atyánk. Emlékezzél meg ma minden hívő magasztalódról!
 [M]Gábor szavát hangoztatjuk neked örvendezéssel és mondjuk: Üdvözlégy, a Mindenható hajléka! Üdvözlégy, szentéletűek dicsősége és minden hívő üdvössége, ki által mindenkor megszabadulunk, mindenkorszűz Istenszülő!
 [//]
-[03.29.]
+[03.29]
 [OD1]
 [T1]Magasztaljuk, hívek, Krisztus Egyházának ragyogó fáklyáját, aki a hit fényességével megvilágosította a népeket, s dicsőítsük a mindenség Teremtőjét!
 Lelkileg a Krisztusba vetett hit ligetében nevelkedtél és növekedtél, s a magasztos bajvívással hozzá is futottál, legragyogóbb, boldog főpap.
@@ -2181,7 +2236,7 @@ Az Egyház támpilléreinek bizonyultatok, tántoríthatatlanul mindnyájan: Abi
 Már ott álltok az angyalokkal együtt a dicsőség királyi széke előtt, ó szentek, s ott ragyogtok a hármas Nap világosságtündöklő fényözönében. Világosítsátok meg mindazokat, akik híven ünneplik a ti fényes emléketeket!
 [M]Szánd meg, Uram, a te népedet s ezt a te megszerzett örökségedet! Figyelj oda a téged szülő isteni szolgálónak értünk mondott könyörgésére, mi pedig dicsőítünk téged, könyörületes Uralkodó!
 [//]
-[03.30.]
+[03.30]
 [OD1]
 [T1]Helyes módon vetted semmibe a földi világot, s így elnyerted az égit, végtelenül bölcs János, és megtanítasz mindenkit arra, hogy e világ elkerülése vihet közel az Istenhez.
 [E]Az alázatossá tevő függetlenedés mindattól, amihez szenvedélyesen ragaszkodtunk.
@@ -2263,7 +2318,7 @@ Az imádság tüzével megsemmisítetted az anyagias lelkületet, egészen átt�
 Erőre találtál a hitben, szárnyaltál a szeretettel, buzgón végigjártad az erények létráját, és eljutottál Krisztus szeretetére, hiszen ebben teljesül be minden vágyakozás.
 [M]A te anyaságod csodáját ábrázoló képeket csókoljuk, Tisztaságos. Szülötted személyét imádjuk, képét tiszteljük, mindkettőről az igazságot valljuk, és így telünk be igaz hittel.
 [//]
-[03.31.]
+[03.31]
 [OD1]
 [T8]szabadító Istenünket dicsőítsük!
 A Szentháromság fénye megvilágosított, gyermekkorod óta a hit éltető tejével táplálkoztál, és erényeiddel ragyogtál, istenszerető főpap!

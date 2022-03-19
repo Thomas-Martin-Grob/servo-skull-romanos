@@ -162,6 +162,33 @@ def printSection(sttl,section,tn=0) :
     print('    Printed '+section+'.')
     return
 
+# Print a standard text section from Octoechos
+def printOcto(sttl,section,common) :
+    pdf.chapter_title(sttl)
+    tone = weekly
+    pdf.set_font('IMFell','',12)
+    pdf.set_text_color(0,0,0)
+    okay = 0
+    with open('Books/mtn_octoechos.txt','rb') as file :
+        while True :
+            line = file.readline().decode('utf8')
+            if not line :
+                break
+            if (okay == 2 and '[/]' in line) or (okay > 0 and '[//]' in line) :
+                break
+            if okay == 2 :
+                if '[T' in line :
+                    pdf.set_text_color(128,0,0)
+                    pdf.multi_cell(0,6,line[2]+'. hang')
+                    line = line[4:]
+                    pdf.set_text_color(0,0,0)
+                pdf.multi_cell(0,6,line)
+            if '[Tone '+str(tone)+']' in line : okay = 1
+            if '['+section+']' in line and okay == 1 : okay = 2
+    pdf.ln()
+    print('    Printed '+common+'.')
+    return
+
 # Compile 'Lord I call'
 def printLordICall() :
     tone = weekly
@@ -654,6 +681,10 @@ printSection('Polieleosz','Polyeleos')
 if pretrio == True : printSection('Babilon folyóinál','Waters of Babylon')
 printSection('Feltámadási himnuszok','Hymns of Resurrection')
 printSection('Kis könyörgés','Little Litany 3')
+printOcto('Ypakoi','YPA','Ypakoi')
+printOcto('Lépcsőének','GRD','Graduale')
+printOcto('Prokimen','PRK','Prokeimenon')
+printSection('Evangélium','Gospel')
 printSection('Látván Krisztus feltámadását','Having Beheld')
 printSection('50. zsoltár','Psalm 50')
 if pretrio == True or lent == True : printSection('Bűnbánati versek','After Psalm Triodion')
