@@ -80,7 +80,7 @@ Megsenyvedtek és megüszkösödtek sebeim oktalanságom miatt.
 Megszenvedtem és meggörnyedtem nagyon; egész nap szomorkodva jártam.
 Mert derekam megtelt fájdalommal, és nincs gyógyulása az én testemnek.
 Megkínoztattam és megaláztattam nagyon, jajgattam szívem keserűsége miatt.
-Uram, Ellőtted van minden kívánságom, és nincs elrejtve Előled az én keserűségem.
+Uram, Előtted van minden kívánságom, és nincs elrejtve Előled az én keserűségem.
 Megrendült az én szívem, erőm elhagyott, és szemem világa, az sincs énvelem.
 Barátaim és felebarátaim szembefordultak velem, és atyámfiai messzire álltak tőlem.
 És tőrt vetettek nékem, akik életemre törnek; és akik rosszat akarnak nékem, hitványságokat beszéltek, és egész napon át aljasságokat koholtak.
@@ -112,7 +112,7 @@ Tehozzád ragaszkodik az én lelkem, és a Te jobbod oltalmaz engem.
 Ők pedig hiába törtek az én lelkemre; a föld legmélyébe jutnak, kardélre hányatnak, rókák martalékává lesznek.
 A király pedig örvendezik majd Istenben, dicséretben lesz része mindnek, aki Őreá esküszik, mert bezáratott a szája azoknak, akik igaztalanságokat beszélnek.
 
-Hajnalig Rólad elmélkedem, Mert segítőm lettél, és a Te szárnyaid takarója alatt örvendezem.
+Hajnalig Rólad elmélkedem, mert segítőm lettél, és a Te szárnyaid takarója alatt örvendezem.
 Tehozzád ragaszkodik az én lelkem, és a Te jobbod oltalmaz engem.
 
 Dicsőség az Atyának és Fiúnak és Szent Léleknek, most és mindenkor és mindörökkön örökké. Ámin.
@@ -157,7 +157,7 @@ Aki megkönyörül minden törvényszegéseiden és meggyógyítja minden betegs
 Aki megmenti életedet a pusztulástól, aki megkoszorúz téged irgalmával és könyörületével.
 Aki jóval tölti be kívánságodat, és ifjúságod megújul, mint a sasé.
 Irgalmasságot cselekszik az Úr, és igazságot minden elnyomottal.
-Megismertette Mózessel az Ő útjait, és Izráel fiaival az Ő akaratát.
+Megismertette Mózessel az Ő útjait, és Izrael fiaival az Ő akaratát.
 Könyörületes és irgalmas az Úr, hosszan tűrő és nagyirgalmú.
 Nem haragszik meg végképpen, és nem tart haragot örökké.
 Nem a törvényszegéseink szerint cselekszik velünk, sem a bűneink szerint nem fizet nekünk.
@@ -192,7 +192,7 @@ Mutasd meg nékem az utat, amelyen járjak, mert Hozzád emelem lelkemet.
 Szabadíts meg engem ellenségeimtől, Uram, mert Hozzád menekedtem;
 taníts meg cselekedni a Te akaratodat, mert Te vagy az én Istenem;
 a Te jóságos Lelked vezessen engem az egyenes földön.
-A Te nevedért, Uram, éltess engem, a Te igazságosságodért vezesd ki lelkemet a bánkódásból, és a Te irgalmadért rontsd meg ellenségeimet, és veszítsd el mindazokat, akik szorongatják lelkemet, Mert én a Te szolgád vagyok. 
+A Te nevedért, Uram, éltess engem, a Te igazságosságodért vezesd ki lelkemet a bánkódásból, és a Te irgalmadért rontsd meg ellenségeimet, és veszítsd el mindazokat, akik szorongatják lelkemet, mert én a Te szolgád vagyok. 
 
 Hallgass meg engem a Te igazságosságodban, Uram, és ne szállj perbe a Te szolgáddal.
 Hallgass meg engem a Te igazságosságodban, Uram, és ne szállj perbe a Te szolgáddal.
@@ -222,6 +222,9 @@ Alleluja, alleluja, alleluja. Dicsőség Néked, Isten. Mi reménységünk, Urun
 [P]Főpásztorunkért N.-ért, a tisztes papságért, a Krisztusban szolgáló diakónusok rendjéért, az egész egyházi rendért és a népért könyörögjünk az Úrhoz.
 [R]    Uram irgalmazz.
 
+[P]Istenoltalmazta hazánkért, annak vezetőiért és hadseregünkért, könyörögjünk az Úrhoz.
+[R]    Uram irgalmazz.
+
 [P]Ezért a városért, minden városért és vidékért, és mindazokért, akik azokban hittel élnek, könyörögjünk az Úrhoz.
 [R]    Uram irgalmazz.
 
@@ -238,7 +241,7 @@ Alleluja, alleluja, alleluja. Dicsőség Néked, Isten. Mi reménységünk, Urun
 [R]    Uram irgalmazz.
 
 [P]Szentséges, tisztaságos, fölöttébb áldott, dicsőséges Nagyasszonyunkról, Istennek Szülőjéről és Örökszűz Máriáról minden szentekkel együtt megemlékezvén, önmagunkat és egymást, és egész életünket Krisztus Istenünknek ajánljuk.
-[R]    Uram irgalmazz.
+[R]    Néked Uram.
 
 [P]Mert Téged illet minden dicsőség, tisztelet és hódolat, az Atyát és Fiút és Szent Lelket, most és mindenkor és mindörökkön örökké.
 [R]    Ámin.
@@ -246,19 +249,19 @@ Alleluja, alleluja, alleluja. Dicsőség Néked, Isten. Mi reménységünk, Urun
 [God is the Lord]
 Isten az Úr, és megjelent nékünk; áldott, ki az Úr nevében jő.
 
-    Isten az Úr, és megjelent nékünk; áldott, ki az Úr nevében jő.
+*** Isten az Úr, és megjelent nékünk; áldott, ki az Úr nevében jő.
 
 Valljátok meg az Urat, Mert jóságos, Mert örökkévaló az Ő irgalma.
 
-    Isten az Úr, és megjelent nékünk; áldott, ki az Úr nevében jő.
+*** Isten az Úr, és megjelent nékünk; áldott, ki az Úr nevében jő.
 
 Körülvéve körülvettek engem, és az Úr nevével álltam ellen nékik.
 
-    Isten az Úr, és megjelent nékünk; áldott, ki az Úr nevében jő.
+*** Isten az Úr, és megjelent nékünk; áldott, ki az Úr nevében jő.
 
 A kő, amelyet az építők elvetettek, az lett a szeglet fejévé, az Úrtól lett ez, és csodálatos a mi szemeinkben.
 
-    Isten az Úr, és megjelent nékünk; áldott, ki az Úr nevében jő.
+*** Isten az Úr, és megjelent nékünk; áldott, ki az Úr nevében jő.
 [/]
 [Little Litany 1]
 [P]Újra meg újra békességben könyörögjünk az Úrhoz.
@@ -411,7 +414,7 @@ Most és mindenkor és mindörökkön-örökké. Ámin.
 [I](8. hang)
 [R]Az üdvösség ösvényeit egyengesd énnékem, Istennek Szülője; * mert förtelmes bűnökkel mocskoltam be lelkemet, * restül eltékozolva egész életemet. * A Te közbenjárásoddal szabadíts meg minden tisztátalanságtól.
 
-[I](6. hang)
+[I](6. hang - módosított)
 [R]Irgalmazz nékem, Isten, * a Te nagy irgalmasságod szerint, * és könyörületességed sokasága szerint * töröld el az én vétkezéseimet.
 
 Meggondolva az általam elkövetett gonoszságok sokaságát * én nyomorult, * reszketek az ítéletnek rettenetes napjától; * mégis a Te könyörületed irgalmában bízva,*  mint Dávid kiáltom Hozzád: * Irgalmazz nékem, Isten, a Te nagy irgalmasságod szerint.
@@ -505,24 +508,43 @@ Mert Szent Ő!
 [Doxology]
 [P]Dicsőség Néked, aki megmutattad nekünk a világosságot!
 [R]Dicsőség a magasságban Istennek, * és a földön békesség, az emberek között jóakarat.
+
 Magasztalunk Téged, áldunk Téged, * hódolunk Néked, dicsőítünk Téged, * hálát adunk Néked a Te nagy dicsőségedért.
+
 Urunk Királyunk, mennyei Istenünk, mindenható Atyánk, * egyszülött Fiú, Jézus Krisztus Urunk és Szent Lélek.
+
 Urunk Istenünk, Istennek Báránya, az Atyának Fia, * aki elveszed a világ bűnét! * Irgalmazz nekünk, aki elveszed a világ bűnét.
+
 Fogadd a mi könyörgésünket, ki ülsz az Atyának jobbján, * és irgalmazz nekünk.
+
 Mert egyedül Te vagy szent, egyedül Te vagy Úr, Jézus Krisztus, * az Atya Isten dicsőségére. Ámin.
+
 Minden napon áldalak Téged, és dicsérem a Te nevedet minden időkben és mindörökkön-örökké. * Méltass minket, Urunk, hogy ezen a napon bűntelenül maradhassunk meg.
-Áldott vágy, Urunk, atyáinknak Istene, és dicséretes és dicsőített a Te neved mindörökké. Ámin. * Legyen, Urunk, a Te irgalmad mirajtunk, amiképpen bíztunk Tebenned.
+
+Áldott vagy, Urunk, atyáinknak Istene, és dicséretes és dicsőített a Te neved mindörökké. Ámin. * Legyen, Urunk, a Te irgalmad mirajtunk, amiképpen bíztunk Tebenned.
+
 Áldott vagy, Uram, taníts meg engem a Te rendeléseidre.
+
 Áldott vagy, Uram, taníts meg engem a Te rendeléseidre.
+
 Áldott vagy, Uram, taníts meg engem a Te rendeléseidre.
+
 Urunk, menedékünk voltál nemzedékről nemzedékre. * Én mondám: Uram, irgalmazz nekem, gyógyítsd meg az én lelkemet, mert vétkeztem Ellened.
+
 Uram, Hozzád menekedtem, taníts meg cselekedni a Te akaratodat, * mert Te vagy az én Istenem.
+
 Mert Nálad van az élet forrása; a Te világosságodban látjuk meg a Világosságot. * Áraszd a Te irgalmadat azokra, kik ismernek Téged.
+
 Szent Isten, Szent Hatalmas, Szent Halhatatlan, irgalmazz nekünk.
+
 Szent Isten, Szent Hatalmas, Szent Halhatatlan, irgalmazz nekünk.
+
 Szent Isten, Szent Hatalmas, Szent Halhatatlan, irgalmazz nekünk.
+
 Dicsőség az Atyának és Fiúnak és Szent Léleknek, most és mindenkor és mindörökkön örökké. Ámin.
+
 Szent Halhatatlan, irgalmazz nekünk.
+
 Szent Isten, Szent Hatalmas, Szent Halhatatlan, irgalmazz nekünk.
 [/]
 [Final Troparion Odd]

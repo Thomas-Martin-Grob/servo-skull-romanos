@@ -67,6 +67,9 @@ Alleluja, alleluja, alleluja! Dicsőség Néked, Isten.
 [P]Főpásztorunkért N.-ért, a tisztes papságért, a Krisztusban szolgáló diakónusok rendjéért, az egész egyházi rendért és a népért könyörögjünk az Úrhoz.
 [R]    Uram irgalmazz.
 
+[P]Istenoltalmazta hazánkért, annak vezetőiért és hadseregéért, könyörögjünk az Úrhoz.
+[R]    Uram irgalmazz.
+
 [P]Ezért a városért, minden városért és vidékért, és mindazokért, akik azokban hittel élnek, könyörögjünk az Úrhoz.
 [R]    Uram irgalmazz.
 
@@ -83,28 +86,28 @@ Alleluja, alleluja, alleluja! Dicsőség Néked, Isten.
 [R]    Uram irgalmazz.
 
 [P]Szentséges, tisztaságos, fölöttébb áldott, dicsőséges Nagyasszonyunkról, Istennek Szülőjéről és Örökszűz Máriáról minden szentekkel együtt megemlékezvén, önmagunkat és egymást, és egész életünket Krisztus Istenünknek ajánljuk.
-[R]    Uram irgalmazz.
+[R]    Néked Uram.
 
 [P]Mert Téged illet minden dicsőség, tisztelet és hódolat, az Atyát és Fiút és Szent Lelket, most és mindenkor és mindörökkön örökké.
 [R]    Ámin.
 [/]
 [Blessed Is the Man]
 Boldog az a férfiú, aki nem jár a gonoszok tanácsában.
-Alleluja, alleluja, alleluja.
+*** Alleluja, alleluja, alleluja.
 Mert ismeri az Úr az igazak útját, és a gonoszok útja elvész.
-Alleluja, alleluja, alleluja.
+*** Alleluja, alleluja, alleluja.
 Szolgáljatok az Úrnak félelemben, és örvendezzetek Néki rettegésben.
-Alleluja, alleluja, alleluja.
+*** Alleluja, alleluja, alleluja.
 Boldogok mindazok, akik Őbenne bíznak.
-Alleluja, alleluja, alleluja.
+*** Alleluja, alleluja, alleluja.
 Kelj föl, Uram, ments meg engem, én Istenem.
-Alleluja, alleluja, alleluja.
+*** Alleluja, alleluja, alleluja.
 Az Úré az üdvözítés, és a Te népeden a Te áldásod.
-Alleluja, alleluja, alleluja.
+*** Alleluja, alleluja, alleluja.
 Dicsőség az Atyának és Fiúnak és Szent Léleknek.
-Alleluja, alleluja, alleluja.
+*** Alleluja, alleluja, alleluja.
 Most és mindenkor és mindörökön örökké. Ámin.
-Alleluja, alleluja, alleluja.
+*** Alleluja, alleluja, alleluja.
 Alleluja, alleluja, alleluja! Dicsőség Néked, Isten.
 Alleluja, alleluja, alleluja! Dicsőség Néked, Isten.
 Alleluja, alleluja, alleluja! Dicsőség Néked, Isten.
