@@ -189,28 +189,22 @@ def printOcto(sttl,section,common) :
     print('    Printed '+common+'.')
     return
 
-# Compile 'Lord I call'
-def printLordICall() :
+# Compile Praises
+def printPraises() :
     tone = weekly
-    verses = ['','','','','','','','','','','','']
-    pre = ['10. Vezesd ki a tömlöcből az én lelkemet, hogy magasztaljam a Te nevedet.',
-    '9. Körülvesznek engem az igazak, amikor majd jót teszel velem.',
-    '8. A mélységből kiáltottam Hozzád, Uram. Uram, hallgasd meg az én hangomat.',
-    '7. Legyenek füleid figyelmesek könyörgésem hangjára.',
-    '6. Ha számbaveszed a törvényszegéseket, Uram, Uram, ki állhat meg Előtted? De Tenálad van a könyörület.',
-    '5. A Te nevedért vártalak, Uram; várta a lelkem a Te igédet; reménykedett az én lelkem az Úrban.',
-    '4. A reggeli őrségváltástól az éjszakáig, a reggeli őrségváltástól reménykedjék Izrael az Úrban.',
-    '3. Mert az Úrnál van az irgalom, és nagy Őnála a szabadítás, és Ő szabadítja meg Izraelt annak minden vétkeitől.',
-    '2. Dicsérjétek az Urat minden nemzetek, magasztaljátok Őt minden népek.',
-    '1. Mert nagy volt az Ő irgalma mirajtunk, és az Ő igazsága mindörökké megmarad.',
-    'Dicsőség az Atyának és Fiúnak és Szent Léleknek.',
+    verses = ['','','','','','','','[T2]Fölöttébb áldott vagy, Isten Szűz Szülője, * mert a Tőled Megtestesült által, * rabbá lett az alvilág, Ádám visszahívatott, * elpusztult az átok, Éva felszabadult, * halottá lett a halál, * mi pedig életre keltünk. * Ezért magasztalva így kiáltunk: * Áldott vagy Te, Krisztus Istenünk, ki mindezt így akartad, dicsőség Néked.']
+    pre = ['Hogy a megírt ítéletet végrehajtsák rajtuk: ez a dicsősége minden Ő kegyeltjeinek.',
+    'Dicsérjétek az Istent az Ő szentjeiben, dicsérjétek Őt az Ő hatalmának erősségében.',
+    'Dicsérjétek Őt az Ő hatalmas cselekedeteiért, dicsérjétek őt az Ő nagyságának sokasága szerint.',
+    'Dicsérjétek Őt a harsona szavával, dicsérjétek Őt hárfával és citerával.',
+    'Dicsérjétek Őt dobbal és körtánccal, dicsérjétek Őt hegedűvel és fuvolával.',
+    'Dicsérjétek Őt zengő cimbalmokkal, dicsérjétek őt ujjongó cimbalmokkal. Minden lélegzet dicsérje az Urat!',
+    'Dicsőség az Atyának és Fiúnak és Szent Léleknek',
     'Most és mindenkor és mindörökkön örökké. Ámin.']
-    ### Print intro
-    printSection('Uram Tehozzád kiáltottam','Lord I Call',tone)
     ### Read verses from Octoechos
     okay = 0
     n = 0
-    with open('Books/vsp_octoechos.txt','rb') as file :
+    with open('Books/mtn_octoechos.txt','rb') as file :
         while True :
             line = file.readline().decode('utf8')
             if not line :
@@ -218,17 +212,18 @@ def printLordICall() :
             if (okay == 2 and '[/]' in line) or (okay > 0 and '[//]' in line) :
                 break
             if okay == 2 :
-                if '[D]' in line : verses[10] = line[3:]
-                if '[M]' in line : verses[11] = line[3:]
+                if '[D]' in line : verses[6] = line[3:]
+                if '[M]' in line : verses[7] = line[3:]
                 if '[D]' not in line and '[M]' not in line :
                     verses[n] = line
                     n += 1
             if '[Tone '+str(tone)+']' in line : okay = 1
-            if '[LIC]' in line and okay == 1 : okay = 2
+            if '[PRS]' in line and okay == 1 : okay = 2
     ### Read verses from Menaion
     okay = 0
     mvers = []
-    with open('Books/vsp_menea.txt','rb') as file :
+    mpre = []
+    with open('Books/mtn_menea.txt','rb') as file :
         while True :
             line = file.readline().decode('utf8')
             if not line :
@@ -236,16 +231,18 @@ def printLordICall() :
             if (okay == 2 and '[/]' in line) or (okay > 0 and '[//]' in line) :
                 break
             if okay == 2 :
-                if '[D]' in line : verses[10] = line[3:]
-                if '[M]' in line : verses[11] = line[3:]
-                if '[D]' not in line and '[M]' not in line :
+                if '[D]' in line : verses[6] = line[3:]
+                if '[M]' in line : verses[7] = line[3:]
+                if '[E]' in line : mpre.append(line[3:])
+                if '[D]' not in line and '[M]' not in line and '[E]' not in line :
                     mvers.append(line)
             if '['+menea+']' in line : okay = 1
-            if '[LIC]' in line and okay == 1 : okay = 2
+            if '[PRS]' in line and okay == 1 : okay = 2
     ### Read verses from Triodion
     okay = 0
     tvers = []
-    with open('Books/vsp_triodion.txt','rb') as file :
+    tpre = []
+    with open('Books/mtn_triodion.txt','rb') as file :
         while True :
             line = file.readline().decode('utf8')
             if not line :
@@ -253,21 +250,32 @@ def printLordICall() :
             if (okay == 2 and '[/]' in line) or (okay > 0 and '[//]' in line) :
                 break
             if okay == 2 :
-                if '[D]' in line : verses[10] = line[3:]
-                if '[M]' in line : verses[11] = line[3:]
-                if '[D]' not in line and '[M]' not in line :
+                if '[D]' in line : verses[6] = line[3:]
+                if '[M]' in line : verses[7] = line[3:]
+                if '[E]' in line : tpre.append(line[3:])
+                if '[D]' not in line and '[M]' not in line and '[E]' not in line :
                     tvers.append(line)
             if '['+nomen+']' in line : okay = 1
-            if '[LIC]' in line and okay == 1 : okay = 2
+            if '[PRS]' in line and okay == 1 : okay = 2
     ### Combine verses
     m = len(mvers)
     t = len(tvers)
-    if m+t > 10 : mvers = mvers[0:(10-t)]
+    if m+t > 6 : mvers = mvers[0:(6-t)]
     mvers += tvers
-    m = 10-len(mvers)
+    m = 6-len(mvers)
     n = 0
-    while m < 10 :
+    while m < 6 :
         verses[m] = mvers[n]
+        n += 1
+        m += 1
+    m = len(mpre)
+    t = len(tpre)
+    if m+t > 5 : mpre = mpre[0:(5-t)]
+    mpre += tpre
+    m = 7-len(mpre)
+    n = 0
+    while m < 6 :
+        pre[m] = mpre[n]
         n += 1
         m += 1
     ### Print the compiled verses
@@ -294,7 +302,7 @@ def printLordICall() :
             pdf.ln()
             oldtone = tone
         n += 1
-    print('    Compiled Lord I Call.')
+    print('    Compiled Praises.')
     return
 
 # Compile kathismata
@@ -706,6 +714,7 @@ printCanon('9')
 printSection('Kis könyörgés','Little Litany 6')
 printKathisma('Fényének','EXA')
 printSection('Dicséreti versek','Praises')
+printPraises()
 printSection('Doxológia','Doxology')
 if weekly%2 == 0 : printSection('Elbocsátó tropárion','Final Troparion Even')
 if weekly%2 != 0 : printSection('Elbocsátó tropárion','Final Troparion Odd')
