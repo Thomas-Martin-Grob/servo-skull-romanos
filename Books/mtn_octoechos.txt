@@ -584,7 +584,7 @@ Urunk, nagy és félelmetes a Te feltámadásodnak titka; * mert úgy léptél k
 [1ST]
 [T7]Az Élet a sírban feküdt, * és a pecsét rajta volt a sírkövön; * mint az alvó Királyukat, * úgy őrizték Krisztust a katonák; * az angyalok dicsőítették Őt * mint a halhatatlan Istent, * az asszonyok pedig így kiáltottak: * Feltámadt az Úr, * megadva a világnak a nagy irgalmat.
 [D][T7]Ki a háromnapos eltemettetéseddel leigáztad a halált, * s a megromlott embert az életethozó feltámadásoddal feltámasztottad * mint embereket szerető, * Krisztus Isten, dicsőség Néked.
-[M][T7]Az érettünk keresztrefeszített és feltámadt Krisztus Istent, * ki megtörte a halál hatalmát, szüntelenül kérleld, * Isten Szűz Szülője, * hogy üdvözítse a mi lelkünket.
+[M][T7]Az érettünk keresztrefeszített és feltámadt Krisztus Istent, * ki megtörte a halál hatalmát, * szüntelenül kérleld, * Isten Szűz Szülője, * hogy üdvözítse a mi lelkünket.
 [/]
 [2ST]
 [T7]Bár a sírboltodat lepecsételték, * mint az Élet keltél fel a sírból Krisztus Isten, * és a bezárt ajtókon át megjelentél tanítványaidnak, * mindenek Feltámadása, * megújítva általuk az igaz lelket bennünk, * a Te nagy irgalmad szerint.
@@ -611,7 +611,7 @@ Dicsőség az Atyának és Fiúnak és Szent Léleknek * most és mindenkor és 
 Szent Léleké a kegyelmi ajándékok tengere, * a dicsőség gazdagsága, * az ítéletek nagy mélysége; * mert az Atyával és a Fiúval együtt dicsőséges és imádott.
 [/]
 [PRK]
-[T7]Kelj fel, én Uram Istenem, emelkedjék fel a Te karod, és ne feledkezzél meg szegényeidről végképen.
+[T7]Kelj fel, én Uram Istenem, emelkedjék fel a Te karod, ne feledkezzél meg szegényeidről végképpen.
 Vallomást teszek Rólad, Uram, teljes szívemből; elbeszélem minden csodálatos dolgaidat.
 [/]
 [OD1]
@@ -622,18 +622,18 @@ Az alvilág Hozzád közeledvén, és nem bírván fogaival összezúzni testede
 [/]
 [OD3]
 [T7]Ki kezdetben hatalmas szavaddal az egeket megerősítetted, * s a mindent cselekvő Isteni Lélekkel azoknak minden hatalmát, Üdvözítő Uram, * erősíts meg engem hitvallásod rendíthetetlen szikláján.
-Felmenvén a keresztfára, önként szenvedsz miérettünk, ó kegyelmes Üdvözítő, és hordozod a sebet, mely békeséget s üdvösséget szerez a hívőknek, s amely által ó Irgalmas, engesztelési nyertünk mindannyian a Te Szülőatyádnál.
+Felmenvén a keresztfára, önként szenvedsz miérettünk, ó kegyelmes Üdvözítő, és hordozod a sebet, mely békességet s üdvösséget szerez a hívőknek, s amely által ó Irgalmas, engesztelést nyertünk mindannyian a Te Szülőatyádnál.
 Te tisztítottál meg sebeimtől engem, ki a sárkány marásától a lelkemben sebzett voltam Krisztusom, s megmutattad a világosságot nékem, aki egykor sötétségben és romlásban feküdtem; mert leszállva a kereszten át az alvilágba, felkeltettél engem.
 [M]A férfiút nem ismerő Anyád esedezései által, jutalmazd meg békeséggel a világot Üdvözítő, és méltasd kimondhatatlan dicsőségedre azokat, kik dicsőítenek Téged.
 [/]
 [OD4]
 [T7]Ki az Atya ölét el nem hagyva * szállottál a földre, Krisztus Isten, * hallottam gondviselésed titkát, * és dicsőítelek Téged,* egyedülvaló Emberszerető.
 Hátát adván a korbácsolásra a Szűztől Megtestesült, vétkes szolga helyett bűnhődik az ártatlan Uralkodó, feloldozva az én bűneimet.
-Megállva a törvénytelen birák itélőszéke előtt, mint vádlott ítéltetik, és földi kéz ütéseit tűri, ki mint Isten alkotta az embert, és igazságosan ítéli a földet.
+Megállva a törvénytelen bírák ítélőszéke előtt, mint vádlott ítéltetik, és földi kéz ütéseit tűri, ki mint Isten alkotta az embert, és igazságosan ítéli a földet.
 [M]Mint valóban Isten Anyja, esedezz az Alkotódhoz és Fiadhoz Feddhetetlen, hogy vezéreljen engem az Ő dicsőséges akarata üdvösséges révpartjához.
 [/]
 [OD5]
-[T7]Világtalan éjszaka veszi körül a hitetleneket, ó Krisztus, * a hivőkre pedig világosság árad, * isteni igéid gyönyörűségéből; * ezért Hozzád serkenek és magasztalom Istenségedet.
+[T7]Világtalan éjszaka veszi körül a hitetleneket, ó Krisztus, * a hívőkre pedig világosság árad, * isteni igéid gyönyörűségéből; * ezért Hozzád serkenek és magasztalom Istenségedet.
 Szolgáidért adod váltságul magadat Krisztus, és állod az arculütést, mely szabadságot szerez azoknak, kik így énekelnek Néked: Hozzád serkenek és magasztalom Istenségedet.
 Isteni hatalmad által Krisztus, a test gyöngeségével leverted az erőst ó Üdvözítő, és a halál legyőzőjévé avattál engem, a feltámadásod által.
 [M]Az Általad megtestesült Istent szülted, Istenhez méltóan, ó tiszta és fölöttébb magasztalt Anya; mert a férfiúi nemet nem ismerted, hanem a Szent Lélektől fogantál.
@@ -653,7 +653,7 @@ Megremegett ma a mélységben az alvilág és a halál a Háromság Egyikétől;
 [OD7]
 [T7]A tűzégette kemencét egykor * az ifjak harmatozóvá tették, * az egy Istent magasztalva és ezt mondva: * Fölöttébb magasztalt és fölöttébb dicsőséges atyáinknak Istene.
 Fa által lett holttá Ádám, önkényesen engedetlen lévén, de Krisztusnak engedelmessége által újjáalkottatott; mert érettem keresztrefeszíttetik Istennek fölöttébb dicsőséges Fia.
-Téged, a sírból feltám adt Krisztust, magasztal az egész teremtés; Te életet fakasztottál az alvilágban lévőknek, feltámadást a holtaknak, és világosságot a sötétségben lévőknek, ó fölöttébb Dicsőséges.
+Téged, a sírból feltámadt Krisztust, magasztal az egész teremtés; Te életet fakasztottál az alvilágban lévőknek, feltámadást a holtaknak, és világosságot a sötétségben lévőknek, ó fölöttébb Dicsőséges.
 [M]Örvendezz, megrontott Ádámnak Leánya; örvendezz, Istennek egyetlen Mátkája; örvendezz, ki által az enyészet száműzetett, és aki az Istent szülted. Őhozzá esedezz, Tisztaságos, hogy mindnyájan üdvözöljünk.
 [/]
 [OD8]

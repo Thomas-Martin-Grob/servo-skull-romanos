@@ -239,10 +239,10 @@ Imádom a három személyben egy, kezdetnélküli Istent, kit lényegében nem l
 [/]
 [OD4]
 [T1]Íme, Krisztus feltámadt, angyal mondja a kenethozóknak: ne sírjatok! de menjetek, az apostoloknak mondjátok meg: Örvendjetek, ma üdvössége lett a világnak, és a halálos ellenség zsarnoki hatalma megszűnt.
-Életadó kereszted előtt örömmel hódolva ma elővételezzük, Krisztus, legszentebb kínszenvedésed emlékét, mellyel a világ üdvösségét szerezted meg, mindenható Üdvözítő.
+Életetadó kereszted előtt örömmel hódolva ma elővételezzük, Krisztus, legszentebb kínszenvedésed emlékét, mellyel a világ üdvösségét szerezted meg, mindenható Üdvözítő.
 Ma öröm van mennyben és földön, mert a kereszt jele feltűnt a világ előtt, a háromszorosan boldog kereszt, mely az előtte hódolóknak szüntelen folyó kegyelmet áraszt.
-Mit hozzunk hálából neked, Krisztus, hogy tiszteletreméltó keresztedet hódolásra adtad elénk; rajta csörgött végig legszentebb véred, és reá szegezték testedet, most ezt csókoljuk, s neked hálát adunk.
-Magasztalom az egy Istennek, az osztatlan egyszerű természetnek három személyét s hirdetem a kezdetnélküli Atyát, és a vele trónoló Fiút és Szentleiket, együtt uralkodó végtelen erőt.
+Mit hozzunk hálából neked, Krisztus, hogy tiszteletreméltó keresztedet hódolásra adtad elénk; rajta csorgott végig legszentebb véred, és reá szegezték testedet, most ezt csókoljuk, s neked hálát adunk.
+Magasztalom az egy Istennek, az osztatlan egyszerű természetnek három személyét s hirdetem a kezdetnélküli Atyát, és a vele trónoló Fiút és Szent Lelket, együtt uralkodó végtelen erőt.
 [M]Csak te vagy, az asszonyok közül csodálatos és félelmetes, mert te a természetet megújítottad, Tisztaságos, mag nélkül anyává lettél, s mégis, mint addig, szűz is maradtál; mert az Istent szülted, ó Szeplőtelen!
 [/]
 [OD5]
@@ -250,7 +250,7 @@ Magasztalom az egy Istennek, az osztatlan egyszerű természetnek három személ
 Önmegtagadással megtisztulva forrón öleljük és magasztaljuk a szent keresztfát, melyre Krisztust fölfeszítették, s melyen könyörületességével üdvözítette a világot!
 Ujjongva örvendeznek ma az angyali rendek a te kereszted előtti hódoláskor, mert azon megtörted a gonosz lelkek hadait, és üdvözítetted, Krisztus, az emberi nemet.
 Új paradicsomkert lett az Egyház, mert birtokában van az életadó fa, a te kereszted, Uram, melynek érintésére halhatatlanságban részesei leszünk.
-Dicsőítem a három kezdetnélkülit, az Atyát, a Fiút és a Lelket, az egyvalőságú Istent, a hármas fényű világosságot, az összevegyülés nélkül együtt uralkodó Királyt.
+Dicsőítem a három kezdetnélkülit, az Atyát, a Fiút és a Lelket, az egylényegű Istent, a hármas fényű világosságot, az összevegyülés nélkül együtt uralkodó Királyt.
 [M]Fogantál, a természet szerint, s mégis minden törvényt meghaladó módon, mert csak te szültél így mag nélkül, s megdöbbentő elgondolni vagy kimondani a te szülésedet, Szeplőtelen!
 [/]
 [OD6]
@@ -295,7 +295,7 @@ Imádlak téged, szent Isten, három személyű egy természet: Atya, Fiú és S
 [M]Te vagy, Szűz, az a magas hegy, melyben Krisztus lakozott, ahogy azt isteni ihletésre Dávid hangoztatta: hogy ezáltal égbe emelkedjünk, Isten gyermekévé válva a Lélek által.
 [/]
 [PRS]
-[T4]Hangosan ujjongjunk, * és csókolva énekekkel magasztaljuk a drága keresztet, * s így kiáltsunk hozzá: * Ó fölöttébb tisztelt Kereszt, * szenteld meg a Te erőddel lelkünket és testünket, * s az ellenség minden ártalmától, * sértetlenül tarts meg minket, akik áhítattal hódolunk Előtted.
+[T4]Hangosan ujjongjunk, * és csókolva énekekkel magasztaljuk a drága keresztet, * s így kiáltsunk hozzá: * Ó fölöttébb tisztelt Kereszt, * szenteld meg a Te erőddel lelkünket és testünket, * s az ellenség minden ártalmától, * sértetlenül tarts meg minket, * akik áhítattal hódolunk Előtted.
 [E]Magasztaljátok a mi Urunkat Istenünket, és boruljatok le az Ő lábainak zsámolya elé, mert szentséges Ő.
 Jertek, merítsetek a kereszt kegyelméből eredő, * ki nem apadó forrásból, * látván íme a kitett szent keresztfát, * az ajándékok kútfejét, * amelyet a mindenek Királyából fakadó vér és víz öntözött, * aki arra önként emelkedett, * és a halandókat fölemelte.
 [E]Isten pedig a mi Királyunk, öröktől fogva üdvösséget cselekedett a földnek közepette.
