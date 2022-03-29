@@ -270,9 +270,9 @@ def printPraises() :
         m += 1
     m = len(mpre)
     t = len(tpre)
-    if m+t > 5 : mpre = mpre[0:(5-t)]
+    if m+t > 6 : mpre = mpre[0:(6-t)]
     mpre += tpre
-    m = 7-len(mpre)
+    m = 6-len(mpre)
     n = 0
     while m < 6 :
         pre[m] = mpre[n]
@@ -658,7 +658,8 @@ print(' ')
 pdf = PDF(orientation='P', unit='mm', format='A5')
 nsun = getNextSunday().split()
 curryear = int(nsun[2])
-menea = nsun[1]+'.'+nsun[0]
+#menea = nsun[1]+'.'+nsun[0]
+menea = '03.27'
 weekly = getWeeklyTone()
 nomen = getNominal()[0]
 pretrio = getNominal()[1]
