@@ -658,8 +658,7 @@ print(' ')
 pdf = PDF(orientation='P', unit='mm', format='A5')
 nsun = getNextSunday().split()
 curryear = int(nsun[2])
-#menea = nsun[1]+'.'+nsun[0]
-menea = '03.27'
+menea = nsun[1]+'.'+nsun[0]
 weekly = getWeeklyTone()
 nomen = getNominal()[0]
 pretrio = getNominal()[1]
