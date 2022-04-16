@@ -412,7 +412,7 @@ Magasztaljuk most szent énekekkel Krisztus bárányát és leányát, a nevezet
 [/]
 [OD7]
 [T6]A pusztában járt a bölcs Zoszima, aki még az atyák között is kimagaslott, s méltóvá vált arra, hogy a szent asszonyt megláthassa. Ezért ezt zengte: Áldott vagy te, atyáinknak Istene!
-Atyám, miért jöttél az erények gyakorlásától távol eső nőszemélyt látni?” – kérdezi a szent asszony az öregtől, s ezt hangoztatja: Áldott vagy te, Urunk, atyáinknak Istene!
+Atyám, miért jöttél az erények gyakorlásától távol eső nőszemélyt látni? – kérdezi a szent asszony az öregtől, s ezt hangoztatja: Áldott vagy te, Urunk, atyáinknak Istene!
 Elpusztítottad szenvedélyeid háborgását, ó boldog, és most a szenvedélytől való mentesség révébe megérkeztél. Ezért ezt hangoztatod: Áldott vagy te. Urunk, atyáinknak Istene!
 [M]Kimondhatatlan módon fogantál és mégis szűz maradtál, Tisztaságos, és megszülted a világnak az Üdvözítő Krisztust, a mi Istenünket. Ezért téged mi, hívek, mindnyájcin énekekkel magasztalunk.
 [/]
@@ -432,6 +432,64 @@ Bölcsen magad mögött hagytál minden földit, és a Szentlélek szent hajlék
 [D][T1]Nem evés és ivás az Isten Országa, * de igazság és megtartóztatás, * megszentelődéssel együtt. * Azért nem is a gazdagok jutnak oda, * hanem akik a szegények kezeibe tették le a kincseiket. * Ezt tanítja Dávid próféta is, mondván: * Igaz az az ember, * aki egész nap irgalmaz, * és az Úrban gyönyörködik, * és világosságban járva soha meg nem botlik. * Mindezek a mi okulásunkra írattak, * hogy böjtölve jóságosán cselekedjünk, * és az Úr megadja nékünk a földiek helyett a mennyeieket.
 [//]
 [Palm Sunday]
+[1ST]
+[T4]Faágakkal eszmeileg, * és megtisztítván lelkünket, * amiként ama gyermekek, * hűségesen ünnepeljük Krisztust, * fennhangon kiáltva az Uralkodóhoz: * Áldott vagy, ó Üdvözítő, * aki jöttél a világba, * hogy megváltsad Ádámot a hajdani átoktól, * szellemileg új Ádámmá válva ó Jóságos, * amiképpen tetszett Néked. * Ó Ige, ki mindeneket a hasznunkra rendeztél el, * dicsőség Néked.
+[M][T4]Amikor a negyednapos Lázárt * a sírból feltámasztottad Urunk, * mindenkit megtanítottál arra, * hogy pálmaágakkal és gallyakkal a kezében * így kiáltson Hozzád: * Áldott vagy, ó Eljövendő.
+[/]
+[2ST]
+[T4]A barátod felett könnyet ejtesz titokzatosan ó Krisztus, * és fölkelted halottaiból a holtan fekvő Lázárt, * akiben is megmutattad emberszerető részvétedet; * megtudván pedig jöveteledet, Üdvözítő, * a kisdedek sokasága * kivonult ma pálmaágakat tartva kezében, * és hozsannát kiáltva Tehozzád. * Áldott vagy Te, mert eljöttél, * hogy üdvözítsd a világot.
+[M][T4]Egybehangzó dicséretet zengjetek, ó népek és nemzetek * mert az angyalok Királya ma felült a szamárnak vemhére, * és azért jő, * hogy keresztjén eltiporja az ellenségeket mint Hatalmas. * Ezért a gyermekek pálmaágakat lengetve, * éneklik a dicséretet: * Dicsőség a bevonuló Győzedelmesnek! * Dicsőség Néked, ó Üdvözítő Krisztus! * Dicsőség Néked, egyedül áldott Istenünk!
+[/]
+[OD1]
+[T4]Ártatlan gyermekek és csecsemők ajkáról készítetted elő szolgáid dicséretét, azért, mert legyőzted az ellenséget, a kereszt elszenvedésével helyrehoztad Ádám hajdani bukását, és a fa által feltámasztottad őt, ki győzelmi éneket énekel néked.
+[M]A te dicsőítésedet zengi a szentek egyháza, Krisztus, ki a Sionon laksz. Uram, Izrael benned magasztalja örvendezve a Teremtőt, sőt még a hegyek, a kőszívű népek jelképei is ujjongtak színed előtt, győzelmi éneket énekelve néked.
+[/]
+[OD3]
+[T4]A remegő alvilág a te parancsodra elbocsátotta rengeteg halottja közül a negyedik napja halott Lázárt, mert a feltámadás és az élet te vagy, Krisztus, akin szilárdan nyugszik az egyház, mely így kiált néked: Hozsanna, áldott vagy te, aki eljössz!
+[M]Énekeljetek, népek, Istennek tetsző módon Sionon, s mondjatok imádságot Krisztusnak Jeruzsálemben, mert hatalommal teljes és dicső uralommal érkezik ő, akin szilárdan nyugszik az egyház, mely így kiált néked: Hozsanna, áldott vagy te, aki eljössz!
+[/]
+[OD4]
+[T4]Hatalmas öröm fakadjon a kegyelemtől a hegyeken és minden halmon! Az erdő minden fája vigadozzon! Magasztaljátok Krisztust ti is, minden nemzet, s őt dicsőítve ezt énekeljétek: Dicsőség a te hatalmadnak, Uram!
+Jön az örökkévalóság királya, az erőbe öltözött Úr! Az ő szépségének és dicsőségének ékességéhez semmi sem hasonlítható Sionban. Ezért mindnyájan hangoztassuk: Dicsőség a te hatalmadnak, Uram!
+[M]Megjött az Úr, aki kimérte az eget, és tenyerén tartja a földet. Siont választotta lakhelyéül, és uralkodik a választott népen, amely hittel hangoztatja: Dicsőség a te hatalmadnak, Uram!
+[/]
+[OD5]
+[T4]Isten, ki a magasságban a kerubok felett trónol, és letekint az alázatosakra, eljön hatalommal teljes dicsőségében, és a mindenség megtelik majd az ő szent dicséretével: Izrael békessége és a nemzetek üdvössége!
+[M]Isten szent hegye, Sion, és te, Jeruzsálem, nézz körül, és lásd, hogyan gyülekeznek benned fiaid! Messziről jönnek, hogy imádják királyodat, aki Izrael békessége és a nemzetek üdvössége.
+[/]
+[OD6]
+[T4]Fogadd, Izrael, Isten királyi uralmát, és aki sötétségben járt, hadd lásson végre nagy világosságot, hogy az isteni vérrel való meghintés által a nép újjászülessen!
+[M]Rázd le magadról, Sion, feloldott bilincsedet, szállj ki a tudatlanság száraz verméből, hogy az isteni vérrel való meghintés által a nép újjászülessen!
+[/]
+[KNT]
+[T6]Aki a mennyben trónuson, * a földön pedig a szamár vemhén hordoztatol, Krisztus Isten, * elfogadtad az angyalok dicséretét, * és a gyermekek magasztalását, * kik így kiáltottak Hozzád: * Áldott vagy Te, aki eljössz, hogy visszahívd Ádámot.
+[/]
+[IKS]
+Miután az alvilágot megkötözted, ó Halhatatlan, és a halált megölted, s a világot feltámasztottad, pálmaágakkal ünnepeltek a gyermekek Téged, Krisztus, mint győzedelmest, így kiáltva ma Hozzád: Hozsanna Dávid Fiának! Mert - így szólnak - nem öletnek meg többé kisdedek Máriának Kisdedéért, de minden gyermekért és öregért, egyedül Te feszíttetel a keresztre. Nem fordul ellenünk többé a kard, mert a Te oldaladat átszúrta a lándzsa. Ezért örvendezve mondjuk: Áldott vagy Te, aki eljössz, hogy visszahívd Ádámot.
+[/]
+[OD7]
+[T4]A nép térdre borulva a tanítványokkal együtt ujjongott, és pálmaágakat lengetve hangoztatta: Hozsanna neked, Dávid fia! Áldott vagy te, Urunk, atyáinknak dicsőített Istene!
+Ártatlan gyermekek sokasága – köztük még a csecsemők is – Istenhez illő módon magasztal téged, Izraelnek és angyaloknak királya. Áldott vagy te, Urunk, atyáinknak dicsőített Istene!
+[M]Pálmaágakkal éljenzett téged, Krisztus, a tömeg: Áldott aki jön, az örökkévalóság Királya! S ezt hangoztatta neked: Áldott vagy te, Urunk, atyáinknak dicsőített Istene!
+[/]
+[OD8]
+[T4]Fiatal szamáron ülve, Sion, megjelenik benned a te királyod, Krisztus, hogy lerombolja a bálványimádás esztelen tévelygését, s feltartóztassa az összes nemzet gátlástalan ösztönáradatát, és megtanítsa az énekre: Áldjátok az Urat, az Úrnak minden művei!
+Nagyon örülj, Sion! Krisztus, a te Istened elkezdte mindörökké tartó uralmát. Őróla írták, hogy szelíd és megszabadít. A mi igazságos szabadítónk jött el szamárháton, hogy letiporja az ellenség gőgös lovagságát, és mi ezt hangoztatjuk: Áldjátok az Urat, az Úrnak minden művei!
+[M]Nincs már isteni szentélye az engedetlen, törvényszegő tanácsnak, mert Isten imádásának házát latrok barlangjává tette, a Megváltót szívéből kivetette, mi pedig ezt kiáltjuk nekik: Áldjátok az Urat, az Úrnak minden művei!
+[/]
+[OD9]
+[T4]Pogányok, miért háborogtatok? Írástudók és papok, miért terveztetek haszontalan dolgokat, midőn arról beszélgettetek: Vajon ki az, akinek a gyermekek gallyakat és pálmaágakat lengetve zengik: Áldott, aki a mi üdvözítő Urunk nevében jő?
+Ő az Isten, akihez senki nem hasonlítható. Minden igazság útját feltárta és megmutatta a szeretett Izraelnek, majd pedig az emberek közt élve nyilvánosan megjelent előttük: Áldott, aki a mi üdvözítő Urunk nevében jő!
+[M]Miért akadályozzák ennyi botránykővel utunkat a lázadók? Lábaitok az Uralkodó vérének ontására törekszenek, de Ő mindenesetre föltámad, hogy üdvözítse mindazokat, akik hangoztatják: Áldott, aki a mi üdvözítő Urunk nevében jő!
+[/]
+[PRS]
+[T4]A tömegek sokasága az útra terítette ruháit, Urunk, * mások pedig fák ágait vágták le s hordozták; * az elöl haladók és az őket követők ezt kiáltották: * Hozsanna Dávid Fiának! * Áldott vagy Te, aki eljöttél * s újból leszel eljövendő, az Úrnak nevében.
+A tömegek sokasága az útra terítette ruháit, Urunk, * mások pedig fák ágait vágták le s hordozták; * az elöl haladók és az őket követők ezt kiáltották: * Hozsanna Dávid Fiának! * Áldott vagy Te, aki eljöttél * s újból leszel eljövendő, az Úrnak nevében.
+Amikor a szent Városba készültél bemenni Urunk, * a népek a növények ágait lengették, * dicsőítve Téged, a mindenek Uralkodóját; * s látva Téged a szamárnak vemhén ülni * úgy tűnt nekik, hogy a Kerubokon pihensz; * és azért így kiáltottak Hozzád: * Hozsanna a magasságban! * Áldott vagy Te, aki eljöttél * s újból leszel eljövendő, az Úrnak nevében.
+Amikor a szent Városba készültél bemenni Urunk, * a népek a növények ágait lengették, * dicsőítve Téged, a mindenek Uralkodóját; * s látva Téged a szamárnak vemhén ülni * úgy tűnt nekik, hogy a Kerubokon pihensz; * és azért így kiáltottak Hozzád: * Hozsanna a magasságban! * Áldott vagy Te, aki eljöttél * s újból leszel eljövendő, az Úrnak nevében.
+Jertek nemzetek, jöjjetek népek, * és lássátok ma a Mennyeknek Királyát, * aki mint magas trónuson, * hitvány szamár vemhén vonul be Jeruzsálembe. * Ó zsidóknak hitetlen s parázna nemzedéke, * jöjj és lásd Azt, akit Ézsaiás miérettünk testben megjelenni látott, * hogyan jegyzi el magának az erényes Új Siont, * és elveti az elítélt gyülekezetét; * és mint romlatlan és feddhetetlen menyegzőre, * úgy gyűltek ünneplésére a romlatlan és ártatlan gyermekek, * kikkel együtt ünnepelve * énekeljük az angyali dicsérőéneket: * Hozsanna a magasságban Annak, * akié a nagy irgalom.
+Az általános feltámadást * Önként vállalt szenvedésed előtt előre is megmutatva, * a mindenek meggyőzésére ó Krisztus Isten, * a négy napja halott Lázárt Bethániában feltámasztottad * a Te erős hatalmaddal, * a vakoknak pedig a látást ajándékoztad mint világosságot adó Üdvözítő; * és a szent Városba tanítványaiddal bevonultál, * a szamárnak vemhén ülve, * s így betöltve a próféták hirdetését * mintegy Kerubokon szállva; * s a héberek gyermekei pálmaágakkal és gallyakkal fogadtak Téged. * Azért mi is olajfa és pálmaágakat lengetve, * örvendezve így kiáltunk Hozzád: * Hozsanna a magasságban! * Áldott, aki az Úr nevében jő!
+[D][T4]Hat nappal a Húsvét előtt jött Jézus Bethániába, * és Eléje járultak az Ő tanítványai, ezt mondva Neki: * Urunk, hol akarod, hogy elkészítsük Számodra a húsvéti ételt? * Ő pedig elküldte őket: * Menjetek a szemközti helységbe, * s találtok egy vizes korsót vivő embert; * kövessétek őt és ezt mondjátok a ház gazdájának: * A Mester üzeni: * nálad tartom a Húsvétot az Én tanítványaimmal.
 [//]
 [Thomas]
 [//]
