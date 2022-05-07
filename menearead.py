@@ -64,10 +64,15 @@ def checkSimilar(template,st) :
     return ratio
 
 # Main loop
+fname = 'menea_5_6'
 date = '00.00'
 section = ''
-new = open('Books/menea_5_6_normalized.txt','w',encoding='utf8')
-with open('Books/menea_5_6.txt','rb') as file :
+ode = 0
+tone = ''
+### Normalizing
+print('+++ '+fname+' is being normalzed. +++')
+new = open('Books/'+fname+'_normalized.txt','w',encoding='utf8')
+with open('Books/'+fname+'.txt','rb') as file :
     while True :
         line = file.readline().decode('utf8')
         if not line : break
@@ -75,51 +80,36 @@ with open('Books/menea_5_6.txt','rb') as file :
         line = line.rstrip('-\r\n')+' '
         if section != '' : render = True
         linedate = checkDate(line)
+        newsection = ''
         # Check for section starts
-        if checkSimilar('Uram, tehozzád...',line) > 0.6 :
-            new.write('[/]\n')
-            new.write('[LIC]\n')
-            section = 'LIC'
-        if checkSimilar('Előverses sztihirák:',line) > 0.6 :
-            new.write('[/]\n')
-            new.write('[APO]\n')
-            section = 'APO'
-        if checkSimilar('Tropár. hang.',line) > 0.6 :
-            new.write('[/]\n')
-            new.write('[TRP]\n')
-            section = 'TRP'
-        if checkSimilar('Az első zsoltárcsoport után',line) > 0.6 :
-            new.write('[/]\n')
-            new.write('[ST1]\n')
-            section = 'ST1'
-        if checkSimilar('A második zsoltárcsoport után',line) > 0.6 :
-            new.write('[/]\n')
-            new.write('[ST2]\n')
-            section = 'ST2'
+        if checkSimilar('Uram, tehozzád...',line) > 0.6 : newsection = 'LIC'
+        if checkSimilar('Előverses sztihirák:',line) > 0.6 : newsection = 'APO'
+        if checkSimilar('Tropár. hang.',line) > 0.6 : newsection = 'TRP'
+        if checkSimilar('Kathizma:',line) > 0.6 : newsection = 'KTH'
+        if checkSimilar('Az első zsoltárcsoport után',line) > 0.6 : newsection = '1ST'
+        if checkSimilar('A második zsoltárcsoport után',line) > 0.6 : newsection = '2ST'
         if checkSimilar('. óda.',line) > 0.6 :
+            if ode == 1 : ode = 2
+            ode += 1
+            newsection = 'OD'+str(ode)
+        if checkSimilar('Konták:',line) > 0.6 : newsection = 'KNT'
+        if checkSimilar('Ikosz.',line) > 0.6 : newsection = 'IKS'
+        if checkSimilar('Fényének:',line) > 0.6 : newsection = 'EXA'
+        if checkSimilar('Dicséreti sztihirák:',line) > 0.6 : newsection = 'PRS'
+        if newsection != '' :
             new.write('[/]\n')
-            new.write('[ODX]\n')
-            section = 'ODX'
-        if checkSimilar('Kathizma:',line) > 0.6 :
-            new.write('[/]\n')
-            new.write('[KTH]\n')
-            section = 'KTH'
-        if checkSimilar('Konták:',line) > 0.6 :
-            new.write('[/]\n')
-            new.write('[KNT]\n')
-            section = 'KNT'
-        if checkSimilar('Ikosz.',line) > 0.6 :
-            new.write('[/]\n')
-            new.write('[IKS]\n')
-            section = 'IKS'
-        if checkSimilar('Fényének:',line) > 0.6 :
-            new.write('[/]\n')
-            new.write('[EXA]\n')
-            section = 'EXA'
-        if checkSimilar('Dicséreti sztihirák:',line) > 0.6 :
-            new.write('[/]\n')
-            new.write('[PRS]\n')
-            section = 'PRS'
+            new.write('['+newsection+']\n')
+            if 'OD' in newsection and ode > 1 : new.write('[T'+tone+']')
+            section = newsection
+            render = False
+        # Inline checks
+        if 'Theotokion:' in line and 'OD' in section : line = line.replace('Theotokion:','[M]')
+        if '. hang.' in line :
+            newtone = line[line.find('. hang.')-1]
+            if newtone.isnumeric() == True :
+                new.write('[T'+newtone+']')
+                tone = newtone
+                render = False
         # Check for dates
         if linedate != '0' and linedate == date : render = False
         if linedate != '0' and linedate != date :
@@ -127,11 +117,89 @@ with open('Books/menea_5_6.txt','rb') as file :
             new.write('[//]\n')
             new.write(date+'\n')
             section = ''
+            ode = 0
         # Do not copy too short or empty lines    
         if len(line) < 3 : render = False
         # Copy idiom
         if render == True :
+            line = line.replace('m ','m') # Typical scanalation error fix attempt
             if line[-2] == '.' or line[-2] == '!' or line[-2] == '?' : line += '\n'
             new.write(line)
-
 new.close()
+print('+++ Done. +++')
+print(' ')
+print('+++ Vespers file for '+fname+' is being built. +++')
+section = ''
+new = open('Books/vsp_'+fname+'.txt','w',encoding='utf8')
+with open('Books/'+fname+'_normalized.txt','rb') as file :
+    while True :
+        line = file.readline().decode('utf8').rstrip('\r\n')
+        if not line : break
+        render = False
+        newday = False
+        newsection = ''
+        if section == 'LIC' or section == 'APO' or section == 'TRP' : render = True
+        if '[' in line and '/' not in line :
+            pos = line.find('[')
+            if line[pos+4] == ']' : newsection = line[pos+1:pos+4]
+            if line[pos+3] == '.' : newday = True
+        if newsection == 'LIC' or newsection == 'APO' or newsection == 'TRP' :
+            new.write('['+newsection+']\n')
+            section = newsection
+            render = False
+        if '[/]' in line :
+            if section != '' : new.write('[/]\n')
+            section = ''
+            render = False
+        if '[//]' in line :
+            new.write('[//]\n')
+            section = ''
+            render = False
+        if newday == True :
+            new.write(line+'\n')
+            section = ''
+            render = False
+        if render == True :
+            line = line.replace('­ ','')
+            new.write(line+'\n')
+new.close()
+print('+++ Done. +++')
+print(' ')
+print('+++ Matins file for '+fname+' is being built. +++')
+section = ''
+new = open('Books/mtn_'+fname+'.txt','w',encoding='utf8')
+with open('Books/'+fname+'_normalized.txt','rb') as file :
+    while True :
+        line = file.readline().decode('utf8').rstrip('\r\n')
+        if not line : break
+        render = False
+        newday = False
+        newsection = ''
+        if 'OD' in section or 'ST' in section or section == 'KTH' or section == 'KNT' or section == 'IKS' or section == 'EXA' or section == 'PRS' : render = True
+        if '[' in line and '/' not in line :
+            pos = line.find('[')
+            if line[pos+4] == ']' : newsection = line[pos+1:pos+4]
+            if line[pos+3] == '.' : newday = True
+        if 'OD' in newsection or 'ST' in newsection or newsection == 'KTH' or newsection == 'KNT' or newsection == 'IKS' or newsection == 'EXA' or newsection == 'PRS' :
+            new.write('['+newsection+']\n')
+            section = newsection
+            render = False
+        if '[/]' in line :
+            if section != '' : new.write('[/]\n')
+            section = ''
+            render = False
+        if '[//]' in line :
+            new.write('[//]\n')
+            section = ''
+            render = False
+        if newday == True :
+            new.write(line+'\n')
+            section = ''
+            render = False
+        if render == True :
+            line = line.replace('­ ','')
+            new.write(line+'\n')
+new.close()
+print('+++ Done. +++')
+print(' ')
+print('+++ The machine spirit is willing. +++')

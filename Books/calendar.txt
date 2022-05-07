@@ -9,6 +9,13 @@
 [Saint Mary of Egypt]Egyiptomi Szt. Mária vasárnapja
 [Palm Sunday]Virágvasárnap
 [Thomas]Tamás vasárnapja
+[Myrrhbearing Women]Kenetvivők vasárnapja
+[Paralytic]Inaszakadt vasárnapja
+[Samaritan Woman]Szamáriai asszony vasárnapja
+[Blind Man]Vakonszületett vasárnapja
+[Nicene Fathers]Niceai ősatyák vasárnapja
+[Pentecost]Pünkösd
+[All Saints]Mindenszentek
 [01.01]Nagy Szt. Vazul, az Úr körülmetélése
 [01.06]Vízkereszt
 [02.02]Az Úr bevitele a templomba

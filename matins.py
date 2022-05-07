@@ -82,7 +82,14 @@ def getNominal() :
               -14:'Saint Mary of Egypt',
               -7:'Palm Sunday',
               0:'Pascha',
-              7:'Thomas'
+              7:'Thomas',
+              14:'Myrrhbearing Women',
+              21:'Paralytic',
+              28:'Samaritan Woman',
+              35:'Blind Man',
+              42:'Nicene Fathers',
+              49:'Pentecost',
+              56:'All Saints'
               }
     ### Get dates of previous and next Pascha
     current = datetime.date(curryear,int(menea.split('.')[0]),int(menea.split('.')[1]))
