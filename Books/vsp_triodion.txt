@@ -193,7 +193,6 @@ Ez az élő halott, az inaszakadt, * látván téged, fölkiálta: * Könyörül
 [/]
 [APO]
 [T3]Kínszenvedéseddel, Krisztus, * meghomályosítottad a napot, * és feltámadásod fényével fölvilágosítottad a mindenséget, * fogadd el, Emberszerető, * a mi esti énekünket!
-Utána a húsvéti énekversek az előversekkel:
 [E]Támadjon fel az Isten, és szóródjanak szét az Ő ellenségei, és meneküljenek az Ő színe elől, akik gyűlölik Őt.
 [T5]Szent Húsvét virradt ma reánk, * új, szent Húsvét, * titokzatos Húsvét, * legtiszteltebb Húsvéti Húsvét; * Krisztus a Megváltó. * Szeplőtelen Húsvét, * nagy Húsvét, a hivők Húsvétja. * Húsvét, amely megnyitotta nékünk a Paradicsom kapuit; * Húsvét, amely minden hívőket megszentel.
 [E]Amiként szertefoszlik a füst, úgy oszoljanak széjjel; amiképpen elolvad a viasz a tűz közelségétől.
@@ -210,10 +209,30 @@ Gyönyörűséges Húsvét! * Húsvét, az Úrnak Húsvétja! * Legtiszteltebb H
 [//]
 [Samaritan Woman]
 [LIC]
+[T4]Eljött ama napoknak közepe, * amelyek az üdvösséges feltámadással kezdődtek * és az isteni Pünkösddel megpecsételtetnek; * és tündököl mindkét felől nyerve ragyogását, * és a kettőt egyesítve magában; * és ünnepel előre jelentve * az Úr mennybemenetelének a dicsőségét.
+Hallotta és örvendezett Sion, * midőn a Krisztus feltámadása hírül adatott; * és hűséges gyermekei vigadoztak annak láttán, * ahogy ő a Lélek által lemossa a Krisztus-ölés gyalázatát. * Készülődik ünnepelve a kettőnek örömteli közepét.
+Elközelgett az Isteni Léleknek * mindenekre való bőséges kiáradása, * amiképpen megíratott; * ezt hirdeti az időnek fele, * amely eltelt a Krisztus halála, * eltemettetése és feltámadása után * a tanítványoknak adott, igaz ígérete óta, * amelyben kijelentette a Vigasztaló eljövetelét.
+[T1]A forráshoz jött a csodáknak Forrása a hatodik órában, * hogy életet adjon Éva gyümölcsének; * mert Éva is ebben az órában űzetett ki a Paradicsomból, * a kígyónak álnoksága folytán. * Közeledett pedig a szamariai asszony vizet meríteni, * kit is látván a Megváltó, így szólt: * Adjál vizet innom, * és Én élő vízzel elégítelek meg téged. * És a városba sietve az értelmes asszony, * tüstént hirdette a sokaságnak: * Jertek, lássátok a Krisztus Urat, a mi lelkünk Üdvözítőjét.
+[T2]Midőn az Úr a kúthoz jött, * a szamariai asszony kérte a Könyörületest: * Add nékem a hitnek vizét, * s elnyerem a fürdő vizét, * az örömet és megváltást. * Ó életetadó Urunk, dicsőség Néked.
+Az Atyának Vele együtt időtelen * és örökkévaló Fia és Igéje, * eljött a forráshoz mint a gyógyulás Forrása; * a Szamariából való asszony pedig odament, * hogy vizet merítsen, * kit is látván a Megváltó így szólt: * Adjál vizet innom, * és menj, hívd ide a férjedet. * Amaz pedig mint Emberrel és nem Istennel beszélve, * s titkolózni igyekezve így szólt: * Nincsen férjem. * A Mester így felelt néki: * Igazat mondottál, hogy nincs férjed; * mert öt férjed is volt, * és az, aki most van, nem a férjed. * A nő ekkor elámulva a beszédén, * és a városba sietve * kiáltott a sokasághoz, mondván: * Jertek, lássátok a Krisztust, * ki megadja a világnak a nagy irgalmat.
+[D][T6]Jákob kútjánál találta Jézus a szamariai asszonyt, * és vizet kér tőle, ki a földet felhőkkel borítja. * Ó minő csoda ez! * Ő, aki a Kerubokon hordoztatik, * parázna asszonnyal beszélgetett; * vizet kért, * aki a földet a vizekre függesztette; * vizet keres, ki a vizek forrásait és tavait kiönti, * magához akarva emelni az asszonyt, * kire a gonosz ellenség leselkedik, * és megitatni az életnek vizével, * a vétkekben ádázul gyötrődőt, * mint egyedül irgalmas és embereket szerető.
 [/]
 [APO]
+[T4]Urunk, felmenvén a keresztre, * eltörölted az ősszülői átkunkat, * és alászállván az alvilágba, * kiszabadítottad az időtelen időktől megkötözötteket, * enyészetlenséget ajándékozva az emberek nemzetségének; * amiért is énekelve dicsőítjük az életetadó és megváltó feltámadásodat.
+[E]Támadjon fel az Isten, és szóródjanak szét az Ő ellenségei, és meneküljenek az Ő színe elől, akik gyűlölik Őt.
+[T5]Szent Húsvét virradt ma reánk, * új, szent Húsvét, * titokzatos Húsvét, * legtiszteltebb Húsvéti Húsvét; * Krisztus a Megváltó. * Szeplőtelen Húsvét, * nagy Húsvét, a hivők Húsvétja. * Húsvét, amely megnyitotta nékünk a Paradicsom kapuit; * Húsvét, amely minden hívőket megszentel.
+[E]Amiként szertefoszlik a füst, úgy oszoljanak széjjel; amiképpen elolvad a viasz a tűz közelségétől.
+Jertek a látványtól * örömet hirdető asszonyok, * és mondjátok a Sionnak: * Fogadd tőlünk az örömhírt Krisztus feltámadásáról. * Gyönyörködj, ujjongj és örvendezz Jeruzsálem, * látva Krisztus Királyt, * aki mint Vőlegény lép ki a sírboltból.
+[E]Úgy vesszenek el a bűnösök az Isten színe elől, és az igazak örvendezzenek.
+A kenethozó asszonyok kora hajnalban * az Életetadó sírjához közeledve * angyalt találtak ott a sírkövön ülve, * aki megszólítván őket, * így beszélt hozzájuk: * Mit keresitek az Élőt a halottak között? * Miért siratjátok az Enyészhetetlent, * mintha az enyészetben volna? * Elmenvén vigyétek a hírt az Ő tanítványainak.
+[E]Ez a nap, amelyet alkotott az Úr; vigadjunk és örvendezzünk benne.
+Gyönyörűséges Húsvét! * Húsvét, az Úrnak Húsvétja! * Legtiszteltebb Húsvét virradt reánk! * Örömmel öleljük meg egymást! * Húsvét, a bánat megváltása! * Mert a mai napon Krisztus, * feltámadván a sírból, * örömmel töltötte el az asszonyokat, mondván: * Vigyétek a hírt az apostoloknak.
+[D][T8]Amikor a földön megjelentél * mondhatatlan gondviselésedben, Krisztus Istenünk, * meghallván a szamariai asszony emberszerető beszédedet, * otthagyta a vedrét a forrásnál, * és elfutott így szólva a városbelieknek: * Jertek, lássátok a szívek Ismerőjét! * Hátha Ő a Krisztus, akit várunk, * és akié a nagy irgalom.
+[M][T5]Feltámadás napja van, * örvendezzünk az ünnepélynek, * és öleljük meg egymást! * Szóljunk: Testvérek! * azokhoz is, kik gyűlölnek minket; * bocsássunk meg mindent a feltámadásért, és így kiáltsunk: * Krisztus feltámadt halottaiból, * halállal eltiporván a halált, * és a sírban lévőknek * életet ajándékozván.
 [/]
 [TRP]
+[T8]Az ünnepi időszak közepén * itasd meg a szomjazó lelkemet * az istenfélelemnek vizével, * mert megmondtad mindeneknek, Üdvözítő: * Aki szomjuhozik, jöjjön Énhozzám és igyék. * Életnek Forrása, Krisztus Isten, dicsőség Néked.
+[T5]Krisztus feltámadt halottaiból, * halállal eltiporván a halált, * és a sírban lévőknek * életet ajándékozván.
 [//]
 [Blind Man]
 [LIC]

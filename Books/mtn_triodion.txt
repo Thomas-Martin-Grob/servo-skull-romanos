@@ -630,7 +630,70 @@ Katavaszia: Tündökölj, tündökölj, Új Jeruzsálem; * mert az Úr dicsősé
 [D][T8]Az inaszakadtat, Uram, * nem a fürdő, hanem a te igéd gyógyította meg * és a hosszas betegség nem akadályozhatta meg, * hogy szavad ereje be ne teljesedjék, * és ő a betegség súlyát le ne vesse * s ágyának terhét el ne bírja, * a te véghetetlen irgalmasságod bizonyságára. * Dicsőség néked!
 [//]
 [Samaritan Woman]
-
+[OD1]
+[T1]Tisztítsuk meg érzékeinket, és lássuk meg Krisztust, aki a feltámadás elérhetetlen fényében tündököl, és halljuk meg Őt, amint derűsen ezt mondja nékünk, kik győzedelmi éneket énekelünk: Örvendezzetek!
+[M]A mennyek méltóképpen örvendezzenek, a föld pedig vigadjon, ünnepeljen az egész látható és láthatatlan világomért feltámadt Krisztus, az örökkévaló örvendezés.
+Katavaszia: Feltámadás napja van, örvendezzünk népek! * Húsvét van, az Úrnak Húsvétja! * Mert a halálból az életbe, * és a földről az égbe, vezetett át Krisztus Isten minket, * kik győzedelmi éneket énekelünk.
+[/]
+[OD3]
+[T1]Most minden megtelt világossággal: az ég és a föld és az alvilág; ünnepelje hát az egész teremtés, a Krisztus feltámadását, amelyben megérősíttetett.
+[M]Tegnap Veled együtt eltemetkeztem ó Krisztus, ma Veled a Feltámadottal együtt feltámadok; keresztrefeszíttettem Veled tegnap, Temagad dicsőíts meg engem is, Üdvözítő, a Te Országodban.
+Katavaszia: Irmosz: Jertek új italt igyunk, * ne a terméketlen kőből elővarázsoltat, * hanem az enyészhetetlenség forrását, * amely Krisztus sírjából fakad, * akiben megerősíttetünk.
+[/]
+[KTH]
+[T4]Örvendezzék az ég, * ujjongjanak a földiek, * mert megjelent a Szűztől Krisztus mint Ember, * és a halálával megmentett az enyészettől minden emberit; * és csodákban tündökölve a szamáriai asszony előtt, * vizet kérve megadja a gyógyulás forrását, * mint egyedül Halhatatlan.
+[M][T4]Bölcseségnek Adományozója és Uralkodó, * a törvényes ünnep eljövetelekor * a templomban ülve tanítottál, * így beszélve mindenekhez: * Jöjjetek ti szomjúhozók, * igyatok a vízből, melyet én most nyújtok, * amelytől az istenes életnek és gyönyörnek élvezői lesztek, * ti emberek mindannyian.
+[/]
+[OD4]
+[T1]Fiúgyermeknek neveztetett Krisztus, mert megnyitotta a szüzi méhet; mint halandó Báránynak szólíttatott; Feddhetetlennek pedig mint mentes a szennyfolttól, a mi Húsvétunk; és mint igaz Isten, Tökéletesnek mondatott.
+Mint az esztendős bárány, áldoztatott fel önként mindnyájunkért, a mi áldott ékes koszorúnk, a megtisztító Húsvét; és a sírból tüstént felragyogott nékünk, az igazság szépséges Napvilága.
+[M]Az istenős Dávid, az árnyékszerű frígyszekrény előtt, ujjongva ugrándozott; mi pedig mint Istennek szent népe, látva a jelképek eredményét, istenesen örvendezzünk, mert feltámadt Krisztus, mint Mindenható.
+Katavaszia: Az isteni vártán, * az istenhirdető Habakuk álljon velünk, * és mutassa meg a fény thozó angyalt, * aki lángolóan hirdeti: * A mai nap üdvösséget hoz a világnak, * mert feltámadt Krisztus, mint Mindenható.
+[/]
+[OD5]
+[T1]Mérhetetlen könyörületedet látván, az alvilág mégkötözött rabjai, a Világosság felé közeledtek Krisztus, örvendezve és ünnepelve, az örökkévaló Húsvétot.
+[M]Fáklyával járuljunk, a sírból kilépő Krisztus élé; mint Vőlegényt fogadjuk, s az ünneplő seregekkel együtt ünnepeljük, Istennek üdvözítő Húsvétját.
+Katavaszia: Kora hajnalban hajnalodjunk, * és illóolaj helyett dicsérőéneket, * ajánljunk fel az Úrnak, * és lássuk meg Krisztust, * az igazságosság Napját, * ki életet fakaszt mindeneknek.
+[/]
+[OD6]
+[T1]A pecséteket sértetlenül hagyva, feltámadtál a sírból ó Krisztus, aki a Szűz zárját, születéseddel meg nem bontottad, és megnyitottad nekünk a Paradicsom kapuit.
+[M]Üdvözítőm, éltető és áldozhatatlan Áldozat, aki mint Isten, önként mutattad be áldozatul, magadat az Atyának, Ádámot is épségben feltámasztottad, midőn feltámadtál a sírból.
+Katavaszia: Leszállottál a földnek legalsó részébe ó Krisztus, * és összezúztad az örökös korlátokat, * amelyek elzárták az ott szenvedőket, * s harmadnapra mint Jónás a cetből, * feltámadtál a sírból.
+[/]
+[KNT]
+[T8]Hittel járult a forráshoz a szamariai asszony, * és meglátott Téged, a Bölcseség Vizét, * amelyből is bőségesen részesült, * s a fentrőlvaló Országot választotta, mindörökre a boldog.
+[/]
+[IKS]
+Hallgassuk meg a tisztaságos titkokat, miként tanít minket János, mi történt Szamariában: hogyan szólott az Úr az asszonyhoz, vizet kérve, aki a vizeket a gyűjtőhelyükre egybegyűjtötte, s aki együtt uralkodik az Atyával és a Lélekkel. Mert eljött, hogy megkeresse a saját képmását, mindörökre, mint Áldott.
+[/]
+[OD7]
+[T1]Az istenes asszonyok, kénetekkel Utánad futottak, és miután könnyek között mint halottat kerestek, örvendezve borultak le Előtted, mint Élő Isten előtt, és a titokzatos Húsvétot ó Kriszus, hírül vitték a Te tanítványaidnak.
+A halálnak ünnepeljük halálát, a pokolnak lerontását, és az új örök élet kezdetét, és ujjongva magasztaljuk ennek Okozóját, atyáinknak egyedül áldott és fölöttébb dicsőséges Istenét.
+[M]Valóban mily szent és ünnepélyes, ez az üdvösscges és fényt sugárzó éjszaka, mely előhírnöke a feltámadás tündöklő napjának, amelyen az időtelen Világosság, a sírból testileg, mindeneknek felragyogott.
+Katavaszia: Ki az ifjakat a tüzes kemencéből kiszabadította, * emberré lett s mint halandó szenved, * és szenvedés által a halandót, * az enyészetlenség ékességébe öltözteti, * atyáinknak egyedül áldott és fölöttébb dicsőséges Istene.
+[/]
+[OD8]
+[T1]Jertek részesüljünk a szőlő új terméséből, az isteni örömből, a feltámadás gyönyörű napján, és Krisztusnak Országából, dicsőítve Őt mint Istent mindörökké.
+Emeld körbe szemeidet Sion, és láss; mert íme mint a csillagok, isteni ragyogással jöttek el gyermekeid, napnyugatról és északról és a tenger felől, áldva benned Krisztust mindörökké.
+[M]Mindenható Atya és Ige és Lélek, három tulajdonságban egyesült Természet, mely lényegfeletti és fölöttébb isteni vagy, Benned keresztelkedtünk meg, és Téged áldunk mindörökön örökké.
+Katavaszia: Ez a kiválasztott és szent nap, * a hétnek első napja, * a királynő és úrnő, * az ünnepek ünnepe, * és ünnepélyek ünnepélye, * melyben áldjuk Krisztust mindörökké.
+[/]
+[OD9]
+[T1]Krisztus az Új Húsvét, az élve bemutatott Áldozat, Istennek Fia, aki elveszi a világ bűnét.
+Ó isteni, ó kedves, ó legédesebb beszéded! Mert hamistalanul megígérted Krisztus, hogy velünk leszel a világ végezetéig. Ezt a horgonyát a reménységnek tartva, mi hívők örvendezünk.
+Magasztalja én lelkem a háromtulajdonságú és oszthatatlan Istenség hatalmát.
+Ó nagy és szentséges Pászka, Krisztus! Ó Bölcseség és Isten Igéje és Hatalom! Add nekünk, hogy mindjobban részesüljünk Benned, a Te Országod alkony nélkül való napján.
+[M]Az angyal így kiáltott a Kegyelembefogadotthoz: Tiszta Szűz örvendezz, és újból mondom: örvendezz! Mert a Te Fiad harmadnapra feltámadt a sírból.
+Katavaszia: Tündökölj, tündökölj, Új Jeruzsálem; * mert az Úr dicsősége felvirradt fölötted! * Vigadj most és örvendezz Sion, * te pedig Istennek tiszta Szülője, * gyönyörködj Szülötted feltámadásában.
+[/]
+[EXA]
+[T2]Testileg elszunnyadván mint a halandók, * Urunk és Királyunk, * harmadnapra feltámadtál, * fölemelve az enyészetből Ádámot, * és megsemmisítve a halált, * ó enyészhetetlenség Húsvétja, világ Üdvössége.
+[D][T2]Szamariába érkeztél, mindenható Üdvözítő, * és az asszonnyal beszélve, * vizet kértél tőle inni, * ki a terméskőből fakasztottál vizet a zsidóknak. * A Te hitedre vezérelted őt, * és most az életet élvezi a mennyben mindörökké.
+[M][T2]Az ünnepszak felén eljöttél a templomba, ó Emberszerető, * és így szóltál: * Kiket eltölt a szomjúság, jertek Hozzám és merítsetek, * az élő és folyó Vízből, * amely által mindannyian a halhatatlan élet * gyönyörűségét és kegyelmét élvezitek.
+[/]
+[PRS]
+[T6]Így szól az Úr a szamáriai nőhöz: * Ha ismernéd Isten ajándékát, * és hogy ki Az, aki mondja néked: * adjál vizet innom, * te kérnéd Őt, * s adna néked innod, * hogy soha meg ne szomjazzál; * - mondja az Úr.
+[D][T6]Az életet fakasztó Forrás, * Jézus a mi Üdvözítőnk, * megjelent Jákob ősatya forrásánál, * és vizet kért inni a szamáriai asszonytól. * Mikor pedig amaz megjegyezte, * hogy a zsidók ővelük nem érintkeznek, * a bölcs Teremtő rávezeti őt édes szavaival, * hogy inkább ő kérjen Tőle az örökké élő Vízből, * melyet is elnyerve, mindenkinek hírül vitte, mondván: * Jöjjetek, lássátok a titkoknak Ismerőjét és Istent, * aki testben megjelent, hogy megváltsa az embert.
 [//]
 [Blind Man]
 
