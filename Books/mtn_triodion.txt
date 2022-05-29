@@ -679,10 +679,8 @@ Emeld körbe szemeidet Sion, és láss; mert íme mint a csillagok, isteni ragyo
 Katavaszia: Ez a kiválasztott és szent nap, * a hétnek első napja, * a királynő és úrnő, * az ünnepek ünnepe, * és ünnepélyek ünnepélye, * melyben áldjuk Krisztust mindörökké.
 [/]
 [OD9]
-[T1]Krisztus az Új Húsvét, az élve bemutatott Áldozat, Istennek Fia, aki elveszi a világ bűnét.
-Ó isteni, ó kedves, ó legédesebb beszéded! Mert hamistalanul megígérted Krisztus, hogy velünk leszel a világ végezetéig. Ezt a horgonyát a reménységnek tartva, mi hívők örvendezünk.
-Magasztalja én lelkem a háromtulajdonságú és oszthatatlan Istenség hatalmát.
-Ó nagy és szentséges Pászka, Krisztus! Ó Bölcseség és Isten Igéje és Hatalom! Add nekünk, hogy mindjobban részesüljünk Benned, a Te Országod alkony nélkül való napján.
+[T1]Ó isteni, ó kedves, ó legédesebb beszéded! Mert hamistalanul megígérted Krisztus, hogy velünk leszel a világ végezetéig. Ezt a horgonyát a reménységnek tartva, mi hívők örvendezünk.
+Ó nagy és szentséges Pászka, Krisztus! Ó Bölcsesség és Isten Igéje és Hatalom! Add nekünk, hogy mindjobban részesüljünk Benned, a Te Országod alkony nélkül való napján.
 [M]Az angyal így kiáltott a Kegyelembefogadotthoz: Tiszta Szűz örvendezz, és újból mondom: örvendezz! Mert a Te Fiad harmadnapra feltámadt a sírból.
 Katavaszia: Tündökölj, tündökölj, Új Jeruzsálem; * mert az Úr dicsősége felvirradt fölötted! * Vigadj most és örvendezz Sion, * te pedig Istennek tiszta Szülője, * gyönyörködj Szülötted feltámadásában.
 [/]
@@ -696,7 +694,68 @@ Katavaszia: Tündökölj, tündökölj, Új Jeruzsálem; * mert az Úr dicsősé
 [D][T6]Az életet fakasztó Forrás, * Jézus a mi Üdvözítőnk, * megjelent Jákob ősatya forrásánál, * és vizet kért inni a szamáriai asszonytól. * Mikor pedig amaz megjegyezte, * hogy a zsidók ővelük nem érintkeznek, * a bölcs Teremtő rávezeti őt édes szavaival, * hogy inkább ő kérjen Tőle az örökké élő Vízből, * melyet is elnyerve, mindenkinek hírül vitte, mondván: * Jöjjetek, lássátok a titkoknak Ismerőjét és Istent, * aki testben megjelent, hogy megváltsa az embert.
 [//]
 [Blind Man]
-
+[OD1]
+[T1]Tisztítsuk meg érzékeinket, és lássuk meg Krisztust, aki a feltámadás elérhetetlen fényében tündököl, és halljuk meg Őt, amint derűsen ezt mondja nékünk, kik győzedelmi éneket énekelünk: Örvendezzetek!
+[M]A mennyek méltóképpen örvendezzenek, a föld pedig vigadjon, ünnepeljen az egész látható és láthatatlan világomért feltámadt Krisztus, az örökkévaló örvendezés.
+Katavaszia: Feltámadás napja van, örvendezzünk népek! * Húsvét van, az Úrnak Húsvétja! * Mert a halálból az életbe, * és a földről az égbe, vezetett át Krisztus Isten minket, * kik győzedelmi éneket énekelünk.
+[/]
+[OD3]
+[T1]Most minden megtelt világossággal: az ég és a föld és az alvilág; ünnepelje hát az egész teremtés, a Krisztus feltámadását, amelyben megérősíttetett.
+[M]Tegnap Veled együtt eltemetkeztem ó Krisztus, ma Veled a Feltámadottal együtt feltámadok; keresztrefeszíttettem Veled tegnap, Temagad dicsőíts meg engem is, Üdvözítő, a Te Országodban.
+Katavaszia: Irmosz: Jertek új italt igyunk, * ne a terméketlen kőből elővarázsoltat, * hanem az enyészhetetlenség forrását, * amely Krisztus sírjából fakad, * akiben megerősíttetünk.
+[/]
+[KTH]
+[T8]A mindenek Uralkodója és Alkotója, * az úton jártában egy vakot talált, * ki ott ülve siránkozott és így szólott: * Életemben nem láttam még a ragyogó napvilágot, * sem a fényt sugárzó holdat; * ezért így kiáltok Hozzád: * Aki a Szűztől születtél, * hogy megvilágosítsd a mindenséget, * világosíts meg engem is mint könyörületes, * hogy Előtted leborulva így kiáltsak: * Uralkodó Krisztus Isten, * add meg nékem vétkeim elengedését, * irgalmadnak sokaságáért, * ó egyedülvaló Emberszerető.
+[M][T8]A mindenek Uralkodója és Alkotója, * az úton jártában egy vakot talált, * ki ott ülve siránkozott és így szólott: * Életemben nem láttam még a ragyogó napvilágot, * sem a fényt sugárzó holdat; * ezért így kiáltok Hozzád: * Aki a Szűztől születtél, * hogy megvilágosítsd a mindenséget, * világosíts meg engem is mint könyörületes, * hogy Előtted leborulva így kiáltsak: * Uralkodó Krisztus Isten, * add meg nékem vétkeim elengedését, * irgalmadnak sokaságáért, * ó egyedülvaló Emberszerető.
+[/]
+[OD4]
+[T1]Fiúgyermeknek neveztetett Krisztus, mert megnyitotta a szüzi méhet; mint halandó Báránynak szólíttatott; Feddhetetlennek pedig mint mentes a szennyfolttól, a mi Húsvétunk; és mint igaz Isten, Tökéletesnek mondatott.
+Mint az esztendős bárány, áldoztatott fel önként mindnyájunkért, a mi áldott ékes koszorúnk, a megtisztító Húsvét; és a sírból tüstént felragyogott nékünk, az igazság szépséges Napvilága.
+[M]Az istenős Dávid, az árnyékszerű frígyszekrény előtt, ujjongva ugrándozott; mi pedig mint Istennek szent népe, látva a jelképek eredményét, istenesen örvendezzünk, mert feltámadt Krisztus, mint Mindenható.
+Katavaszia: Az isteni vártán, * az istenhirdető Habakuk álljon velünk, * és mutassa meg a fény thozó angyalt, * aki lángolóan hirdeti: * A mai nap üdvösséget hoz a világnak, * mert feltámadt Krisztus, mint Mindenható.
+[/]
+[OD5]
+[T1]Mérhetetlen könyörületedet látván, az alvilág mégkötözött rabjai, a Világosság felé közeledtek Krisztus, örvendezve és ünnepelve, az örökkévaló Húsvétot.
+[M]Fáklyával járuljunk, a sírból kilépő Krisztus élé; mint Vőlegényt fogadjuk, s az ünneplő seregekkel együtt ünnepeljük, Istennek üdvözítő Húsvétját.
+Katavaszia: Kora hajnalban hajnalodjunk, * és illóolaj helyett dicsérőéneket, * ajánljunk fel az Úrnak, * és lássuk meg Krisztust, * az igazságosság Napját, * ki életet fakaszt mindeneknek.
+[/]
+[OD6]
+[T1]A pecséteket sértetlenül hagyva, feltámadtál a sírból ó Krisztus, aki a Szűz zárját, születéseddel meg nem bontottad, és megnyitottad nekünk a Paradicsom kapuit.
+[M]Üdvözítőm, éltető és áldozhatatlan Áldozat, aki mint Isten, önként mutattad be áldozatul, magadat az Atyának, Ádámot is épségben feltámasztottad, midőn feltámadtál a sírból.
+Katavaszia: Leszállottál a földnek legalsó részébe ó Krisztus, * és összezúztad az örökös korlátokat, * amelyek elzárták az ott szenvedőket, * s harmadnapra mint Jónás a cetből, * feltámadtál a sírból.
+[/]
+[KNT]
+[T8]Lelki szemeimen megvakulva * Hozzád járulok ó Krisztus, * mint a vakonszületett, bűnbánattal így kiáltva Hozzád: * Te vagy a sötétségben lévőknek legragyogóbb Világossága.
+[/]
+[IKS]
+Ajándékozd nékem, Krisztus, az elmondhatatlan bölcsesség s a fentről való tudás árját, ó sötétségben lévők Világossága, és tévelygők Vezérlője, hogy elmondhassam, amit a békesség Evangéliumának isteni könyve tanít, vagyis a vakonszületett emberen történt csodádat. Mert a születésétől fogva világtalan, érzékelő és lelki szemeket kapott, s hittel így kiáltott: Te vagy a sötétségben lévőknek legragyogóbb Világossága.
+[/]
+[OD7]
+[T1]Az istenes asszonyok, kénetekkel Utánad futottak, és miután könnyek között mint halottat kerestek, örvendezve borultak le Előtted, mint Élő Isten előtt, és a titokzatos Húsvétot ó Kriszus, hírül vitték a Te tanítványaidnak.
+A halálnak ünnepeljük halálát, a pokolnak lerontását, és az új örök élet kezdetét, és ujjongva magasztaljuk ennek Okozóját, atyáinknak egyedül áldott és fölöttébb dicsőséges Istenét.
+[M]Valóban mily szent és ünnepélyes, ez az üdvösscges és fényt sugárzó éjszaka, mely előhírnöke a feltámadás tündöklő napjának, amelyen az időtelen Világosság, a sírból testileg, mindeneknek felragyogott.
+Katavaszia: Ki az ifjakat a tüzes kemencéből kiszabadította, * emberré lett s mint halandó szenved, * és szenvedés által a halandót, * az enyészetlenség ékességébe öltözteti, * atyáinknak egyedül áldott és fölöttébb dicsőséges Istene.
+[/]
+[OD8]
+[T1]Jertek részesüljünk a szőlő új terméséből, az isteni örömből, a feltámadás gyönyörű napján, és Krisztusnak Országából, dicsőítve Őt mint Istent mindörökké.
+Emeld körbe szemeidet Sion, és láss; mert íme mint a csillagok, isteni ragyogással jöttek el gyermekeid, napnyugatról és északról és a tenger felől, áldva benned Krisztust mindörökké.
+[M]Mindenható Atya és Ige és Lélek, három tulajdonságban egyesült Természet, mely lényegfeletti és fölöttébb isteni vagy, Benned keresztelkedtünk meg, és Téged áldunk mindörökön örökké.
+Katavaszia: Ez a kiválasztott és szent nap, * a hétnek első napja, * a királynő és úrnő, * az ünnepek ünnepe, * és ünnepélyek ünnepélye, * melyben áldjuk Krisztust mindörökké.
+[/]
+[OD9]
+[T1]Ó isteni, ó kedves, ó legédesebb beszéded! Mert hamistalanul megígérted Krisztus, hogy velünk leszel a világ végezetéig. Ezt a horgonyát a reménységnek tartva, mi hívők örvendezünk.
+Ó nagy és szentséges Pászka, Krisztus! Ó Bölcsesség és Isten Igéje és Hatalom! Add nekünk, hogy mindjobban részesüljünk Benned, a Te Országod alkony nélkül való napján.
+[M]Az angyal így kiáltott a Kegyelembefogadotthoz: Tiszta Szűz örvendezz, és újból mondom: örvendezz! Mert a Te Fiad harmadnapra feltámadt a sírból.
+Katavaszia: Tündökölj, tündökölj, Új Jeruzsálem; * mert az Úr dicsősége felvirradt fölötted! * Vigadj most és örvendezz Sion, * te pedig Istennek tiszta Szülője, * gyönyörködj Szülötted feltámadásában.
+[/]
+[EXA]
+[T2]Testileg elszunnyadván mint a halandók, * Urunk és Királyunk, * harmadnapra feltámadtál * fölemelve az enyészetből Ádámot, * és megsemmisítve a halált, * ó enyészhetetlenség Húsvétja, világ Üdvössége.
+[D][T2]A sötét bűntől megvakult lelki szemeimet, * Te világosítsd meg Uram, * alázatot adva nékem, ó Irgalmas, * és megmosva engem a bűnbánat könnyeivel.
+[M][T2]Jártában az Üdvözítőnk * talált egy világtalan vak embert; * földre köpve sarat gyúrt és megkente őt, * és elküldte Siloámba, * hogy menjen és ott megmosakodjék; * az pedig megmosdván eljött, * és látta a Te világosságodat Krisztusom.
+[/]
+[PRS]
+[T5]Irgalmas jószívűséggel megtestesült Krisztus Isten, * az anyja méhétől világtalan embert * mondhatatlan könyörületednek kegyelmével * az isteni fényességedre méltattad * sarat kenve szemeire alkotói ujjaiddal. * Temagad, ó világosság Adományozója, * világosítsd meg most a mi lelkünk érzékeit is * mint egyedül bőségesen Adakozó.
+[D][T5]Ki beszélhetné el a Te hatalmadat, Krisztus? * Vagy ki sorolhatná el csodáid sokaságát? * Mert jóságodért a földön kettős módon jelentél meg, * és a betegeknek is kétszeres gyógyulást nyújtottál: * nem csak testi szemeit nyitottad meg az anyja méhétől világtalannak, * hanem a lelkieket is; * azért testben rejlő Istennek vallott meg Téged, * ki megadod mindeneknek a nagy irgalmat.
 [//]
 [Nicene Fathers]
 
