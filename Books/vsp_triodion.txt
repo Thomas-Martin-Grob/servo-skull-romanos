@@ -248,7 +248,7 @@ Gyönyörűséges Húsvét! * Húsvét, az Úrnak Húsvétja! * Legtiszteltebb H
 [APO]
 [/]
 [TRP]
-[T5]Krisztus feltámadt halottaiból, * halállal eltiporván a halált, * és a sírban lévőknek * életet ajándékozván.
+
 [//]
 [Pentecost]
 [LIC]
@@ -259,8 +259,17 @@ Gyönyörűséges Húsvét! * Húsvét, az Úrnak Húsvétja! * Legtiszteltebb H
 [//]
 [All Saints]
 [LIC]
+[T6]A lelki szónokok, az Üdvözítő tanítványai, * a hit által a Léleknek lévén eszközei, * szétszéledtek a föld határáig, * a szent hithirdetést igazhitű módon vetve; * belőlük sarjadtak isteni gondozás és kegyelem által * a vértanúk seregei, * akik a szent kínszenvedéseket ábrázolják, * a korbáccsal és tűzzel való sokféle kínoztatás által, * és bizodalommal járnak közre a mi lelkünkért.
+Az Úr szerelmének tüzétől lángolva * megvetették a tüzet a tisztaságos vértanúk, * és mint égő isteni parazsak a Krisztusban, * elégették a tévelygés könnyen gyúló kevélységét; * bölcs fohászaikkal befogták a vadállatok száját, * és lefejeztetvén leölték az ellenségnek minden seregeit; * és a vérnek patakjait állhatatosan folyatva * megöntözték a hit által tündöklő Egyházat.
+Vadállatokkal birkóztak, * kardélre hányattak, * vaskörmökkel szaggattattak, * karjukon megcsonkíttattak, * és a kínpadra húzattak * az állhatatos vértanúk; * de az égő tűzben kíméletlenül égetve, * és átdöfve s darabokra szabdalva is, * fölöttébb szilárdak voltak, * előre látva a jövendő osztályrészüket, * és a dicső koszorúkat, és Krisztusnak dicsőségét, * akinél bizodalommal járnak közre a mi lelkünkért.
+A föld minden végein hűséggel küzdött apostolokat, * vértanúkat, istenes papokat és szent asszonyokat, * ezt a szent gyülekezetei szent énekkel * kötelesség szerint magasztaljuk; * mert összefonódtak bennük a mennyeiekkel a földiek, * és szenvedésükkel, Krisztusnak kegyelme által * elnyerték a sérthetetlenséget; * és most mint fényes csillagok bennünket körülragyogva, * bizodalommal járnak közre a mi lelkünkért.
+[D][T6]Vértanúk istenes kara, * az Egyháznak alapzata, * az Evangélium beteljesedése, * ti tettel vittétek véghez a Megváltó parancsait. * Általatok az alvilág kapui, * amelyek az Egyház felé tárva voltak, bezárultak; * a Ti véretek hullása a bálványáldozatokat elsorvasztotta; * a Ti leölésetek szülte a hívőknek sokaságát. * A Testnélkülieket ámulatra ragadtátok; * Isten színe előtt koszorút viselve álltok; * Őelőtte szüntelenül jártok közre a mi lelkünkért.
+[M][T8]A Mennyek Királya emberszeretetből megjelent a földön, * és emberek közt lakozott, * mert a tiszta Szűztől testet véve, * s a vétellel Őtőle származván, egy Fiú Ő, * aki természete szerint kettős, * de nem a tulajdonsága szerint; * ezért Őt igazán tökéletes Istennek és tökéletes Embernek hirdetve, * megvalljuk a Krisztust, a mi Istenünket, * akihez is esedezzél érintetlen Anya, * hogy irgalmazzon a mi lelkünknek.
 [/]
 [APO]
+[D][T6]Jertek hivők, ma énekkart alkotva * áhítattal ünnepeljünk, * és a minden szentek dicsőséges és tiszta emlékét * dicsőítve tiszteljük ezt mondván: * Örvendjetek dicsőséges apostolok, * próféták, vértanúk és főpapok, * örvendezz szenteknek és igazaknak serege, * örvendezz tisztes asszonyoknak gyülekezete. * Járjatok közre a világért Krisztusnál, * hogy adjon győzelmet az igazhitű keresztényeknek * az ellenségek fölött, * és a mi lelkünknek a nagy irgalmat.
+[M][T6]Alkotóm és Megváltóm, az Úr Krisztus, * a Te méhedből születvén ó Tisztaságos, * és engem felöltve, * megszabadította Ádámot az egykori átoktól. * Ezért Néked Tisztaságos, * mint Isten Anyjának és valóban Szűznek, * szüntelenül kiáltjuk az angyal köszöntését: * Örvendezz Nagyasszony, * védelmezőnk és oltalmunk, és lelkünknek üdvössége.
 [/]
 [TRP]
+[T4]A világon szerte elhullt vértanúid vérével, * mint bíborral és selyemmel felékesített Egyházad, * így kiált általuk Hozzád, Krisztus Isten: * Áraszd könyörületedet a Te népedre, * ajándékozz békét népességednek, * és a mi lelkünknek a nagy irgalmat.
 [//]
